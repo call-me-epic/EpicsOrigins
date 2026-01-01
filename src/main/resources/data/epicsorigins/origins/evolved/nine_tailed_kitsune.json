@@ -1,0 +1,16 @@
+{
+  "powers": [
+    "epicsorigins:kitsune/fox_transformation",
+    "epicsorigins:evolved/nine_tailed_kitsune/secondary_ability",
+    "epicsorigins:evolved/nine_tailed_kitsune/health",
+    "epicsorigins:evolved/nine_tailed_kitsune/speed",
+    "epicsorigins:kitsune/wolf_fear",
+    "epicsorigins:kitsune/look"
+  ],
+  "icon": {
+    "item": "minecraft:orange_dye"
+  },
+  "order": 3,
+  "impact": 2,
+  "unchoosable": true
+}

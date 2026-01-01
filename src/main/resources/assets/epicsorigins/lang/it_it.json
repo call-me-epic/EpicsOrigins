@@ -1,0 +1,236 @@
+{
+
+  "advancement.end.draconic_evolution.title": "Evoluzione draconica",
+
+  "advancement.end.draconic_evolution.description": "Usa la sfera dell'evoluzione",
+
+  "message.epicsorigins.no_further_upgrades": "La tua origine non ha ulteriori evoluzioni",
+
+  "category.epicsorigins": "Le origini dell'epica",
+
+  "key.epicsorigins.change_look": "Cambia aspetto",
+
+  "effect.epicsorigins.charm": "Fascino",
+
+  "item.epicsorigins.orb_of_evolution": "Sfera dell'evoluzione",
+
+  "origin.epicsorigins.human.name": "Umano",
+
+  "origin.epicsorigins.human.description": "Un essere umano normale. La tua normale esperienza di Minecraft ti aspetta.",
+
+  "origin.epicsorigins.slime.name": "Melma",
+
+  "origin.epicsorigins.slime.description": "Quindi ora sei elastico",
+
+  "origin.epicsorigins.fairy.name": "Fata",
+
+  "origin.epicsorigins.fairy.description": "Razza di piccoli umani con le ali",
+
+  "origin.epicsorigins.mermaid.name": "Sirena",
+
+  "origin.epicsorigins.mermaid.description": "Le sirene sono creature mitiche con volti umani e code di pesce",
+
+  "origin.epicsorigins.demon.name": "Demone",
+
+  "origin.epicsorigins.demon.description": "Sei stato bandito nel Nether per i tuoi peccati, ma con alcuni vantaggi",
+
+  "origin.epicsorigins.kitsune.name": "volpe",
+
+  "origin.epicsorigins.kitsune.description": "I Kitsune sono un'antica razza di volpi con la capacità di trasformarsi in forma umana",
+
+  "origin.epicsorigins.evolved/super_human.name": "Superumano",
+
+  "origin.epicsorigins.evolved/super_human.description": "Non un essere umano normale. La tua stessa esperienza Minecraft ti aspetta.",
+
+  "origin.epicsorigins.evolved/slime_king.name": "Re della melma",
+
+  "origin.epicsorigins.evolved/slime_king.description": "Ti sei evoluto in un re degli slime",
+
+  "origin.epicsorigins.evolved/angel.name": "Angelo",
+
+  "origin.epicsorigins.evolved/angel.description": "Ti sei evoluto in una razza divina dotata di ali e poteri sacri",
+
+  "origin.epicsorigins.evolved/oceanid.name": "Oceanide",
+
+  "origin.epicsorigins.evolved/oceanid.description": "Ti sei evoluto in uno spirito dell'acqua che può controllare l'acqua",
+
+  "origin.epicsorigins.evolved/asura.name": "Asura",
+
+  "origin.epicsorigins.evolved/asura.description": "Ti sei evoluto in un demone del fuoco",
+
+  "origin.epicsorigins.evolved/nine_tailed_kitsune.name": "Kitsune a nove code",
+
+  "origin.epicsorigins.evolved/nine_tailed_kitsune.description": "Ti sei evoluto in una versione precedente di kitsune. I tuoi poteri sono aumentati",
+
+  "power.epicsorigins.slime/no_kinetic_damage.name": "Corpo rimbalzante",
+
+  "power.epicsorigins.slime/no_kinetic_damage.description": "Non subisci danni cadendo e volando contro i muri",
+
+  "power.epicsorigins.slime/movement.name": "Movimento della melma",
+
+  "power.epicsorigins.slime/movement.description": "Salti dal pavimento come da blocchi di melma",
+
+  "power.epicsorigins.slime/color.name": "7 colori di gelatina",
+
+  "power.epicsorigins.slime/color.description": "Puoi cambiare colore o rimuoverlo quando vuoi",
+
+  "power.epicsorigins.slime/health.name": "Grande melma",
+
+  "power.epicsorigins.slime/health.description": "Ora hai 16 punti salute come una grande melma",
+
+  "power.epicsorigins.fairy/flight.name": "Ali",
+
+  "power.epicsorigins.fairy/flight.description": "Puoi volare ma solo per 5 secondi",
+
+  "power.epicsorigins.fairy/health.name": "Piccola salute",
+
+  "power.epicsorigins.fairy/health.description": "Hai solo 8 punti salute",
+
+  "power.epicsorigins.fairy/size.name": "Piccola dimensione",
+
+  "power.epicsorigins.fairy/size.description": "Sei solo piccolo (funziona solo con pehkui)",
+
+  "power.epicsorigins.fairy/weakness.name": "Mani deboli",
+
+  "power.epicsorigins.fairy/weakness.description": "Il tuo danno è diviso per 3",
+
+  "power.epicsorigins.fairy/regeneration.name": "Sangue magico",
+
+  "power.epicsorigins.fairy/regeneration.description": "Hai una rigenerazione naturale",
+
+  "power.epicsorigins.fairy/look.name": "Lo sguardo della fata",
+
+  "power.epicsorigins.fairy/look.description": "Hai le ali sulla schiena",
+
+  "power.epicsorigins.mermaid/swim_speed.name": "Buon nuotatore",
+
+  "power.epicsorigins.mermaid/swim_speed.description": "La tua velocità di nuoto è notevolmente aumentata",
+
+  "power.epicsorigins.mermaid/weakness.name": "Mal di terra",
+
+  "power.epicsorigins.mermaid/weakness.description": "Diventi più lento e più debole quando esci dall'acqua",
+
+  "power.epicsorigins.mermaid/look.name": "Lo sguardo della sirena",
+
+  "power.epicsorigins.mermaid/look.description": "Hai una coda di pesce senza gambe",
+
+  "power.epicsorigins.demon/armor.name": "Sangue maledetto",
+
+  "power.epicsorigins.demon/armor.description": "Hai una difesa in più",
+
+  "power.epicsorigins.demon/look.name": "Sguardo demoniaco",
+
+  "power.epicsorigins.demon/look.description": "Hai corna e coda da demone",
+
+  "power.epicsorigins.kitsune/health.name": "Salute della coda",
+
+  "power.epicsorigins.kitsune/health.description": "La tua salute aumenta di 1 cuore",
+
+  "power.epicsorigins.kitsune/speed.name": "Maggiore velocità",
+
+  "power.epicsorigins.kitsune/speed.description": "Hai 1,5 velocità in più",
+
+  "power.epicsorigins.kitsune/fox_transformation.name": "Aspetto della volpe",
+
+  "power.epicsorigins.kitsune/fox_transformation.description": "Puoi trasformarti in una volpe e tornare alla tua forma umana",
+
+  "power.epicsorigins.kitsune/wolf_fear.name": "Paura del lupo",
+
+  "power.epicsorigins.kitsune/wolf_fear.description": "I lupi ti attaccheranno sempre e ti indebolisci vicino a loro",
+
+  "power.epicsorigins.kitsune/look.name": "Lo sguardo di Kitsune",
+
+  "power.epicsorigins.kitsune/look.description": "Hai una coda e orecchie di volpe",
+
+  "power.epicsorigins.evolved/super_human/primary_ability.name": "Secondo respiro",
+
+  "power.epicsorigins.evolved/super_human/primary_ability.description": "Ripristina la piena salute, la fame e cancelli tutti i tuoi effetti",
+
+  "power.epicsorigins.evolved/slime_king/primary_ability.name": "Proiettili di melma",
+
+  "power.epicsorigins.evolved/slime_king/primary_ability.description": "Spari 5 palline di melma che infliggono 2 danni",
+
+  "power.epicsorigins.evolved/slime_king/secondary_ability.name": "IL SALTO",
+
+  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "Salti molto in alto e lasci un'area che infligge danni sotto di te",
+
+  "power.epicsorigins.evolved/slime_king/health.name": "Melma ancora più grande",
+
+  "power.epicsorigins.evolved/slime_king/health.description": "Ora hai 14 cuori",
+
+  "power.epicsorigins.evolved/slime_king/color.name": "7 colori di gelatina",
+
+  "power.epicsorigins.evolved/slime_king/color.description": "Puoi cambiare colore o rimuoverlo quando vuoi",
+
+  "power.epicsorigins.evolved/angel/primary_ability.name": "Purificare",
+
+  "power.epicsorigins.evolved/angel/primary_ability.description": "Elimini tutti gli effetti da te e dai giocatori vicini",
+
+  "power.epicsorigins.evolved/angel/secondary_ability.name": "Salute extra",
+
+  "power.epicsorigins.evolved/angel/secondary_ability.description": "Puoi ottenere 8 cuori aggiuntivi per un minuto",
+
+  "power.epicsorigins.evolved/angel/flight.name": "Volo",
+
+  "power.epicsorigins.evolved/angel/flight.description": "Puoi volare all'infinito",
+
+  "power.epicsorigins.evolved/angel/regeneration.name": "Santo sangue",
+
+  "power.epicsorigins.evolved/angel/regeneration.description": "Hai una rigenerazione molto veloce",
+
+  "power.epicsorigins.evolved/angel/undead_damage.name": "Arma sacra",
+
+  "power.epicsorigins.evolved/angel/undead_damage.description": "Infliggi 2 volte più danni ai mob non morti",
+
+  "power.epicsorigins.evolved/angel/look.name": "Sguardo angelico",
+
+  "power.epicsorigins.evolved/angel/look.description": "Hai delle bellissime ali bianche",
+
+  "power.epicsorigins.evolved/oceanid/primary_ability.name": "Serenata",
+
+  "power.epicsorigins.evolved/oceanid/primary_ability.description": "Canti una bellissima canzone e i mob intorno a te diventano neutrali",
+
+  "power.epicsorigins.evolved/oceanid/secondary_ability.name": "Controllo del tempo",
+
+  "power.epicsorigins.evolved/oceanid/secondary_ability.description": "Puoi cambiare il tempo in pioggia o cancellare il tempo se piove",
+
+  "power.epicsorigins.evolved/oceanid/long_breathing.name": "Respirazione lunga",
+
+  "power.epicsorigins.evolved/oceanid/long_breathing.description": "Puoi rimanere in aria molto più a lungo",
+
+  "power.epicsorigins.evolved/oceanid/color.name": "Apparizione dello spirito",
+
+  "power.epicsorigins.evolved/oceanid/color.description": "Sembri uno spirito dell'acqua blu",
+
+  "power.epicsorigins.evolved/asura/primary_ability.name": "Rabbia bruciante",
+
+  "power.epicsorigins.evolved/asura/primary_ability.description": "Ti dai fuoco e diventi meno suscettibile ai danni",
+
+  "power.epicsorigins.evolved/asura/secondary_ability.name": "Aura di fuoco",
+
+  "power.epicsorigins.evolved/asura/secondary_ability.description": "Tutte le entità vicine subiranno danni da fuoco per un certo periodo",
+
+  "power.epicsorigins.evolved/asura/armor.name": "Sangue di fuoco",
+
+  "power.epicsorigins.evolved/asura/armor.description": "Hai una difesa extra di 8",
+
+  "power.epicsorigins.evolved/asura/burning_wrath.name": "Ira ardente",
+
+  "power.epicsorigins.evolved/asura/burning_wrath.description": "Quando sei nel fuoco, infliggi 1,5 volte più danni",
+
+  "power.epicsorigins.evolved/asura/look.name": "Sguardo focoso",
+
+  "power.epicsorigins.evolved/asura/look.description": "Hai le corna e la coda coperte di fuoco",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/health.name": "Più croce, più cuore",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/health.description": "Ti sono cresciute 9 code, quindi anche la tua salute è aumentata di 9 cuori",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/speed.name": "Veloce come il suono",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/speed.description": "Sei 2 volte più veloce degli umani normali",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/secondary_ability.name": "Illusione della volpe",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/secondary_ability.description": "Scompari in un'illusione e indebolisci tutte le entità nel raggio di 6 blocchi"
+}

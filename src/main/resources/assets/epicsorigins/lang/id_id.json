@@ -1,0 +1,236 @@
+{
+
+  "advancement.end.draconic_evolution.title": "Evolusi Drakonik",
+
+  "advancement.end.draconic_evolution.description": "Gunakan bola evolusi",
+
+  "message.epicsorigins.no_further_upgrades": "Asal usul Anda tidak memiliki evolusi lebih lanjut",
+
+  "category.epicsorigins": "Asal usul epik",
+
+  "key.epicsorigins.change_look": "Ubah tampilan",
+
+  "effect.epicsorigins.charm": "Pesona",
+
+  "item.epicsorigins.orb_of_evolution": "Bola evolusi",
+
+  "origin.epicsorigins.human.name": "Manusia",
+
+  "origin.epicsorigins.human.description": "Manusia biasa. Pengalaman Minecraft biasa Anda menanti.",
+
+  "origin.epicsorigins.slime.name": "Lendir",
+
+  "origin.epicsorigins.slime.description": "Jadi, sekarang kamu goyang",
+
+  "origin.epicsorigins.fairy.name": "Peri",
+
+  "origin.epicsorigins.fairy.description": "Ras manusia kecil bersayap",
+
+  "origin.epicsorigins.mermaid.name": "Putri duyung",
+
+  "origin.epicsorigins.mermaid.description": "Putri duyung adalah makhluk mitos dengan wajah manusia dan ekor ikan",
+
+  "origin.epicsorigins.demon.name": "Setan",
+
+  "origin.epicsorigins.demon.description": "Anda dibuang ke Nether karena dosa-dosa Anda, tetapi dengan beberapa keuntungan",
+
+  "origin.epicsorigins.kitsune.name": "rubah",
+
+  "origin.epicsorigins.kitsune.description": "Kitsune adalah ras rubah purba yang memiliki kemampuan berubah menjadi manusia",
+
+  "origin.epicsorigins.evolved/super_human.name": "Manusia super",
+
+  "origin.epicsorigins.evolved/super_human.description": "Bukan manusia biasa. Pengalaman Minecraft Anda yang sama menanti.",
+
+  "origin.epicsorigins.evolved/slime_king.name": "Raja Lendir",
+
+  "origin.epicsorigins.evolved/slime_king.description": "Anda berevolusi menjadi raja slime",
+
+  "origin.epicsorigins.evolved/angel.name": "Malaikat",
+
+  "origin.epicsorigins.evolved/angel.description": "Anda berevolusi menjadi ras dewa dengan sayap dan kekuatan suci",
+
+  "origin.epicsorigins.evolved/oceanid.name": "samudera",
+
+  "origin.epicsorigins.evolved/oceanid.description": "Anda berevolusi menjadi roh air yang dapat mengendalikan air",
+
+  "origin.epicsorigins.evolved/asura.name": "Asura",
+
+  "origin.epicsorigins.evolved/asura.description": "Anda berevolusi menjadi iblis api",
+
+  "origin.epicsorigins.evolved/nine_tailed_kitsune.name": "Kitsune berekor sembilan",
+
+  "origin.epicsorigins.evolved/nine_tailed_kitsune.description": "Anda berevolusi menjadi kitsune versi lama. Kekuatanmu meningkat",
+
+  "power.epicsorigins.slime/no_kinetic_damage.name": "Tubuh goyang",
+
+  "power.epicsorigins.slime/no_kinetic_damage.description": "Anda tidak menerima kerusakan karena terjatuh dan terbang ke dinding",
+
+  "power.epicsorigins.slime/movement.name": "Gerakan lendir",
+
+  "power.epicsorigins.slime/movement.description": "Anda melompat dari lantai seperti dari balok slime",
+
+  "power.epicsorigins.slime/color.name": "7 warna jeli",
+
+  "power.epicsorigins.slime/color.description": "Anda dapat mengubah warna atau menghapusnya kapan pun Anda mau",
+
+  "power.epicsorigins.slime/health.name": "Lendir besar",
+
+  "power.epicsorigins.slime/health.description": "Sekarang Anda memiliki 16 kesehatan seperti slime besar",
+
+  "power.epicsorigins.fairy/flight.name": "Sayap",
+
+  "power.epicsorigins.fairy/flight.description": "Anda bisa terbang tetapi hanya selama 5 detik",
+
+  "power.epicsorigins.fairy/health.name": "Kesehatan kecil",
+
+  "power.epicsorigins.fairy/health.description": "Anda hanya memiliki 8 kesehatan",
+
+  "power.epicsorigins.fairy/size.name": "Ukuran kecil",
+
+  "power.epicsorigins.fairy/size.description": "Kamu hanya kecil (hanya bekerja dengan pehkui)",
+
+  "power.epicsorigins.fairy/weakness.name": "Tangan yang lemah",
+
+  "power.epicsorigins.fairy/weakness.description": "Kerusakan Anda dibagi 3",
+
+  "power.epicsorigins.fairy/regeneration.name": "Darah ajaib",
+
+  "power.epicsorigins.fairy/regeneration.description": "Anda memiliki regenerasi alami",
+
+  "power.epicsorigins.fairy/look.name": "Penampilan peri",
+
+  "power.epicsorigins.fairy/look.description": "Anda memiliki sayap di punggung Anda",
+
+  "power.epicsorigins.mermaid/swim_speed.name": "Perenang yang baik",
+
+  "power.epicsorigins.mermaid/swim_speed.description": "Kecepatan berenang Anda meningkat pesat",
+
+  "power.epicsorigins.mermaid/weakness.name": "Mabuk tanah",
+
+  "power.epicsorigins.mermaid/weakness.description": "Anda menjadi lebih lambat dan lemah saat keluar dari air",
+
+  "power.epicsorigins.mermaid/look.name": "Penampilan putri duyung",
+
+  "power.epicsorigins.mermaid/look.description": "Anda memiliki ekor ikan tanpa kaki",
+
+  "power.epicsorigins.demon/armor.name": "Darah terkutuk",
+
+  "power.epicsorigins.demon/armor.description": "Anda memiliki pertahanan ekstra",
+
+  "power.epicsorigins.demon/look.name": "Penampilan setan",
+
+  "power.epicsorigins.demon/look.description": "Anda memiliki tanduk dan ekor setan",
+
+  "power.epicsorigins.kitsune/health.name": "Kesehatan ekor",
+
+  "power.epicsorigins.kitsune/health.description": "Kesehatan Anda meningkat sebesar 1 hati",
+
+  "power.epicsorigins.kitsune/speed.name": "Kecepatan lebih tinggi",
+
+  "power.epicsorigins.kitsune/speed.description": "Anda memiliki kecepatan 1,5 lebih tinggi",
+
+  "power.epicsorigins.kitsune/fox_transformation.name": "Penampilan rubah",
+
+  "power.epicsorigins.kitsune/fox_transformation.description": "Anda bisa berubah menjadi rubah dan kembali ke bentuk manusia Anda",
+
+  "power.epicsorigins.kitsune/wolf_fear.name": "Ketakutan serigala",
+
+  "power.epicsorigins.kitsune/wolf_fear.description": "Serigala akan selalu menyerang Anda dan Anda semakin lemah di dekat mereka",
+
+  "power.epicsorigins.kitsune/look.name": "Penampilan Kitsune",
+
+  "power.epicsorigins.kitsune/look.description": "Anda memiliki ekor dan telinga rubah",
+
+  "power.epicsorigins.evolved/super_human/primary_ability.name": "Nafas kedua",
+
+  "power.epicsorigins.evolved/super_human/primary_ability.description": "Anda memulihkan kesehatan penuh, kelaparan dan menghapus semua efek Anda",
+
+  "power.epicsorigins.evolved/slime_king/primary_ability.name": "Peluru lendir",
+
+  "power.epicsorigins.evolved/slime_king/primary_ability.description": "Anda menembakkan 5 bola slime yang menghasilkan 2 kerusakan",
+
+  "power.epicsorigins.evolved/slime_king/secondary_ability.name": "LOMPAT",
+
+  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "Anda melompat sangat tinggi dan meninggalkan area yang menimbulkan kerusakan di bawah Anda",
+
+  "power.epicsorigins.evolved/slime_king/health.name": "Slime yang lebih besar",
+
+  "power.epicsorigins.evolved/slime_king/health.description": "Anda sekarang memiliki 14 hati",
+
+  "power.epicsorigins.evolved/slime_king/color.name": "7 warna jeli",
+
+  "power.epicsorigins.evolved/slime_king/color.description": "Anda dapat mengubah warna atau menghapusnya kapan pun Anda mau",
+
+  "power.epicsorigins.evolved/angel/primary_ability.name": "Memurnikan",
+
+  "power.epicsorigins.evolved/angel/primary_ability.description": "Anda menghapus semua efek dari Anda dan pemain di sekitar",
+
+  "power.epicsorigins.evolved/angel/secondary_ability.name": "Kesehatan ekstra",
+
+  "power.epicsorigins.evolved/angel/secondary_ability.description": "Anda bisa mendapatkan 8 hati tambahan dalam satu menit",
+
+  "power.epicsorigins.evolved/angel/flight.name": "Penerbangan",
+
+  "power.epicsorigins.evolved/angel/flight.description": "Anda dapat terbang tanpa batas",
+
+  "power.epicsorigins.evolved/angel/regeneration.name": "Darah suci",
+
+  "power.epicsorigins.evolved/angel/regeneration.description": "Anda memiliki regenerasi yang sangat cepat",
+
+  "power.epicsorigins.evolved/angel/undead_damage.name": "Senjata suci",
+
+  "power.epicsorigins.evolved/angel/undead_damage.description": "Anda memberikan kerusakan 2 kali lebih banyak pada monster undead",
+
+  "power.epicsorigins.evolved/angel/look.name": "Tampilan malaikat",
+
+  "power.epicsorigins.evolved/angel/look.description": "Anda memiliki sayap putih yang indah",
+
+  "power.epicsorigins.evolved/oceanid/primary_ability.name": "serenade",
+
+  "power.epicsorigins.evolved/oceanid/primary_ability.description": "Anda menyanyikan lagu yang indah dan massa di sekitar Anda menjadi netral",
+
+  "power.epicsorigins.evolved/oceanid/secondary_ability.name": "Pengendalian cuaca",
+
+  "power.epicsorigins.evolved/oceanid/secondary_ability.description": "Anda dapat mengubah cuaca menjadi hujan atau menjernihkan cuaca jika sedang hujan",
+
+  "power.epicsorigins.evolved/oceanid/long_breathing.name": "Nafas panjang",
+
+  "power.epicsorigins.evolved/oceanid/long_breathing.description": "Anda bisa tinggal di udara lebih lama",
+
+  "power.epicsorigins.evolved/oceanid/color.name": "Penampilan roh",
+
+  "power.epicsorigins.evolved/oceanid/color.description": "Anda terlihat seperti roh air biru",
+
+  "power.epicsorigins.evolved/asura/primary_ability.name": "Kemarahan yang membara",
+
+  "power.epicsorigins.evolved/asura/primary_ability.description": "Anda membuat diri Anda terbakar dan menjadi kurang rentan terhadap kerusakan",
+
+  "power.epicsorigins.evolved/asura/secondary_ability.name": "Aura api",
+
+  "power.epicsorigins.evolved/asura/secondary_ability.description": "Semua entitas di sekitar akan menerima kerusakan akibat kebakaran untuk sementara waktu",
+
+  "power.epicsorigins.evolved/asura/armor.name": "Darah api",
+
+  "power.epicsorigins.evolved/asura/armor.description": "Anda memiliki 8 pertahanan ekstra",
+
+  "power.epicsorigins.evolved/asura/burning_wrath.name": "Kemarahan yang membara",
+
+  "power.epicsorigins.evolved/asura/burning_wrath.description": "Saat Anda terbakar, Anda menimbulkan kerusakan 1,5 kali lebih banyak",
+
+  "power.epicsorigins.evolved/asura/look.name": "Penampilan berapi-api",
+
+  "power.epicsorigins.evolved/asura/look.description": "Anda memiliki tanduk dan ekor yang tertutup api",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/health.name": "Lebih banyak ekor, lebih banyak hati",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/health.description": "Kamu sudah tumbuh 9 ekor, jadi kesehatanmu juga bertambah 9 hati",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/speed.name": "Secepat suara",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/speed.description": "Anda 2 kali lebih cepat dari manusia biasa",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/secondary_ability.name": "Ilusi rubah",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/secondary_ability.description": "Anda menghilang dalam ilusi dan melemahkan semua entitas dalam radius 6 blok"
+}

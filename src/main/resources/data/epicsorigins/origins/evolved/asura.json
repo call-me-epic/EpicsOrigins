@@ -1,0 +1,18 @@
+{
+  "powers": [
+    "epicsorigins:evolved/asura/primary_ability",
+    "epicsorigins:evolved/asura/secondary_ability",
+    "origins:nether_spawn",
+    "origins:fire_immunity",
+    "epicsorigins:evolved/asura/armor",
+    "epicsorigins:evolved/asura/burning_wrath",
+    "epicsorigins:demon/lava_vision",
+    "epicsorigins:evolved/asura/look"
+  ],
+  "icon": {
+    "item": "minecraft:blaze_powder"
+  },
+  "order": 2,
+  "impact": 3,
+  "unchoosable": true
+}

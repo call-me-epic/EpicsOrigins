@@ -1,0 +1,236 @@
+{
+
+  "advancement.end.draconic_evolution.title": "龙族进化",
+
+  "advancement.end.draconic_evolution.description": "使用进化球",
+
+  "message.epicsorigins.no_further_upgrades": "你的起源没有进一步的进化",
+
+  "category.epicsorigins": "史诗的起源",
+
+  "key.epicsorigins.change_look": "改变外观",
+
+  "effect.epicsorigins.charm": "魅力",
+
+  "item.epicsorigins.orb_of_evolution": "进化宝珠",
+
+  "origin.epicsorigins.human.name": "人类",
+
+  "origin.epicsorigins.human.description": "一个普通人。普通的 Minecraft 体验正等待着您。",
+
+  "origin.epicsorigins.slime.name": "粘液",
+
+  "origin.epicsorigins.slime.description": "所以，现在你充满活力",
+
+  "origin.epicsorigins.fairy.name": "仙女",
+
+  "origin.epicsorigins.fairy.description": "带翅膀的小人类种族",
+
+  "origin.epicsorigins.mermaid.name": "美人鱼",
+
+  "origin.epicsorigins.mermaid.description": "美人鱼是具有人脸和鱼尾的神话生物",
+
+  "origin.epicsorigins.demon.name": "恶魔",
+
+  "origin.epicsorigins.demon.description": "你因罪孽而被放逐到下界，但也有一些好处",
+
+  "origin.epicsorigins.kitsune.name": "狐狸",
+
+  "origin.epicsorigins.kitsune.description": "Kitsune 是一种古老的狐狸种族，具有变成人类形态的能力",
+
+  "origin.epicsorigins.evolved/super_human.name": "超人",
+
+  "origin.epicsorigins.evolved/super_human.description": "不是一个普通人。同样的 Minecraft 体验等待着您。",
+
+  "origin.epicsorigins.evolved/slime_king.name": "史莱姆王",
+
+  "origin.epicsorigins.evolved/slime_king.description": "你进化成了史莱姆之王",
+
+  "origin.epicsorigins.evolved/angel.name": "天使",
+
+  "origin.epicsorigins.evolved/angel.description": "你进化成了拥有翅膀和神圣力量的神族",
+
+  "origin.epicsorigins.evolved/oceanid.name": "大洋洲",
+
+  "origin.epicsorigins.evolved/oceanid.description": "你进化成可以操控水的水精灵",
+
+  "origin.epicsorigins.evolved/asura.name": "阿修罗",
+
+  "origin.epicsorigins.evolved/asura.description": "你进化成了火魔",
+
+  "origin.epicsorigins.evolved/nine_tailed_kitsune.name": "九尾狐",
+
+  "origin.epicsorigins.evolved/nine_tailed_kitsune.description": "你进化成了老版本的狐妖。你的力量增强了",
+
+  "power.epicsorigins.slime/no_kinetic_damage.name": "有弹性的身体",
+
+  "power.epicsorigins.slime/no_kinetic_damage.description": "你不会因跌落和飞入墙壁而受到伤害",
+
+  "power.epicsorigins.slime/movement.name": "史莱姆运动",
+
+  "power.epicsorigins.slime/movement.description": "你像从粘液块中一样从地板上跳下来",
+
+  "power.epicsorigins.slime/color.name": "7种果冻色",
+
+  "power.epicsorigins.slime/color.description": "您可以随时更改颜色或将其删除",
+
+  "power.epicsorigins.slime/health.name": "大史莱姆",
+
+  "power.epicsorigins.slime/health.description": "现在你的生命值就像一个大史莱姆一样有 16 点",
+
+  "power.epicsorigins.fairy/flight.name": "翅膀",
+
+  "power.epicsorigins.fairy/flight.description": "你可以飞行，但只能飞行 5 秒",
+
+  "power.epicsorigins.fairy/health.name": "小健康",
+
+  "power.epicsorigins.fairy/health.description": "你的生命值只有 8",
+
+  "power.epicsorigins.fairy/size.name": "小型",
+
+  "power.epicsorigins.fairy/size.description": "你只是很小（仅适用于 pehkui）",
+
+  "power.epicsorigins.fairy/weakness.name": "手无力",
+
+  "power.epicsorigins.fairy/weakness.description": "你的伤害除以 3",
+
+  "power.epicsorigins.fairy/regeneration.name": "魔血",
+
+  "power.epicsorigins.fairy/regeneration.description": "你有自然再生",
+
+  "power.epicsorigins.fairy/look.name": "仙女的样子",
+
+  "power.epicsorigins.fairy/look.description": "你的背上有翅膀",
+
+  "power.epicsorigins.mermaid/swim_speed.name": "游泳好手",
+
+  "power.epicsorigins.mermaid/swim_speed.description": "你的游泳速度大大提高",
+
+  "power.epicsorigins.mermaid/weakness.name": "晕机",
+
+  "power.epicsorigins.mermaid/weakness.description": "当你离开水面时，你会变得更慢、更虚弱",
+
+  "power.epicsorigins.mermaid/look.name": "美人鱼的样子",
+
+  "power.epicsorigins.mermaid/look.description": "你有一条没有腿的鱼尾巴",
+
+  "power.epicsorigins.demon/armor.name": "诅咒之血",
+
+  "power.epicsorigins.demon/armor.description": "你有额外的防御",
+
+  "power.epicsorigins.demon/look.name": "恶魔般的样子",
+
+  "power.epicsorigins.demon/look.description": "你有恶魔的角和尾巴",
+
+  "power.epicsorigins.kitsune/health.name": "尾巴健康",
+
+  "power.epicsorigins.kitsune/health.description": "你的生命值增加 1 颗心",
+
+  "power.epicsorigins.kitsune/speed.name": "更高的速度",
+
+  "power.epicsorigins.kitsune/speed.description": "你的速度提高了 1.5",
+
+  "power.epicsorigins.kitsune/fox_transformation.name": "狐狸外观",
+
+  "power.epicsorigins.kitsune/fox_transformation.description": "你可以变成狐狸，然后变回人形",
+
+  "power.epicsorigins.kitsune/wolf_fear.name": "狼的恐惧",
+
+  "power.epicsorigins.kitsune/wolf_fear.description": "狼总是会攻击你，而你在它们附近就会变得虚弱",
+
+  "power.epicsorigins.kitsune/look.name": "Kitsune的样子",
+
+  "power.epicsorigins.kitsune/look.description": "你有狐狸尾巴和耳朵",
+
+  "power.epicsorigins.evolved/super_human/primary_ability.name": "第二次呼吸",
+
+  "power.epicsorigins.evolved/super_human/primary_ability.description": "你恢复全部生命值、饥饿并清除所有影响",
+
+  "power.epicsorigins.evolved/slime_king/primary_ability.name": "史莱姆子弹",
+
+  "power.epicsorigins.evolved/slime_king/primary_ability.description": "你发射 5 个粘液球，造成 2 点伤害",
+
+  "power.epicsorigins.evolved/slime_king/secondary_ability.name": "跳跃",
+
+  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "你跳得很高并在你身下留下造成伤害的区域",
+
+  "power.epicsorigins.evolved/slime_king/health.name": "甚至更大的史莱姆",
+
+  "power.epicsorigins.evolved/slime_king/health.description": "你现在有 14 颗心",
+
+  "power.epicsorigins.evolved/slime_king/color.name": "7种果冻色",
+
+  "power.epicsorigins.evolved/slime_king/color.description": "您可以随时更改颜色或将其删除",
+
+  "power.epicsorigins.evolved/angel/primary_ability.name": "净化",
+
+  "power.epicsorigins.evolved/angel/primary_ability.description": "你清除了你和附近玩家的所有效果",
+
+  "power.epicsorigins.evolved/angel/secondary_ability.name": "额外的健康",
+
+  "power.epicsorigins.evolved/angel/secondary_ability.description": "一分钟内可以额外获得 8 颗心",
+
+  "power.epicsorigins.evolved/angel/flight.name": "航班",
+
+  "power.epicsorigins.evolved/angel/flight.description": "你可以无限飞行",
+
+  "power.epicsorigins.evolved/angel/regeneration.name": "圣血",
+
+  "power.epicsorigins.evolved/angel/regeneration.description": "你的再生速度非常快",
+
+  "power.epicsorigins.evolved/angel/undead_damage.name": "圣器",
+
+  "power.epicsorigins.evolved/angel/undead_damage.description": "你对不死生物造成的伤害增加 2 倍",
+
+  "power.epicsorigins.evolved/angel/look.name": "天使般的外观",
+
+  "power.epicsorigins.evolved/angel/look.description": "你有美丽的白色翅膀",
+
+  "power.epicsorigins.evolved/oceanid/primary_ability.name": "小夜曲",
+
+  "power.epicsorigins.evolved/oceanid/primary_ability.description": "你唱一首美妙的歌，你周围的小怪就会变得中立",
+
+  "power.epicsorigins.evolved/oceanid/secondary_ability.name": "天气控制",
+
+  "power.epicsorigins.evolved/oceanid/secondary_ability.description": "您可以将天气更改为下雨或在下雨时将天气晴朗",
+
+  "power.epicsorigins.evolved/oceanid/long_breathing.name": "长呼吸",
+
+  "power.epicsorigins.evolved/oceanid/long_breathing.description": "你可以在空中停留更长时间",
+
+  "power.epicsorigins.evolved/oceanid/color.name": "精神外观",
+
+  "power.epicsorigins.evolved/oceanid/color.description": "你看起来像蓝色的水精灵",
+
+  "power.epicsorigins.evolved/asura/primary_ability.name": "燃烧的愤怒",
+
+  "power.epicsorigins.evolved/asura/primary_ability.description": "你让自己着火并变得不易受到伤害",
+
+  "power.epicsorigins.evolved/asura/secondary_ability.name": "火光环",
+
+  "power.epicsorigins.evolved/asura/secondary_ability.description": "所有附近的实体都会暂时受到火焰伤害",
+
+  "power.epicsorigins.evolved/asura/armor.name": "火血",
+
+  "power.epicsorigins.evolved/asura/armor.description": "你有 8 额外防御",
+
+  "power.epicsorigins.evolved/asura/burning_wrath.name": "燃烧的愤怒",
+
+  "power.epicsorigins.evolved/asura/burning_wrath.description": "当你着火时，你造成的伤害是原来的 1.5 倍",
+
+  "power.epicsorigins.evolved/asura/look.name": "火热的样子",
+
+  "power.epicsorigins.evolved/asura/look.description": "你的角和尾巴都被火覆盖了",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/health.name": "尾巴多了，心就多了",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/health.description": "你长出了 9 条尾巴，所以你的生命值也增加了 9 颗心",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/speed.name": "快如声音",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/speed.description": "你的速度比普通人快 2 倍",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/secondary_ability.name": "狐狸错觉",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/secondary_ability.description": "你消失在幻象中并削弱6格半径内的所有实体"
+}

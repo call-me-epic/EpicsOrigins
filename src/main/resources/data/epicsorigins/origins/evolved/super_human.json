@@ -1,0 +1,11 @@
+{
+  "powers": [
+    "epicsorigins:evolved/super_human/primary_ability"
+  ],
+  "icon": {
+    "item": "minecraft:player_head"
+  },
+  "order": 1,
+  "impact": 1,
+  "unchoosable": true
+}

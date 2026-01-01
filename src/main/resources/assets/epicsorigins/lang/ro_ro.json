@@ -1,0 +1,236 @@
+{
+
+  "advancement.end.draconic_evolution.title": "Evoluție draconică",
+
+  "advancement.end.draconic_evolution.description": "Folosește globul evoluției",
+
+  "message.epicsorigins.no_further_upgrades": "Originea ta nu mai are evoluții",
+
+  "category.epicsorigins": "Originile epicului",
+
+  "key.epicsorigins.change_look": "Schimbați aspectul",
+
+  "effect.epicsorigins.charm": "Farmec",
+
+  "item.epicsorigins.orb_of_evolution": "Orb al evoluției",
+
+  "origin.epicsorigins.human.name": "Uman",
+
+  "origin.epicsorigins.human.description": "Un om obișnuit. Experiența dvs. obișnuită Minecraft vă așteaptă.",
+
+  "origin.epicsorigins.slime.name": "Slime",
+
+  "origin.epicsorigins.slime.description": "Așadar, acum ești plin de baltă",
+
+  "origin.epicsorigins.fairy.name": "Zână",
+
+  "origin.epicsorigins.fairy.description": "Rasa de oameni mici cu aripi",
+
+  "origin.epicsorigins.mermaid.name": "Sirenă",
+
+  "origin.epicsorigins.mermaid.description": "Sirenele sunt creaturi mitice cu fețe umane și cozi de pește",
+
+  "origin.epicsorigins.demon.name": "Demon",
+
+  "origin.epicsorigins.demon.description": "Ai fost alungat în Nether pentru păcatele tale, dar cu unele avantaje",
+
+  "origin.epicsorigins.kitsune.name": "vulpe",
+
+  "origin.epicsorigins.kitsune.description": "Kitsune este o rasă antică de vulpi cu abilitatea de a se transforma în formă umană",
+
+  "origin.epicsorigins.evolved/super_human.name": "Super uman",
+
+  "origin.epicsorigins.evolved/super_human.description": "Nu un om obișnuit. Aceeași experiență Minecraft vă așteaptă.",
+
+  "origin.epicsorigins.evolved/slime_king.name": "Slime King",
+
+  "origin.epicsorigins.evolved/slime_king.description": "Ai evoluat într-un rege al slimes-ului",
+
+  "origin.epicsorigins.evolved/angel.name": "Înger",
+
+  "origin.epicsorigins.evolved/angel.description": "Ai evoluat într-o rasă divină cu aripi și puteri sfinte",
+
+  "origin.epicsorigins.evolved/oceanid.name": "Oceanidă",
+
+  "origin.epicsorigins.evolved/oceanid.description": "Ai evoluat într-un spirit al apei care poate controla apa",
+
+  "origin.epicsorigins.evolved/asura.name": "Asura",
+
+  "origin.epicsorigins.evolved/asura.description": "Ai evoluat într-un demon de foc",
+
+  "origin.epicsorigins.evolved/nine_tailed_kitsune.name": "Kitsune cu nouă cozi",
+
+  "origin.epicsorigins.evolved/nine_tailed_kitsune.description": "Ai evoluat într-o versiune mai veche de kitsune. Puterile tale au crescut",
+
+  "power.epicsorigins.slime/no_kinetic_damage.name": "Corp săritor",
+
+  "power.epicsorigins.slime/no_kinetic_damage.description": "Nu suferi daune din cădere și zbor în pereți",
+
+  "power.epicsorigins.slime/movement.name": "Mișcarea slime",
+
+  "power.epicsorigins.slime/movement.description": "Sali de pe podea ca din blocuri de slime",
+
+  "power.epicsorigins.slime/color.name": "7 culori de jeleu",
+
+  "power.epicsorigins.slime/color.description": "Vă puteți schimba culoarea sau o puteți elimina oricând doriți",
+
+  "power.epicsorigins.slime/health.name": "Slime mare",
+
+  "power.epicsorigins.slime/health.description": "Acum ai 16 sănătate ca un mare slime",
+
+  "power.epicsorigins.fairy/flight.name": "Aripi",
+
+  "power.epicsorigins.fairy/flight.description": "Puteți zbura, dar numai pentru 5 secunde",
+
+  "power.epicsorigins.fairy/health.name": "Sanatate mica",
+
+  "power.epicsorigins.fairy/health.description": "Ai doar 8 sănătate",
+
+  "power.epicsorigins.fairy/size.name": "Dimensiune mică",
+
+  "power.epicsorigins.fairy/size.description": "Ești doar mic (funcționează doar cu pehkui)",
+
+  "power.epicsorigins.fairy/weakness.name": "Mâinile slabe",
+
+  "power.epicsorigins.fairy/weakness.description": "Daunele tale sunt împărțite la 3",
+
+  "power.epicsorigins.fairy/regeneration.name": "Sânge magic",
+
+  "power.epicsorigins.fairy/regeneration.description": "Ai o regenerare naturală",
+
+  "power.epicsorigins.fairy/look.name": "Aspectul zânei",
+
+  "power.epicsorigins.fairy/look.description": "Ai aripi pe spate",
+
+  "power.epicsorigins.mermaid/swim_speed.name": "Bun înotător",
+
+  "power.epicsorigins.mermaid/swim_speed.description": "Viteza ta de înot este mult crescută",
+
+  "power.epicsorigins.mermaid/weakness.name": "Răul de fond",
+
+  "power.epicsorigins.mermaid/weakness.description": "Deveniți din ce în ce mai încet și mai slab când ieși din apă",
+
+  "power.epicsorigins.mermaid/look.name": "Aspectul de sirenă",
+
+  "power.epicsorigins.mermaid/look.description": "Ai o coadă de pește fără picioare",
+
+  "power.epicsorigins.demon/armor.name": "Sânge blestemat",
+
+  "power.epicsorigins.demon/armor.description": "Ai o apărare suplimentară",
+
+  "power.epicsorigins.demon/look.name": "Aspect demonic",
+
+  "power.epicsorigins.demon/look.description": "Ai coarne și coadă de demon",
+
+  "power.epicsorigins.kitsune/health.name": "Sănătatea cozii",
+
+  "power.epicsorigins.kitsune/health.description": "Sănătatea ta este crescută cu 1 inimă",
+
+  "power.epicsorigins.kitsune/speed.name": "Viteză mai mare",
+
+  "power.epicsorigins.kitsune/speed.description": "Ai viteza cu 1,5 mai mare",
+
+  "power.epicsorigins.kitsune/fox_transformation.name": "Aspect de vulpe",
+
+  "power.epicsorigins.kitsune/fox_transformation.description": "Te poți transforma într-o vulpe și te poți întoarce la forma ta umană",
+
+  "power.epicsorigins.kitsune/wolf_fear.name": "Frica de lup",
+
+  "power.epicsorigins.kitsune/wolf_fear.description": "Lupii te vor ataca mereu și tu devii slab lângă ei",
+
+  "power.epicsorigins.kitsune/look.name": "Aspectul lui Kitsune",
+
+  "power.epicsorigins.kitsune/look.description": "Ai o coadă de vulpe și urechi",
+
+  "power.epicsorigins.evolved/super_human/primary_ability.name": "A doua respirație",
+
+  "power.epicsorigins.evolved/super_human/primary_ability.description": "Restabiliți sănătatea deplină, foamea și vă ștergeți toate efectele",
+
+  "power.epicsorigins.evolved/slime_king/primary_ability.name": "Gloanțe de slime",
+
+  "power.epicsorigins.evolved/slime_king/primary_ability.description": "Tragi 5 bile de slime care fac 2 daune",
+
+  "power.epicsorigins.evolved/slime_king/secondary_ability.name": "SALTUL",
+
+  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "Sari foarte sus și lași zona de daune sub tine",
+
+  "power.epicsorigins.evolved/slime_king/health.name": "Slime și mai mare",
+
+  "power.epicsorigins.evolved/slime_king/health.description": "Acum ai 14 inimi",
+
+  "power.epicsorigins.evolved/slime_king/color.name": "7 culori de jeleu",
+
+  "power.epicsorigins.evolved/slime_king/color.description": "Vă puteți schimba culoarea sau o puteți elimina oricând doriți",
+
+  "power.epicsorigins.evolved/angel/primary_ability.name": "Purifica",
+
+  "power.epicsorigins.evolved/angel/primary_ability.description": "Eliminați toate efectele de la dvs. și de la jucătorii din apropiere",
+
+  "power.epicsorigins.evolved/angel/secondary_ability.name": "Un plus de sănătate",
+
+  "power.epicsorigins.evolved/angel/secondary_ability.description": "Puteți obține 8 inimi suplimentare pentru un minut",
+
+  "power.epicsorigins.evolved/angel/flight.name": "Zbor",
+
+  "power.epicsorigins.evolved/angel/flight.description": "Puteți zbura la infinit",
+
+  "power.epicsorigins.evolved/angel/regeneration.name": "Sânge sfânt",
+
+  "power.epicsorigins.evolved/angel/regeneration.description": "Ai o regenerare foarte rapidă",
+
+  "power.epicsorigins.evolved/angel/undead_damage.name": "Armă sfântă",
+
+  "power.epicsorigins.evolved/angel/undead_damage.description": "Cauți de 2 ori mai multe daune mafioților de strigoi",
+
+  "power.epicsorigins.evolved/angel/look.name": "Privire angelica",
+
+  "power.epicsorigins.evolved/angel/look.description": "Ai aripi albe frumoase",
+
+  "power.epicsorigins.evolved/oceanid/primary_ability.name": "Serenadă",
+
+  "power.epicsorigins.evolved/oceanid/primary_ability.description": "Cânți un cântec frumos și gloatele din jurul tău devin neutre",
+
+  "power.epicsorigins.evolved/oceanid/secondary_ability.name": "Controlul vremii",
+
+  "power.epicsorigins.evolved/oceanid/secondary_ability.description": "Puteți schimba vremea în ploaie sau puteți curăța vremea dacă plouă",
+
+  "power.epicsorigins.evolved/oceanid/long_breathing.name": "Respirație lungă",
+
+  "power.epicsorigins.evolved/oceanid/long_breathing.description": "Puteți rămâne în aer mult mai mult timp",
+
+  "power.epicsorigins.evolved/oceanid/color.name": "Aspectul spiritului",
+
+  "power.epicsorigins.evolved/oceanid/color.description": "Arăți ca un spirit de apă albastră",
+
+  "power.epicsorigins.evolved/asura/primary_ability.name": "Furie aprinsă",
+
+  "power.epicsorigins.evolved/asura/primary_ability.description": "Îți dai foc și devii mai puțin susceptibil la daune",
+
+  "power.epicsorigins.evolved/asura/secondary_ability.name": "Aura de foc",
+
+  "power.epicsorigins.evolved/asura/secondary_ability.description": "Toate entitățile din apropiere vor suferi daune provocate de incendiu pentru o perioadă",
+
+  "power.epicsorigins.evolved/asura/armor.name": "Sânge de foc",
+
+  "power.epicsorigins.evolved/asura/armor.description": "Ai o apărare suplimentară de 8",
+
+  "power.epicsorigins.evolved/asura/burning_wrath.name": "Mânie aprinsă",
+
+  "power.epicsorigins.evolved/asura/burning_wrath.description": "Când ești în foc, faci de 1,5 ori mai multe daune",
+
+  "power.epicsorigins.evolved/asura/look.name": "Privire de foc",
+
+  "power.epicsorigins.evolved/asura/look.description": "Ai coarnele și coada acoperite de foc",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/health.name": "Mai multe cozi, mai multă inimă",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/health.description": "Ți-au crescut 9 cozi, așa că sănătatea ta este crescută și cu 9 inimi",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/speed.name": "Rapid ca sunetul",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/speed.description": "Ești de 2 ori mai rapid decât oamenii obișnuiți",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/secondary_ability.name": "Iluzia vulpei",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/secondary_ability.description": "Dispari într-o iluzie și slăbești toate entitățile pe o rază de 6 blocuri"
+}

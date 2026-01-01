@@ -1,0 +1,11 @@
+{
+  "type": "origins:active_self",
+  "entity_action": {
+    "type": "origins:fire_projectile",
+    "entity_type": "minecraft:snowball",
+    "divergence": 7.0,
+    "count": 5,
+    "tag": "{Item:{id:\"minecraft:slime_ball\",Count:1},Damage:3}"
+  },
+  "cooldown": 100
+}

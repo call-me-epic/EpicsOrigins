@@ -1,0 +1,15 @@
+{
+  "type": "origins:active_self",
+  "entity_action": {
+    "type": "origins:grant_power",
+    "power": "epicsorigins:evolved/asura/secondary_ability_action",
+    "source": "epicsorigins:evolved/asura"
+  },
+  "cooldown": 1200,
+  "hud_render": {
+    "should_render": false
+  },
+  "key": {
+    "key": "key.origins.secondary_active"
+  }
+}

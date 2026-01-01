@@ -1,0 +1,5 @@
+{
+  "type": "epicsorigins:look_attributes",
+  "texture_location": "epicsorigins:textures/entity/player/angel_wings.png",
+  "model_type": "epicsorigins:attributes/wings"
+}

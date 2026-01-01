@@ -1,0 +1,20 @@
+{
+  "powers": [
+    "epicsorigins:slime/no_kinetic_damage",
+    "epicsorigins:slime/movement",
+    "epicsorigins:slime/health",
+    "epicsorigins:slime/color",
+    "epicsorigins:color/green"
+  ],
+  "icon": {
+    "item": "minecraft:slime_ball"
+  },
+  "order": 1,
+  "impact": 2,
+  "upgrades": [
+    {
+      "condition": "epicsorigins:end/draconic_evolution",
+      "origin": "epicsorigins:evolved/slime_king"
+    }
+  ]
+}

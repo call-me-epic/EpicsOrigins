@@ -1,0 +1,14 @@
+{
+  "type": "origins:multiple",
+
+  "horns": {
+    "type": "epicsorigins:look_attributes",
+    "texture_location": "epicsorigins:textures/entity/player/asura_look.png",
+    "model_type": "epicsorigins:attributes/demon_horns"
+  },
+  "tail": {
+    "type": "epicsorigins:look_attributes",
+    "texture_location": "epicsorigins:textures/entity/player/asura_look.png",
+    "model_type": "epicsorigins:attributes/demon_tail"
+  }
+}

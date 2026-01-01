@@ -1,0 +1,5 @@
+{
+  "type": "epicsorigins:look_attributes",
+  "texture_location": "epicsorigins:textures/entity/player/mermaid_tail.png",
+  "model_type": "epicsorigins:attributes/mermaid_tail"
+}

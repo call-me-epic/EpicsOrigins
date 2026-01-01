@@ -1,0 +1,236 @@
+{
+
+  "advancement.end.draconic_evolution.title": "אבולוציה דרקונית",
+
+  "advancement.end.draconic_evolution.description": "השתמש בכדור האבולוציה",
+
+  "message.epicsorigins.no_further_upgrades": "למקור שלך אין אבולוציות נוספות",
+
+  "category.epicsorigins": "מקורות האפוס",
+
+  "key.epicsorigins.change_look": "שנה מראה",
+
+  "effect.epicsorigins.charm": "קֶסֶם",
+
+  "item.epicsorigins.orb_of_evolution": "כדור האבולוציה",
+
+  "origin.epicsorigins.human.name": "אֶנוֹשִׁי",
+
+  "origin.epicsorigins.human.description": "בן אדם רגיל. חווית Minecraft הרגילה שלך מחכה.",
+
+  "origin.epicsorigins.slime.name": "רֶפֶשׁ",
+
+  "origin.epicsorigins.slime.description": "אז עכשיו אתה קופצני",
+
+  "origin.epicsorigins.fairy.name": "פֵיָה",
+
+  "origin.epicsorigins.fairy.description": "גזע של בני אדם קטנים עם כנפיים",
+
+  "origin.epicsorigins.mermaid.name": "בְּתוּלַת הַיָם",
+
+  "origin.epicsorigins.mermaid.description": "בתולות ים הן יצורים מיתיים עם פנים אנושיות וזנבות דגים",
+
+  "origin.epicsorigins.demon.name": "שֵׁד",
+
+  "origin.epicsorigins.demon.description": "גורשת אל התחתית בגלל חטאיך, אבל עם כמה יתרונות",
+
+  "origin.epicsorigins.kitsune.name": "שׁוּעָל",
+
+  "origin.epicsorigins.kitsune.description": "Kitsune הם גזע שועלים עתיק יומין עם יכולת להפוך לצורת אדם",
+
+  "origin.epicsorigins.evolved/super_human.name": "סופר אנושי",
+
+  "origin.epicsorigins.evolved/super_human.description": "לא בן אדם רגיל. אותה חווית Minecraft שלך מחכה.",
+
+  "origin.epicsorigins.evolved/slime_king.name": "סליים מלך",
+
+  "origin.epicsorigins.evolved/slime_king.description": "התפתחת למלך של סליים",
+
+  "origin.epicsorigins.evolved/angel.name": "מַלְאָך",
+
+  "origin.epicsorigins.evolved/angel.description": "התפתחת לגזע אלוהי עם כנפיים וכוחות קדושים",
+
+  "origin.epicsorigins.evolved/oceanid.name": "Oceanid",
+
+  "origin.epicsorigins.evolved/oceanid.description": "התפתחת לרוח מים שיכולה לשלוט במים",
+
+  "origin.epicsorigins.evolved/asura.name": "אסורה",
+
+  "origin.epicsorigins.evolved/asura.description": "התפתחת לשד אש",
+
+  "origin.epicsorigins.evolved/nine_tailed_kitsune.name": "Kitsune תשע זנבות",
+
+  "origin.epicsorigins.evolved/nine_tailed_kitsune.description": "התפתחת לגרסה ישנה יותר של kitsune. הכוחות שלך גדלו",
+
+  "power.epicsorigins.slime/no_kinetic_damage.name": "גוף קופצני",
+
+  "power.epicsorigins.slime/no_kinetic_damage.description": "אתה לא לוקח נזק מנפילה ועוף לתוך קירות",
+
+  "power.epicsorigins.slime/movement.name": "תנועת סליים",
+
+  "power.epicsorigins.slime/movement.description": "אתה קופץ מהרצפה כמו מגושי רפש",
+
+  "power.epicsorigins.slime/color.name": "7 צבעי ג'לי",
+
+  "power.epicsorigins.slime/color.description": "אתה יכול לשנות את הצבע שלך או להסיר אותו מתי שתרצה",
+
+  "power.epicsorigins.slime/health.name": "סליים גדול",
+
+  "power.epicsorigins.slime/health.description": "עכשיו יש לך 16 בריאות כמו סליים גדול",
+
+  "power.epicsorigins.fairy/flight.name": "כנפיים",
+
+  "power.epicsorigins.fairy/flight.description": "אתה יכול לטוס אבל רק ל-5 שניות",
+
+  "power.epicsorigins.fairy/health.name": "בריאות קטנה",
+
+  "power.epicsorigins.fairy/health.description": "יש לך רק 8 בריאות",
+
+  "power.epicsorigins.fairy/size.name": "גודל קטן",
+
+  "power.epicsorigins.fairy/size.description": "אתה פשוט קטן (עובד רק עם pehkui)",
+
+  "power.epicsorigins.fairy/weakness.name": "ידיים חלשות",
+
+  "power.epicsorigins.fairy/weakness.description": "הנזק שלך מחולק ב-3",
+
+  "power.epicsorigins.fairy/regeneration.name": "דם קסום",
+
+  "power.epicsorigins.fairy/regeneration.description": "יש לך התחדשות טבעית",
+
+  "power.epicsorigins.fairy/look.name": "המראה של הפיה",
+
+  "power.epicsorigins.fairy/look.description": "יש לך כנפיים על הגב",
+
+  "power.epicsorigins.mermaid/swim_speed.name": "שחיין טוב",
+
+  "power.epicsorigins.mermaid/swim_speed.description": "מהירות השחייה שלך מוגברת מאוד",
+
+  "power.epicsorigins.mermaid/weakness.name": "מחלת קרקע",
+
+  "power.epicsorigins.mermaid/weakness.description": "אתה נהיה איטי יותר וחלש יותר כשאתה יוצא מהמים",
+
+  "power.epicsorigins.mermaid/look.name": "המראה של בת הים",
+
+  "power.epicsorigins.mermaid/look.description": "יש לך זנב דג בלי רגליים",
+
+  "power.epicsorigins.demon/armor.name": "דם ארור",
+
+  "power.epicsorigins.demon/armor.description": "יש לך הגנה נוספת",
+
+  "power.epicsorigins.demon/look.name": "מבט דמוני",
+
+  "power.epicsorigins.demon/look.description": "יש לך קרניים וזנב של שדים",
+
+  "power.epicsorigins.kitsune/health.name": "בריאות הזנב",
+
+  "power.epicsorigins.kitsune/health.description": "הבריאות שלך גדלה ב-1 לב",
+
+  "power.epicsorigins.kitsune/speed.name": "מהירות גבוהה יותר",
+
+  "power.epicsorigins.kitsune/speed.description": "יש לך מהירות גבוהה יותר ב-1.5",
+
+  "power.epicsorigins.kitsune/fox_transformation.name": "הופעת שועל",
+
+  "power.epicsorigins.kitsune/fox_transformation.description": "אתה יכול להפוך לשועל ולחזור לצורתך האנושית",
+
+  "power.epicsorigins.kitsune/wolf_fear.name": "פחד זאב",
+
+  "power.epicsorigins.kitsune/wolf_fear.description": "זאבים תמיד יתקפו אותך ואתה נחלש לידם",
+
+  "power.epicsorigins.kitsune/look.name": "המראה של Kitsune",
+
+  "power.epicsorigins.kitsune/look.description": "יש לך זנב שועל ואוזניים",
+
+  "power.epicsorigins.evolved/super_human/primary_ability.name": "נשימה שנייה",
+
+  "power.epicsorigins.evolved/super_human/primary_ability.description": "אתה משחזר את הבריאות המלאה, הרעב ומנקה את כל ההשפעות שלך",
+
+  "power.epicsorigins.evolved/slime_king/primary_ability.name": "כדורי סליים",
+
+  "power.epicsorigins.evolved/slime_king/primary_ability.description": "אתה יורה 5 כדורי סליים שגורמים 2 נזקים",
+
+  "power.epicsorigins.evolved/slime_king/secondary_ability.name": "הקפיצה",
+
+  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "אתה קופץ גבוה מאוד ומשאיר תחתיך אזור התמודדות עם נזקים",
+
+  "power.epicsorigins.evolved/slime_king/health.name": "רפש גדול עוד יותר",
+
+  "power.epicsorigins.evolved/slime_king/health.description": "עכשיו יש לך 14 לבבות",
+
+  "power.epicsorigins.evolved/slime_king/color.name": "7 צבעי ג'לי",
+
+  "power.epicsorigins.evolved/slime_king/color.description": "אתה יכול לשנות את הצבע שלך או להסיר אותו מתי שתרצה",
+
+  "power.epicsorigins.evolved/angel/primary_ability.name": "לְטַהֵר",
+
+  "power.epicsorigins.evolved/angel/primary_ability.description": "אתה מנקה את כל האפקטים ממך ומשחקנים קרובים",
+
+  "power.epicsorigins.evolved/angel/secondary_ability.name": "בריאות נוספת",
+
+  "power.epicsorigins.evolved/angel/secondary_ability.description": "אתה יכול לקבל 8 לבבות נוספים לדקה",
+
+  "power.epicsorigins.evolved/angel/flight.name": "טִיסָה",
+
+  "power.epicsorigins.evolved/angel/flight.description": "אתה יכול לעוף בלי סוף",
+
+  "power.epicsorigins.evolved/angel/regeneration.name": "דם קדוש",
+
+  "power.epicsorigins.evolved/angel/regeneration.description": "יש לך התחדשות מהירה מאוד",
+
+  "power.epicsorigins.evolved/angel/undead_damage.name": "נשק קדוש",
+
+  "power.epicsorigins.evolved/angel/undead_damage.description": "אתה מחלק פי 2 יותר נזק לאספסוף מתים",
+
+  "power.epicsorigins.evolved/angel/look.name": "מראה מלאכי",
+
+  "power.epicsorigins.evolved/angel/look.description": "יש לך כנפיים לבנות ויפות",
+
+  "power.epicsorigins.evolved/oceanid/primary_ability.name": "סֶרֶנָדָה",
+
+  "power.epicsorigins.evolved/oceanid/primary_ability.description": "אתה שר שיר יפה והמון סביבך הופך לנייטרלי",
+
+  "power.epicsorigins.evolved/oceanid/secondary_ability.name": "בקרת מזג אוויר",
+
+  "power.epicsorigins.evolved/oceanid/secondary_ability.description": "אתה יכול לשנות את מזג האוויר לגשם או לנקות את מזג האוויר אם יורד גשם",
+
+  "power.epicsorigins.evolved/oceanid/long_breathing.name": "נשימה ארוכה",
+
+  "power.epicsorigins.evolved/oceanid/long_breathing.description": "אתה יכול להישאר באוויר הרבה יותר זמן",
+
+  "power.epicsorigins.evolved/oceanid/color.name": "מראה רוח",
+
+  "power.epicsorigins.evolved/oceanid/color.description": "אתה נראה כמו רוח מים כחולה",
+
+  "power.epicsorigins.evolved/asura/primary_ability.name": "זעם בוער",
+
+  "power.epicsorigins.evolved/asura/primary_ability.description": "אתה מצית את עצמך והופך פחות רגיש לנזק",
+
+  "power.epicsorigins.evolved/asura/secondary_ability.name": "הילת אש",
+
+  "power.epicsorigins.evolved/asura/secondary_ability.description": "כל הישויות הסמוכות יסבלו נזקי שריפה למשך זמן מה",
+
+  "power.epicsorigins.evolved/asura/armor.name": "דם אש",
+
+  "power.epicsorigins.evolved/asura/armor.description": "יש לך 8 הגנה נוספת",
+
+  "power.epicsorigins.evolved/asura/burning_wrath.name": "זעם יוקד",
+
+  "power.epicsorigins.evolved/asura/burning_wrath.description": "כאשר אתה נורה, אתה גורם נזק פי 1.5 יותר",
+
+  "power.epicsorigins.evolved/asura/look.name": "מראה לוהט",
+
+  "power.epicsorigins.evolved/asura/look.description": "יש לך קרניים וזנב מכוסים באש",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/health.name": "יותר זנבות, יותר לב",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/health.description": "גידלתם 9 זנבות, כך שגם הבריאות שלכם גדלה ב-9 לבבות",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/speed.name": "מהיר כמו צליל",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/speed.description": "אתה מהיר פי 2 מבני אדם רגילים",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/secondary_ability.name": "אשליה של שועל",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/secondary_ability.description": "אתה נעלם באשליה ומחליש את כל הישויות ברדיוס של 6 בלוקים"
+}

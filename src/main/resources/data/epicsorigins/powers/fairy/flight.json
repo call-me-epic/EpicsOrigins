@@ -1,0 +1,21 @@
+{
+  "type": "epicsorigins:action_hud_over_time",
+  "rising_action": {
+    "type": "epicsorigins:grant_ability",
+    "ability": "minecraft:mayfly",
+    "source": "epicsorigins:fairy"
+  },
+  "falling_action": {
+    "type": "epicsorigins:revoke_ability",
+    "ability": "minecraft:mayfly",
+    "source": "epicsorigins:fairy"
+  },
+  "condition": {
+    "type": "origins:creative_flying"
+  },
+  "fill_speed": 0.25,
+  "hud_render": {
+  "sprite_location": "origins:textures/gui/resource_bar.png",
+  "bar_index": 4
+  }
+}

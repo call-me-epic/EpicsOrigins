@@ -1,0 +1,5 @@
+{
+  "type": "epicsorigins:entity_transformation",
+  "entity_type": "minecraft:fox",
+  "active_by_default": true
+}

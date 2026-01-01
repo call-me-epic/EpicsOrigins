@@ -1,0 +1,24 @@
+{
+  "type": "origins:active_self",
+  "entity_action": {
+    "type": "origins:if_else",
+    "if_action":{
+      "type": "origins:revoke_power",
+      "power": "epicsorigins:evolved/oceanid/water_color",
+      "source": "epicsorigins:evolved/oceanid"
+    },
+    "else_action": {
+      "type": "origins:grant_power",
+      "power": "epicsorigins:evolved/oceanid/water_color",
+      "source": "epicsorigins:evolved/oceanid"
+    },
+    "condition": {
+      "type": "origins:power",
+      "power": "epicsorigins:evolved/oceanid/water_color"
+    }
+  },
+  "cooldown": 0,
+  "key": {
+    "key": "key.epicsorigins.change_look"
+  }
+}

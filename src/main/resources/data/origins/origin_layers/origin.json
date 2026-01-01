@@ -1,0 +1,18 @@
+{
+  "replace" : "true",
+  "origins": [
+    "epicsorigins:human",
+    "epicsorigins:slime",
+    "epicsorigins:kitsune",
+    "epicsorigins:mermaid",
+    "epicsorigins:fairy",
+    "epicsorigins:demon",
+    "epicsorigins:evolved/super_human",
+    "epicsorigins:evolved/slime_king",
+    "epicsorigins:evolved/nine_tailed_kitsune",
+    "epicsorigins:evolved/oceanid",
+    "epicsorigins:evolved/angel",
+    "epicsorigins:evolved/asura"
+  ],
+  "allow_random": true
+}

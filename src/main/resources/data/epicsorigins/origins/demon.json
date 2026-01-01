@@ -1,0 +1,21 @@
+{
+  "powers": [
+    "origins:fire_immunity",
+    "origins:nether_spawn",
+    "epicsorigins:demon/armor",
+    "origins:burning_wrath",
+    "epicsorigins:demon/lava_vision",
+    "epicsorigins:demon/look"
+  ],
+  "icon": {
+    "item": "minecraft:fire_charge"
+  },
+  "order": 2,
+  "impact": 3,
+  "upgrades": [
+    {
+      "condition": "epicsorigins:end/draconic_evolution",
+      "origin": "epicsorigins:evolved/asura"
+    }
+  ]
+}

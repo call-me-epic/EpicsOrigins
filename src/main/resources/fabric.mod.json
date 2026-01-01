@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "epicsorigins",
+  "version": "${version}",
+  "name": "Epic`s Origins",
+  "description": "Mod that adds new different origins to the origins mod",
+  "authors": [],
+  "contact": {},
+  "license": "Apache-2.0",
+  "icon": "assets/epicsorigins/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "com.epicwolf.epicsorigins.client.EpicsoriginsClient"
+    ],
+    "main": [
+      "com.epicwolf.epicsorigins.Epicsorigins"
+    ]
+  },
+  "mixins": [
+    "epicsorigins.mixins.json",
+    {
+      "config": "epicsorigins.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

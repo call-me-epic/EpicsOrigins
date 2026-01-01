@@ -1,0 +1,236 @@
+{
+
+  "advancement.end.draconic_evolution.title": "Драконічна еволюція",
+
+  "advancement.end.draconic_evolution.description": "Використовуйте кулю еволюції",
+
+  "message.epicsorigins.no_further_upgrades": "Ваше походження не має подальших еволюцій",
+
+  "category.epicsorigins": "Походження епосу",
+
+  "key.epicsorigins.change_look": "Змінити вигляд",
+
+  "effect.epicsorigins.charm": "Чарівність",
+
+  "item.epicsorigins.orb_of_evolution": "Сфера еволюції",
+
+  "origin.epicsorigins.human.name": "Людина",
+
+  "origin.epicsorigins.human.description": "Звичайна людина. Ваш звичайний досвід Minecraft чекає.",
+
+  "origin.epicsorigins.slime.name": "слиз",
+
+  "origin.epicsorigins.slime.description": "Отже, тепер ти пружний",
+
+  "origin.epicsorigins.fairy.name": "Фея",
+
+  "origin.epicsorigins.fairy.description": "Раса маленьких людей з крилами",
+
+  "origin.epicsorigins.mermaid.name": "Русалка",
+
+  "origin.epicsorigins.mermaid.description": "Русалки - це міфічні істоти з людськими обличчями і риб'ячими хвостами",
+
+  "origin.epicsorigins.demon.name": "Демон",
+
+  "origin.epicsorigins.demon.description": "Ви були вигнані в Нетер за свої гріхи, але з деякими перевагами",
+
+  "origin.epicsorigins.kitsune.name": "лисиця",
+
+  "origin.epicsorigins.kitsune.description": "Кіцуне - стародавня раса лисиць, здатна перетворюватися на людську форму",
+
+  "origin.epicsorigins.evolved/super_human.name": "Супер людина",
+
+  "origin.epicsorigins.evolved/super_human.description": "Не звичайна людина. Ваш досвід Minecraft чекає.",
+
+  "origin.epicsorigins.evolved/slime_king.name": "Король слизу",
+
+  "origin.epicsorigins.evolved/slime_king.description": "Ви перетворилися на короля слизу",
+
+  "origin.epicsorigins.evolved/angel.name": "Ангел",
+
+  "origin.epicsorigins.evolved/angel.description": "Ви перетворилися на божественну расу з крилами та святими силами",
+
+  "origin.epicsorigins.evolved/oceanid.name": "Океаніда",
+
+  "origin.epicsorigins.evolved/oceanid.description": "Ви перетворилися на духа води, який може контролювати воду",
+
+  "origin.epicsorigins.evolved/asura.name": "Асура",
+
+  "origin.epicsorigins.evolved/asura.description": "Ви перетворилися на демона вогню",
+
+  "origin.epicsorigins.evolved/nine_tailed_kitsune.name": "Дев'ятихвостий кіцуне",
+
+  "origin.epicsorigins.evolved/nine_tailed_kitsune.description": "Ви перетворилися на стару версію кіцуне. Ваші сили зросли",
+
+  "power.epicsorigins.slime/no_kinetic_damage.name": "Стрибке тіло",
+
+  "power.epicsorigins.slime/no_kinetic_damage.description": "Ви не отримуєте шкоди від падінь і налітів на стіни",
+
+  "power.epicsorigins.slime/movement.name": "Рух слизу",
+
+  "power.epicsorigins.slime/movement.description": "Ти відриваєшся від підлоги, як від слизу",
+
+  "power.epicsorigins.slime/color.name": "7 желейних кольорів",
+
+  "power.epicsorigins.slime/color.description": "Ви можете змінити свій колір або видалити його, коли захочете",
+
+  "power.epicsorigins.slime/health.name": "Великий слиз",
+
+  "power.epicsorigins.slime/health.description": "Тепер у вас 16 здоров'я, як великий слиз",
+
+  "power.epicsorigins.fairy/flight.name": "Крила",
+
+  "power.epicsorigins.fairy/flight.description": "Ви можете літати, але лише 5 секунд",
+
+  "power.epicsorigins.fairy/health.name": "Мале здоров'я",
+
+  "power.epicsorigins.fairy/health.description": "У вас тільки 8 здоров'я",
+
+  "power.epicsorigins.fairy/size.name": "Невеликий розмір",
+
+  "power.epicsorigins.fairy/size.description": "Ти маленький (працює тільки з pehkui)",
+
+  "power.epicsorigins.fairy/weakness.name": "Слабкі руки",
+
+  "power.epicsorigins.fairy/weakness.description": "Ваш збиток ділиться на 3",
+
+  "power.epicsorigins.fairy/regeneration.name": "Чарівна кров",
+
+  "power.epicsorigins.fairy/regeneration.description": "У вас є природне відновлення",
+
+  "power.epicsorigins.fairy/look.name": "Погляд феї",
+
+  "power.epicsorigins.fairy/look.description": "У вас є крила на спині",
+
+  "power.epicsorigins.mermaid/swim_speed.name": "Хороший плавець",
+
+  "power.epicsorigins.mermaid/swim_speed.description": "Ваша швидкість плавання значно зросла",
+
+  "power.epicsorigins.mermaid/weakness.name": "Сухопутна хвороба",
+
+  "power.epicsorigins.mermaid/weakness.description": "Ви стаєте повільнішими та слабшими, коли виходите з води",
+
+  "power.epicsorigins.mermaid/look.name": "Погляд русалки",
+
+  "power.epicsorigins.mermaid/look.description": "У вас риб'ячий хвіст без ніг",
+
+  "power.epicsorigins.demon/armor.name": "Проклята кров",
+
+  "power.epicsorigins.demon/armor.description": "У вас є додатковий захист",
+
+  "power.epicsorigins.demon/look.name": "Демонічний вигляд",
+
+  "power.epicsorigins.demon/look.description": "У вас демонські роги і хвіст",
+
+  "power.epicsorigins.kitsune/health.name": "Здоров'я хвоста",
+
+  "power.epicsorigins.kitsune/health.description": "Ваше здоров'я збільшується на 1 серце",
+
+  "power.epicsorigins.kitsune/speed.name": "Вища швидкість",
+
+  "power.epicsorigins.kitsune/speed.description": "У вас швидкість на 1,5 вища",
+
+  "power.epicsorigins.kitsune/fox_transformation.name": "Лисича зовнішність",
+
+  "power.epicsorigins.kitsune/fox_transformation.description": "Ви можете перетворитися на лисицю і повернутися в людську форму",
+
+  "power.epicsorigins.kitsune/wolf_fear.name": "Вовчий страх",
+
+  "power.epicsorigins.kitsune/wolf_fear.description": "Вовки завжди будуть нападати на вас, і ви слабшаєте біля них",
+
+  "power.epicsorigins.kitsune/look.name": "Погляд Кіцуне",
+
+  "power.epicsorigins.kitsune/look.description": "У вас є лисячий хвіст і вушка",
+
+  "power.epicsorigins.evolved/super_human/primary_ability.name": "Друге дихання",
+
+  "power.epicsorigins.evolved/super_human/primary_ability.description": "Ви відновлюєте повне здоров'я, голод і очищаєте всі свої наслідки",
+
+  "power.epicsorigins.evolved/slime_king/primary_ability.name": "Слизові кулі",
+
+  "power.epicsorigins.evolved/slime_king/primary_ability.description": "Ви кидаєте 5 слизових куль, які завдають 2 пошкоджень",
+
+  "power.epicsorigins.evolved/slime_king/secondary_ability.name": "СТРИБОК",
+
+  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "Ви стрибаєте дуже високо і залишаєте під собою зону, що завдає шкоди",
+
+  "power.epicsorigins.evolved/slime_king/health.name": "Ще більший слиз",
+
+  "power.epicsorigins.evolved/slime_king/health.description": "Тепер у вас є 14 сердечок",
+
+  "power.epicsorigins.evolved/slime_king/color.name": "7 желейних кольорів",
+
+  "power.epicsorigins.evolved/slime_king/color.description": "Ви можете змінити свій колір або видалити його, коли захочете",
+
+  "power.epicsorigins.evolved/angel/primary_ability.name": "Очистити",
+
+  "power.epicsorigins.evolved/angel/primary_ability.description": "Ви очищаєте всі ефекти від себе та гравців поблизу",
+
+  "power.epicsorigins.evolved/angel/secondary_ability.name": "Додаткове здоров'я",
+
+  "power.epicsorigins.evolved/angel/secondary_ability.description": "За хвилину можна отримати 8 додаткових сердечок",
+
+  "power.epicsorigins.evolved/angel/flight.name": "політ",
+
+  "power.epicsorigins.evolved/angel/flight.description": "Літати можна нескінченно",
+
+  "power.epicsorigins.evolved/angel/regeneration.name": "Свята кров",
+
+  "power.epicsorigins.evolved/angel/regeneration.description": "У вас дуже швидка регенерація",
+
+  "power.epicsorigins.evolved/angel/undead_damage.name": "Свята зброя",
+
+  "power.epicsorigins.evolved/angel/undead_damage.description": "Ви завдаєте вдвічі більше шкоди нежиті",
+
+  "power.epicsorigins.evolved/angel/look.name": "Ангельський погляд",
+
+  "power.epicsorigins.evolved/angel/look.description": "У вас гарні білі крила",
+
+  "power.epicsorigins.evolved/oceanid/primary_ability.name": "Серенада",
+
+  "power.epicsorigins.evolved/oceanid/primary_ability.description": "Ви співаєте гарну пісню, і моби навколо вас стають нейтральними",
+
+  "power.epicsorigins.evolved/oceanid/secondary_ability.name": "Контроль погоди",
+
+  "power.epicsorigins.evolved/oceanid/secondary_ability.description": "Ви можете змінити погоду на дощ або очистити погоду, якщо йде дощ",
+
+  "power.epicsorigins.evolved/oceanid/long_breathing.name": "Довге дихання",
+
+  "power.epicsorigins.evolved/oceanid/long_breathing.description": "На повітрі можна залишатися набагато довше",
+
+  "power.epicsorigins.evolved/oceanid/color.name": "Поява духу",
+
+  "power.epicsorigins.evolved/oceanid/color.description": "Ти схожий на духа синьої води",
+
+  "power.epicsorigins.evolved/asura/primary_ability.name": "Палаюча лють",
+
+  "power.epicsorigins.evolved/asura/primary_ability.description": "Ви підпалюєте себе і стаєте менш сприйнятливими до пошкоджень",
+
+  "power.epicsorigins.evolved/asura/secondary_ability.name": "Вогняна аура",
+
+  "power.epicsorigins.evolved/asura/secondary_ability.description": "Деякий час усі сутності поблизу отримають пошкодження від вогню",
+
+  "power.epicsorigins.evolved/asura/armor.name": "Вогняна кров",
+
+  "power.epicsorigins.evolved/asura/armor.description": "У вас є додатковий захист 8",
+
+  "power.epicsorigins.evolved/asura/burning_wrath.name": "Палаючий гнів",
+
+  "power.epicsorigins.evolved/asura/burning_wrath.description": "Коли ви у вогні, ви завдаєте в 1,5 рази більше шкоди",
+
+  "power.epicsorigins.evolved/asura/look.name": "Вогненний погляд",
+
+  "power.epicsorigins.evolved/asura/look.description": "У вас роги й хвіст охоплені вогнем",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/health.name": "Більше хвостиків, більше серця",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/health.description": "У вас виросло 9 хвостів, тому ваше здоров'я також збільшилося на 9 сердець",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/speed.name": "Швидкий як звук",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/speed.description": "Ви вдвічі швидші за звичайних людей",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/secondary_ability.name": "Ілюзія лисиці",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/secondary_ability.description": "Ви зникаєте в ілюзії та послаблюєте всі сутності в радіусі 6 блоків"
+}

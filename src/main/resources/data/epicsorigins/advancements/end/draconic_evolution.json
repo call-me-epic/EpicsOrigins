@@ -1,0 +1,36 @@
+{
+  "parent": "minecraft:end/kill_dragon",
+  "criteria": {
+    "used_orb": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "epicsorigins:orb_of_evolution"
+          ]
+        }
+      }
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.end.draconic_evolution.description"
+    },
+    "icon": {
+      "item": "epicsorigins:orb_of_evolution"
+    },
+    "title": {
+      "translate": "advancements.end.draconic_evolution.title"
+    },
+    "frame": "goal",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "requirements": [
+    [
+      "used_orb"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

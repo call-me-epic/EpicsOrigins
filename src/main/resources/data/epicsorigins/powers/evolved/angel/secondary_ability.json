@@ -1,0 +1,16 @@
+{
+  "type": "origins:active_self",
+  "entity_action": {
+    "type": "origins:apply_effect",
+    "effect": {
+      "effect": "minecraft:absorption",
+      "duration": 1200,
+      "amplifier": 3,
+      "show_particles": false
+    }
+  },
+  "cooldown": 1800,
+  "key": {
+    "key": "key.origins.secondary_active"
+  }
+}

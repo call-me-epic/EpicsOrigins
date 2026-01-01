@@ -1,0 +1,236 @@
+{
+
+  "advancement.end.draconic_evolution.title": "Drakoninen evoluutio",
+
+  "advancement.end.draconic_evolution.description": "Käytä evoluution palloa",
+
+  "message.epicsorigins.no_further_upgrades": "Alkuperälläsi ei ole enempää kehitystä",
+
+  "category.epicsorigins": "Eepoksen alkuperä",
+
+  "key.epicsorigins.change_look": "Muuta ulkoasua",
+
+  "effect.epicsorigins.charm": "Viehätys",
+
+  "item.epicsorigins.orb_of_evolution": "Evoluutiopallo",
+
+  "origin.epicsorigins.human.name": "Ihmisen",
+
+  "origin.epicsorigins.human.description": "Tavallinen ihminen. Tavallinen Minecraft-kokemuksesi odottaa.",
+
+  "origin.epicsorigins.slime.name": "Lima",
+
+  "origin.epicsorigins.slime.description": "Joten nyt olet pirteä",
+
+  "origin.epicsorigins.fairy.name": "Keiju",
+
+  "origin.epicsorigins.fairy.description": "Pienten ihmisten rotu siivillä",
+
+  "origin.epicsorigins.mermaid.name": "Merenneito",
+
+  "origin.epicsorigins.mermaid.description": "Merenneidot ovat myyttisiä olentoja, joilla on ihmiskasvot ja kalan häntä",
+
+  "origin.epicsorigins.demon.name": "Demoni",
+
+  "origin.epicsorigins.demon.description": "Sinut karkotettiin Alankomaihin syntiesi vuoksi, mutta joillain eduilla",
+
+  "origin.epicsorigins.kitsune.name": "kettu",
+
+  "origin.epicsorigins.kitsune.description": "Kitsune on ikivanha ketturotu, jolla on kyky muuttua ihmismuodoksi",
+
+  "origin.epicsorigins.evolved/super_human.name": "Superihminen",
+
+  "origin.epicsorigins.evolved/super_human.description": "Ei tavallinen ihminen. Sama Minecraft-kokemuksesi odottaa.",
+
+  "origin.epicsorigins.evolved/slime_king.name": "Liman kuningas",
+
+  "origin.epicsorigins.evolved/slime_king.description": "Sinusta on kehittynyt liman kuningas",
+
+  "origin.epicsorigins.evolved/angel.name": "Enkeli",
+
+  "origin.epicsorigins.evolved/angel.description": "Sinusta kehittyi jumalallinen rotu, jolla on siivet ja pyhät voimat",
+
+  "origin.epicsorigins.evolved/oceanid.name": "Oceanid",
+
+  "origin.epicsorigins.evolved/oceanid.description": "Sinusta kehittyi vesihenki, joka voi hallita vettä",
+
+  "origin.epicsorigins.evolved/asura.name": "Asura",
+
+  "origin.epicsorigins.evolved/asura.description": "Sinusta kehittyi tulidemoni",
+
+  "origin.epicsorigins.evolved/nine_tailed_kitsune.name": "Yhdeksänhäntäinen kitsune",
+
+  "origin.epicsorigins.evolved/nine_tailed_kitsune.description": "Sinusta kehittyi kitsunen vanhempi versio. Voimasi ovat lisääntyneet",
+
+  "power.epicsorigins.slime/no_kinetic_damage.name": "Pomppiva runko",
+
+  "power.epicsorigins.slime/no_kinetic_damage.description": "Et ota vahinkoa putoamisesta ja lentää seiniin",
+
+  "power.epicsorigins.slime/movement.name": "Liman liike",
+
+  "power.epicsorigins.slime/movement.description": "Nouset lattialta kuin limapaloista",
+
+  "power.epicsorigins.slime/color.name": "7 hyytelöväriä",
+
+  "power.epicsorigins.slime/color.description": "Voit vaihtaa väriäsi tai poistaa sen milloin haluat",
+
+  "power.epicsorigins.slime/health.name": "Iso lima",
+
+  "power.epicsorigins.slime/health.description": "Nyt sinulla on 16 terveyttä kuin iso lima",
+
+  "power.epicsorigins.fairy/flight.name": "Siivet",
+
+  "power.epicsorigins.fairy/flight.description": "Voit lentää, mutta vain 5 sekuntia",
+
+  "power.epicsorigins.fairy/health.name": "Pieni terveys",
+
+  "power.epicsorigins.fairy/health.description": "Sinulla on vain 8 terveyttä",
+
+  "power.epicsorigins.fairy/size.name": "Pieni koko",
+
+  "power.epicsorigins.fairy/size.description": "Olet vain pieni (toimii vain pehkuin kanssa)",
+
+  "power.epicsorigins.fairy/weakness.name": "Heikot kädet",
+
+  "power.epicsorigins.fairy/weakness.description": "Vahinkosi jaetaan 3:lla",
+
+  "power.epicsorigins.fairy/regeneration.name": "Maaginen veri",
+
+  "power.epicsorigins.fairy/regeneration.description": "Sinulla on luonnollinen uusiutuminen",
+
+  "power.epicsorigins.fairy/look.name": "Keijun ilme",
+
+  "power.epicsorigins.fairy/look.description": "Sinulla on siivet selässäsi",
+
+  "power.epicsorigins.mermaid/swim_speed.name": "Hyvä uimari",
+
+  "power.epicsorigins.mermaid/swim_speed.description": "Uintinopeus on kasvanut huomattavasti",
+
+  "power.epicsorigins.mermaid/weakness.name": "Maasairaus",
+
+  "power.epicsorigins.mermaid/weakness.description": "Olet hitaampi ja heikompi, kun nouset vedestä",
+
+  "power.epicsorigins.mermaid/look.name": "Merenneidon ilme",
+
+  "power.epicsorigins.mermaid/look.description": "Sinulla on kalan häntä ilman jalkoja",
+
+  "power.epicsorigins.demon/armor.name": "Kirottu veri",
+
+  "power.epicsorigins.demon/armor.description": "Sinulla on ylimääräinen puolustus",
+
+  "power.epicsorigins.demon/look.name": "Demoninen ilme",
+
+  "power.epicsorigins.demon/look.description": "Sinulla on demonin sarvet ja häntä",
+
+  "power.epicsorigins.kitsune/health.name": "Hännän terveys",
+
+  "power.epicsorigins.kitsune/health.description": "Terveytesi paranee yhdellä sydämellä",
+
+  "power.epicsorigins.kitsune/speed.name": "Suurempi nopeus",
+
+  "power.epicsorigins.kitsune/speed.description": "Sinulla on 1,5 suurempi nopeus",
+
+  "power.epicsorigins.kitsune/fox_transformation.name": "Ketun ulkonäkö",
+
+  "power.epicsorigins.kitsune/fox_transformation.description": "Voit muuttua ketuksi ja takaisin ihmismuotoosi",
+
+  "power.epicsorigins.kitsune/wolf_fear.name": "Susi pelko",
+
+  "power.epicsorigins.kitsune/wolf_fear.description": "Sudet hyökkäävät aina kimppuun ja olet heikentymässä heidän lähellään",
+
+  "power.epicsorigins.kitsune/look.name": "Kitsunen ilme",
+
+  "power.epicsorigins.kitsune/look.description": "Sinulla on ketun häntä ja korvat",
+
+  "power.epicsorigins.evolved/super_human/primary_ability.name": "Toinen hengitys",
+
+  "power.epicsorigins.evolved/super_human/primary_ability.description": "Palautat täyden terveyden, nälän ja poistat kaikki vaikutukset",
+
+  "power.epicsorigins.evolved/slime_king/primary_ability.name": "Liman luoteja",
+
+  "power.epicsorigins.evolved/slime_king/primary_ability.description": "Ammut 5 limapalloa, jotka aiheuttavat 2 vahinkoa",
+
+  "power.epicsorigins.evolved/slime_king/secondary_ability.name": "HYPPY",
+
+  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "Hyppäät erittäin korkealle ja jätät vaurioiden käsittelyalueen alle",
+
+  "power.epicsorigins.evolved/slime_king/health.name": "Vielä isompi lima",
+
+  "power.epicsorigins.evolved/slime_king/health.description": "Sinulla on nyt 14 sydäntä",
+
+  "power.epicsorigins.evolved/slime_king/color.name": "7 hyytelöväriä",
+
+  "power.epicsorigins.evolved/slime_king/color.description": "Voit vaihtaa väriäsi tai poistaa sen milloin haluat",
+
+  "power.epicsorigins.evolved/angel/primary_ability.name": "Puhdistaa",
+
+  "power.epicsorigins.evolved/angel/primary_ability.description": "Tyhjennät kaikki tehosteet sinulta ja lähellä olevilta pelaajilta",
+
+  "power.epicsorigins.evolved/angel/secondary_ability.name": "Ylimääräistä terveyttä",
+
+  "power.epicsorigins.evolved/angel/secondary_ability.description": "Voit saada 8 ylimääräistä sydäntä minuutilla",
+
+  "power.epicsorigins.evolved/angel/flight.name": "Lento",
+
+  "power.epicsorigins.evolved/angel/flight.description": "Voit lentää loputtomasti",
+
+  "power.epicsorigins.evolved/angel/regeneration.name": "Pyhä veri",
+
+  "power.epicsorigins.evolved/angel/regeneration.description": "Sinulla on erittäin nopea regeneraatio",
+
+  "power.epicsorigins.evolved/angel/undead_damage.name": "Pyhä ase",
+
+  "power.epicsorigins.evolved/angel/undead_damage.description": "Teet 2 kertaa enemmän vahinkoa epäkuolleille väkijoukoille",
+
+  "power.epicsorigins.evolved/angel/look.name": "Enkelimainen ilme",
+
+  "power.epicsorigins.evolved/angel/look.description": "Sinulla on kauniit valkoiset siivet",
+
+  "power.epicsorigins.evolved/oceanid/primary_ability.name": "Serenadi",
+
+  "power.epicsorigins.evolved/oceanid/primary_ability.description": "Laulat kauniin laulun ja ympärilläsi olevat väkijoukot muuttuvat neutraaleiksi",
+
+  "power.epicsorigins.evolved/oceanid/secondary_ability.name": "Sääohjaus",
+
+  "power.epicsorigins.evolved/oceanid/secondary_ability.description": "Voit muuttaa sään sateeksi tai tyhjentää sään, jos sataa",
+
+  "power.epicsorigins.evolved/oceanid/long_breathing.name": "Pitkä hengitys",
+
+  "power.epicsorigins.evolved/oceanid/long_breathing.description": "Voit pysyä ilmassa paljon pidempään",
+
+  "power.epicsorigins.evolved/oceanid/color.name": "Hengen ulkonäkö",
+
+  "power.epicsorigins.evolved/oceanid/color.description": "Näytät siniseltä vesihengeltä",
+
+  "power.epicsorigins.evolved/asura/primary_ability.name": "Polttava raivo",
+
+  "power.epicsorigins.evolved/asura/primary_ability.description": "Sytytät itsesi tuleen ja tulet vähemmän alttiiksi vaurioille",
+
+  "power.epicsorigins.evolved/asura/secondary_ability.name": "Tulinen aura",
+
+  "power.epicsorigins.evolved/asura/secondary_ability.description": "Kaikki lähellä olevat kohteet saavat palovahinkoja jonkin aikaa",
+
+  "power.epicsorigins.evolved/asura/armor.name": "Tuli verta",
+
+  "power.epicsorigins.evolved/asura/armor.description": "Sinulla on 8 ylimääräistä puolustusta",
+
+  "power.epicsorigins.evolved/asura/burning_wrath.name": "Polttava viha",
+
+  "power.epicsorigins.evolved/asura/burning_wrath.description": "Kun olet tulipalossa, aiheutat 1,5 kertaa enemmän vahinkoa",
+
+  "power.epicsorigins.evolved/asura/look.name": "Tulinen ilme",
+
+  "power.epicsorigins.evolved/asura/look.description": "Sinulla on tulen peitossa sarvet ja häntä",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/health.name": "Enemmän häntää, enemmän sydäntä",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/health.description": "Sinulla on kasvanut 9 häntää, joten terveytesi on kasvanut myös 9 sydämellä",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/speed.name": "Nopea kuin ääni",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/speed.description": "Olet 2 kertaa nopeampi kuin tavalliset ihmiset",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/secondary_ability.name": "Kettu illuusio",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/secondary_ability.description": "Hävität illuusiossa ja heikennät kaikkia entiteettejä 6 lohkon säteellä"
+}

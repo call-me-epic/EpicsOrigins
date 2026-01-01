@@ -1,0 +1,236 @@
+{
+
+  "advancement.end.draconic_evolution.title": "Draconische evolutie",
+
+  "advancement.end.draconic_evolution.description": "Gebruik de bol van evolutie",
+
+  "message.epicsorigins.no_further_upgrades": "Jouw oorsprong kent geen verdere evoluties",
+
+  "category.epicsorigins": "Epische oorsprong",
+
+  "key.epicsorigins.change_look": "Verander het uiterlijk",
+
+  "effect.epicsorigins.charm": "Charme",
+
+  "item.epicsorigins.orb_of_evolution": "Orb van evolutie",
+
+  "origin.epicsorigins.human.name": "Menselijk",
+
+  "origin.epicsorigins.human.description": "Een gewoon mens. Je gewone Minecraft-ervaring wacht op je.",
+
+  "origin.epicsorigins.slime.name": "Slijm",
+
+  "origin.epicsorigins.slime.description": "Dus nu ben je springerig",
+
+  "origin.epicsorigins.fairy.name": "Fee",
+
+  "origin.epicsorigins.fairy.description": "Ras van kleine mensen met vleugels",
+
+  "origin.epicsorigins.mermaid.name": "Meermin",
+
+  "origin.epicsorigins.mermaid.description": "Zeemeerminnen zijn mythische wezens met menselijke gezichten en vissenstaarten",
+
+  "origin.epicsorigins.demon.name": "Demon",
+
+  "origin.epicsorigins.demon.description": "Je werd vanwege je zonden naar de Nether verbannen, maar met enkele voordelen",
+
+  "origin.epicsorigins.kitsune.name": "vos",
+
+  "origin.epicsorigins.kitsune.description": "Kitsune is een oud vossenras met het vermogen om in een menselijke vorm te veranderen",
+
+  "origin.epicsorigins.evolved/super_human.name": "Super menselijk",
+
+  "origin.epicsorigins.evolved/super_human.description": "Geen gewoon mens. Jouw zelfde Minecraft-ervaring wacht op je.",
+
+  "origin.epicsorigins.evolved/slime_king.name": "Slijm Koning",
+
+  "origin.epicsorigins.evolved/slime_king.description": "Je bent geëvolueerd tot een koning van slijm",
+
+  "origin.epicsorigins.evolved/angel.name": "Engel",
+
+  "origin.epicsorigins.evolved/angel.description": "Je evolueerde naar een goddelijk ras met vleugels en heilige krachten",
+
+  "origin.epicsorigins.evolved/oceanid.name": "Oceanide",
+
+  "origin.epicsorigins.evolved/oceanid.description": "Je bent geëvolueerd tot een watergeest die water kan beheersen",
+
+  "origin.epicsorigins.evolved/asura.name": "Asura",
+
+  "origin.epicsorigins.evolved/asura.description": "Je bent geëvolueerd tot een vuurdemon",
+
+  "origin.epicsorigins.evolved/nine_tailed_kitsune.name": "Kitsune met negen staarten",
+
+  "origin.epicsorigins.evolved/nine_tailed_kitsune.description": "Je bent geëvolueerd naar een oudere versie van kitsune. Je krachten zijn toegenomen",
+
+  "power.epicsorigins.slime/no_kinetic_damage.name": "Veerkrachtig lichaam",
+
+  "power.epicsorigins.slime/no_kinetic_damage.description": "Je loopt geen schade op door te vallen en tegen muren aan te vliegen",
+
+  "power.epicsorigins.slime/movement.name": "Slijm beweging",
+
+  "power.epicsorigins.slime/movement.description": "Je springt van de vloer als uit slijmblokken",
+
+  "power.epicsorigins.slime/color.name": "7 geleikleuren",
+
+  "power.epicsorigins.slime/color.description": "Je kunt je kleur veranderen of verwijderen wanneer je maar wilt",
+
+  "power.epicsorigins.slime/health.name": "Groot slijm",
+
+  "power.epicsorigins.slime/health.description": "Nu heb je 16 gezondheid als een groot slijm",
+
+  "power.epicsorigins.fairy/flight.name": "Vleugels",
+
+  "power.epicsorigins.fairy/flight.description": "Je kunt vliegen, maar slechts voor 5 seconden",
+
+  "power.epicsorigins.fairy/health.name": "Kleine gezondheid",
+
+  "power.epicsorigins.fairy/health.description": "Je hebt slechts 8 gezondheid",
+
+  "power.epicsorigins.fairy/size.name": "Klein formaat",
+
+  "power.epicsorigins.fairy/size.description": "Je bent maar klein (werkt alleen met pehkui)",
+
+  "power.epicsorigins.fairy/weakness.name": "Zwakke handen",
+
+  "power.epicsorigins.fairy/weakness.description": "Uw schade wordt gedeeld door 3",
+
+  "power.epicsorigins.fairy/regeneration.name": "Magisch bloed",
+
+  "power.epicsorigins.fairy/regeneration.description": "Je hebt natuurlijke regeneratie",
+
+  "power.epicsorigins.fairy/look.name": "Fee's blik",
+
+  "power.epicsorigins.fairy/look.description": "Je hebt vleugels op je rug",
+
+  "power.epicsorigins.mermaid/swim_speed.name": "Goede zwemmer",
+
+  "power.epicsorigins.mermaid/swim_speed.description": "Je zwemsnelheid is sterk verhoogd",
+
+  "power.epicsorigins.mermaid/weakness.name": "Grondziekte",
+
+  "power.epicsorigins.mermaid/weakness.description": "Je wordt langzamer en zwakker als je uit het water komt",
+
+  "power.epicsorigins.mermaid/look.name": "De blik van een zeemeermin",
+
+  "power.epicsorigins.mermaid/look.description": "Je hebt een vissenstaart zonder poten",
+
+  "power.epicsorigins.demon/armor.name": "Vervloekt bloed",
+
+  "power.epicsorigins.demon/armor.description": "Je hebt een extra verdediging",
+
+  "power.epicsorigins.demon/look.name": "Demonische blik",
+
+  "power.epicsorigins.demon/look.description": "Je hebt demonenhoorns en staart",
+
+  "power.epicsorigins.kitsune/health.name": "Gezondheid van de staart",
+
+  "power.epicsorigins.kitsune/health.description": "Je gezondheid wordt met 1 hart verhoogd",
+
+  "power.epicsorigins.kitsune/speed.name": "Hogere snelheid",
+
+  "power.epicsorigins.kitsune/speed.description": "Je hebt 1,5 hogere snelheid",
+
+  "power.epicsorigins.kitsune/fox_transformation.name": "Vos uiterlijk",
+
+  "power.epicsorigins.kitsune/fox_transformation.description": "Je kunt in een vos veranderen en teruggaan naar je menselijke vorm",
+
+  "power.epicsorigins.kitsune/wolf_fear.name": "Wolfsangst",
+
+  "power.epicsorigins.kitsune/wolf_fear.description": "Wolven zullen je altijd aanvallen en je wordt zwak in de buurt van hen",
+
+  "power.epicsorigins.kitsune/look.name": "Kitsune's uiterlijk",
+
+  "power.epicsorigins.kitsune/look.description": "Je hebt een vossenstaart en oren",
+
+  "power.epicsorigins.evolved/super_human/primary_ability.name": "Tweede adem",
+
+  "power.epicsorigins.evolved/super_human/primary_ability.description": "Je herstelt de volledige gezondheid, honger en ruimt al je effecten op",
+
+  "power.epicsorigins.evolved/slime_king/primary_ability.name": "Slijm kogels",
+
+  "power.epicsorigins.evolved/slime_king/primary_ability.description": "Je schiet 5 slijmballen af ​​die 2 schade aanrichten",
+
+  "power.epicsorigins.evolved/slime_king/secondary_ability.name": "DE SPRONG",
+
+  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "Je springt heel hoog en verlaat het schadegebied onder je",
+
+  "power.epicsorigins.evolved/slime_king/health.name": "Nog groter slijm",
+
+  "power.epicsorigins.evolved/slime_king/health.description": "Je hebt nu 14 harten",
+
+  "power.epicsorigins.evolved/slime_king/color.name": "7 geleikleuren",
+
+  "power.epicsorigins.evolved/slime_king/color.description": "Je kunt je kleur veranderen of verwijderen wanneer je maar wilt",
+
+  "power.epicsorigins.evolved/angel/primary_ability.name": "Zuiveren",
+
+  "power.epicsorigins.evolved/angel/primary_ability.description": "Je verwijdert alle effecten van jou en spelers in de buurt",
+
+  "power.epicsorigins.evolved/angel/secondary_ability.name": "Extra gezondheid",
+
+  "power.epicsorigins.evolved/angel/secondary_ability.description": "Je kunt voor een minuut 8 extra harten krijgen",
+
+  "power.epicsorigins.evolved/angel/flight.name": "Vlucht",
+
+  "power.epicsorigins.evolved/angel/flight.description": "Je kunt oneindig vliegen",
+
+  "power.epicsorigins.evolved/angel/regeneration.name": "Heilig bloed",
+
+  "power.epicsorigins.evolved/angel/regeneration.description": "Je hebt een zeer snelle regeneratie",
+
+  "power.epicsorigins.evolved/angel/undead_damage.name": "Heilig wapen",
+
+  "power.epicsorigins.evolved/angel/undead_damage.description": "Je brengt 2 keer meer schade toe aan ondode mobs",
+
+  "power.epicsorigins.evolved/angel/look.name": "Engelachtige blik",
+
+  "power.epicsorigins.evolved/angel/look.description": "Je hebt prachtige witte vleugels",
+
+  "power.epicsorigins.evolved/oceanid/primary_ability.name": "Serenade",
+
+  "power.epicsorigins.evolved/oceanid/primary_ability.description": "Je zingt een prachtig lied en de menigte om je heen wordt neutraal",
+
+  "power.epicsorigins.evolved/oceanid/secondary_ability.name": "Weercontrole",
+
+  "power.epicsorigins.evolved/oceanid/secondary_ability.description": "Je kunt het weer veranderen in regen of het weer laten opklaren als het regent",
+
+  "power.epicsorigins.evolved/oceanid/long_breathing.name": "Lange ademhaling",
+
+  "power.epicsorigins.evolved/oceanid/long_breathing.description": "Je kunt veel langer in de lucht blijven",
+
+  "power.epicsorigins.evolved/oceanid/color.name": "Geestelijke verschijning",
+
+  "power.epicsorigins.evolved/oceanid/color.description": "Je ziet eruit als een blauwe watergeest",
+
+  "power.epicsorigins.evolved/asura/primary_ability.name": "Brandende woede",
+
+  "power.epicsorigins.evolved/asura/primary_ability.description": "Je steekt jezelf in brand en wordt minder vatbaar voor schade",
+
+  "power.epicsorigins.evolved/asura/secondary_ability.name": "Vuur aura",
+
+  "power.epicsorigins.evolved/asura/secondary_ability.description": "Alle nabijgelegen entiteiten zullen een tijdje brandschade oplopen",
+
+  "power.epicsorigins.evolved/asura/armor.name": "Vuurbloed",
+
+  "power.epicsorigins.evolved/asura/armor.description": "Je hebt een 8 extra verdediging",
+
+  "power.epicsorigins.evolved/asura/burning_wrath.name": "Brandende woede",
+
+  "power.epicsorigins.evolved/asura/burning_wrath.description": "Als je in brand staat, richt je 1,5 keer meer schade aan",
+
+  "power.epicsorigins.evolved/asura/look.name": "Vurige blik",
+
+  "power.epicsorigins.evolved/asura/look.description": "Je hebt hoorns en staart bedekt met vuur",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/health.name": "Meer staarten, meer hart",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/health.description": "Je hebt 9 staarten gekregen, dus je gezondheid is ook met 9 harten verhoogd",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/speed.name": "Snel als geluid",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/speed.description": "Je bent 2 keer sneller dan gewone mensen",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/secondary_ability.name": "Vos illusie",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/secondary_ability.description": "Je verdwijnt in een illusie en verzwakt alle entiteiten binnen een straal van 6 blokken"
+}

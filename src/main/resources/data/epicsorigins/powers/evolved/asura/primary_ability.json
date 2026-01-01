@@ -1,0 +1,24 @@
+{
+  "type": "origins:active_self",
+  "entity_action": {
+    "type": "origins:and",
+    "actions": [
+      {
+        "type": "origins:grant_power",
+        "power": "epicsorigins:evolved/asura/primary_ability_action",
+        "source": "epicsorigins:evolved/asura"
+      },
+      {
+        "type": "origins:apply_effect",
+        "effect": {
+          "effect": "minecraft:resistance",
+          "duration": 400,
+          "amplifier": 1,
+          "show_particles": false,
+          "show_icon": false
+        }
+      }
+    ]
+  },
+  "cooldown": 600
+}

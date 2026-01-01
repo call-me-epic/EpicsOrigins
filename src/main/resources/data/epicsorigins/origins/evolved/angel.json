@@ -1,0 +1,16 @@
+{
+  "powers": [
+    "epicsorigins:evolved/angel/primary_ability",
+    "epicsorigins:evolved/angel/secondary_ability",
+    "epicsorigins:evolved/angel/flight",
+    "epicsorigins:evolved/angel/undead_damage",
+    "epicsorigins:evolved/angel/regeneration",
+    "epicsorigins:evolved/angel/look"
+  ],
+  "icon": {
+    "item": "minecraft:feather"
+  },
+  "order": 2,
+  "impact": 3,
+  "unchoosable": true
+}

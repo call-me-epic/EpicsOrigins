@@ -1,0 +1,24 @@
+{
+  "powers": [
+    "epicsorigins:evolved/oceanid/primary_ability",
+    "epicsorigins:evolved/oceanid/secondary_ability",
+    "origins:water_vision",
+    "epicsorigins:evolved/oceanid/long_breathing",
+    "epicsorigins:mermaid/swim_speed",
+    "origins:aquatic",
+    "origins:water_breathing",
+    "origins:aqua_affinity",
+    "origins:like_water",
+    "origins:conduit_power_on_land",
+    "origins:air_from_potions",
+    "epicsorigins:mermaid/weakness",
+    "epicsorigins:evolved/oceanid/water_color",
+    "epicsorigins:evolved/oceanid/color"
+  ],
+  "icon": {
+    "item": "minecraft:heart_of_the_sea"
+  },
+  "order": 1,
+  "impact": 3,
+  "unchoosable": true
+}

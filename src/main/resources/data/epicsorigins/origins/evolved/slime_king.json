@@ -1,0 +1,17 @@
+{
+  "powers": [
+    "epicsorigins:evolved/slime_king/primary_ability",
+    "epicsorigins:evolved/slime_king/secondary_ability",
+    "epicsorigins:evolved/slime_king/health",
+    "epicsorigins:slime/no_kinetic_damage",
+    "epicsorigins:slime/movement",
+    "epicsorigins:evolved/slime_king/color",
+    "epicsorigins:color/green"
+  ],
+  "icon": {
+    "item": "minecraft:slime_block"
+  },
+  "order": 1,
+  "impact": 2,
+  "unchoosable": true
+}

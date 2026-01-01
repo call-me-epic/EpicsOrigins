@@ -1,0 +1,20 @@
+{
+  "powers": [
+    "epicsorigins:kitsune/fox_transformation",
+    "epicsorigins:kitsune/health",
+    "epicsorigins:kitsune/speed",
+    "epicsorigins:kitsune/wolf_fear",
+    "epicsorigins:kitsune/look"
+  ],
+  "icon": {
+    "item": "minecraft:sweet_berries"
+  },
+  "order": 3,
+  "impact": 1,
+  "upgrades": [
+    {
+      "condition": "epicsorigins:end/draconic_evolution",
+      "origin": "epicsorigins:evolved/nine_tailed_kitsune"
+    }
+  ]
+}

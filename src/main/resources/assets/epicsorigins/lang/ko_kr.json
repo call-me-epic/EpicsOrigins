@@ -1,0 +1,236 @@
+{
+
+  "advancement.end.draconic_evolution.title": "용의 진화",
+
+  "advancement.end.draconic_evolution.description": "진화의 오브를 사용하세요",
+
+  "message.epicsorigins.no_further_upgrades": "당신의 기원에는 더 이상의 진화가 없습니다",
+
+  "category.epicsorigins": "에픽의 기원",
+
+  "key.epicsorigins.change_look": "모습 바꾸기",
+
+  "effect.epicsorigins.charm": "매력",
+
+  "item.epicsorigins.orb_of_evolution": "진화의 오브",
+
+  "origin.epicsorigins.human.name": "인간",
+
+  "origin.epicsorigins.human.description": "평범한 인간. 평범한 Minecraft 경험이 여러분을 기다립니다.",
+
+  "origin.epicsorigins.slime.name": "더러운 것",
+
+  "origin.epicsorigins.slime.description": "이제 당신은 탄력이 있어요",
+
+  "origin.epicsorigins.fairy.name": "요정",
+
+  "origin.epicsorigins.fairy.description": "날개를 가진 작은 인간의 경주",
+
+  "origin.epicsorigins.mermaid.name": "인어",
+
+  "origin.epicsorigins.mermaid.description": "인어는 인간의 얼굴과 물고기 꼬리를 가진 신화 속의 생물입니다.",
+
+  "origin.epicsorigins.demon.name": "악마",
+
+  "origin.epicsorigins.demon.description": "당신은 당신의 죄로 인해 네더로 추방되었지만 몇 가지 이점이 있었습니다.",
+
+  "origin.epicsorigins.kitsune.name": "여우",
+
+  "origin.epicsorigins.kitsune.description": "키츠네는 인간의 모습으로 변신할 수 있는 능력을 지닌 고대 여우 종족입니다.",
+
+  "origin.epicsorigins.evolved/super_human.name": "슈퍼 휴먼",
+
+  "origin.epicsorigins.evolved/super_human.description": "평범한 인간이 아닙니다. 여러분과 동일한 Minecraft 경험이 여러분을 기다립니다.",
+
+  "origin.epicsorigins.evolved/slime_king.name": "슬라임킹",
+
+  "origin.epicsorigins.evolved/slime_king.description": "당신은 슬라임의 왕으로 진화했습니다",
+
+  "origin.epicsorigins.evolved/angel.name": "천사",
+
+  "origin.epicsorigins.evolved/angel.description": "당신은 날개와 신성한 힘을 지닌 신성한 종족으로 진화했습니다",
+
+  "origin.epicsorigins.evolved/oceanid.name": "해양 생물",
+
+  "origin.epicsorigins.evolved/oceanid.description": "물을 조종하는 물의 정령으로 진화했습니다.",
+
+  "origin.epicsorigins.evolved/asura.name": "아수라",
+
+  "origin.epicsorigins.evolved/asura.description": "당신은 불의 악마로 진화했습니다",
+
+  "origin.epicsorigins.evolved/nine_tailed_kitsune.name": "구미호 키츠네",
+
+  "origin.epicsorigins.evolved/nine_tailed_kitsune.description": "당신은 이전 버전의 kitsune으로 진화했습니다. 당신의 힘이 증가했습니다",
+
+  "power.epicsorigins.slime/no_kinetic_damage.name": "탄력있는 몸",
+
+  "power.epicsorigins.slime/no_kinetic_damage.description": "벽에 떨어지거나 날아가도 피해를 입지 않습니다.",
+
+  "power.epicsorigins.slime/movement.name": "슬라임의 움직임",
+
+  "power.epicsorigins.slime/movement.description": "넌 슬라임 블록처럼 바닥에서 튀어나오지",
+
+  "power.epicsorigins.slime/color.name": "7가지 젤리 컬러",
+
+  "power.epicsorigins.slime/color.description": "원할 때마다 색상을 변경하거나 제거할 수 있습니다.",
+
+  "power.epicsorigins.slime/health.name": "큰 점액",
+
+  "power.epicsorigins.slime/health.description": "이제 큰 점액처럼 체력이 16이 됩니다.",
+
+  "power.epicsorigins.fairy/flight.name": "날개",
+
+  "power.epicsorigins.fairy/flight.description": "날 수 있지만 5초 동안만",
+
+  "power.epicsorigins.fairy/health.name": "작은 건강",
+
+  "power.epicsorigins.fairy/health.description": "체력이 8밖에 없어요",
+
+  "power.epicsorigins.fairy/size.name": "작은 사이즈",
+
+  "power.epicsorigins.fairy/size.description": "넌 그냥 작을 뿐이야 (pehkui에서만 작동함)",
+
+  "power.epicsorigins.fairy/weakness.name": "약한 손",
+
+  "power.epicsorigins.fairy/weakness.description": "당신의 피해는 3으로 나누어집니다",
+
+  "power.epicsorigins.fairy/regeneration.name": "마법의 피",
+
+  "power.epicsorigins.fairy/regeneration.description": "자연재생이 되셨네요",
+
+  "power.epicsorigins.fairy/look.name": "요정의 모습",
+
+  "power.epicsorigins.fairy/look.description": "당신의 등에 날개가 있습니다",
+
+  "power.epicsorigins.mermaid/swim_speed.name": "수영을 잘해요",
+
+  "power.epicsorigins.mermaid/swim_speed.description": "수영 속도가 크게 향상되었습니다.",
+
+  "power.epicsorigins.mermaid/weakness.name": "멀미",
+
+  "power.epicsorigins.mermaid/weakness.description": "물 밖으로 나올 때 점점 더 느려지고 약해집니다.",
+
+  "power.epicsorigins.mermaid/look.name": "인어의 모습",
+
+  "power.epicsorigins.mermaid/look.description": "다리가 없는 물고기 꼬리가 있어요",
+
+  "power.epicsorigins.demon/armor.name": "저주받은 피",
+
+  "power.epicsorigins.demon/armor.description": "추가 방어력이 있습니다",
+
+  "power.epicsorigins.demon/look.name": "악마적인 모습",
+
+  "power.epicsorigins.demon/look.description": "당신은 악마의 뿔과 꼬리를 가지고 있습니다",
+
+  "power.epicsorigins.kitsune/health.name": "꼬리 건강",
+
+  "power.epicsorigins.kitsune/health.description": "체력이 하트 1개 증가합니다.",
+
+  "power.epicsorigins.kitsune/speed.name": "더 빠른 속도",
+
+  "power.epicsorigins.kitsune/speed.description": "속도가 1.5 더 빨라졌습니다.",
+
+  "power.epicsorigins.kitsune/fox_transformation.name": "여우의 모습",
+
+  "power.epicsorigins.kitsune/fox_transformation.description": "여우로 변했다가 다시 인간의 모습으로 돌아갈 수 있습니다.",
+
+  "power.epicsorigins.kitsune/wolf_fear.name": "늑대 공포",
+
+  "power.epicsorigins.kitsune/wolf_fear.description": "늑대는 항상 당신을 공격할 것이고 당신은 그들 근처에서 약해지고 있습니다.",
+
+  "power.epicsorigins.kitsune/look.name": "키츠네의 모습",
+
+  "power.epicsorigins.kitsune/look.description": "당신은 여우 꼬리와 귀를 가지고 있습니다",
+
+  "power.epicsorigins.evolved/super_human/primary_ability.name": "두 번째 호흡",
+
+  "power.epicsorigins.evolved/super_human/primary_ability.description": "체력과 배고픔을 완전히 회복하고 모든 효과를 제거합니다.",
+
+  "power.epicsorigins.evolved/slime_king/primary_ability.name": "슬라임 총알",
+
+  "power.epicsorigins.evolved/slime_king/primary_ability.description": "2데미지를 주는 슬라임 볼 5개를 발사합니다.",
+
+  "power.epicsorigins.evolved/slime_king/secondary_ability.name": "점프",
+
+  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "당신은 매우 높이 점프하고 피해를 입히는 영역을 아래에 둡니다.",
+
+  "power.epicsorigins.evolved/slime_king/health.name": "심지어 더 큰 슬라임",
+
+  "power.epicsorigins.evolved/slime_king/health.description": "이제 하트가 14개가 되었습니다",
+
+  "power.epicsorigins.evolved/slime_king/color.name": "7가지 젤리 컬러",
+
+  "power.epicsorigins.evolved/slime_king/color.description": "원할 때마다 색상을 변경하거나 제거할 수 있습니다.",
+
+  "power.epicsorigins.evolved/angel/primary_ability.name": "정화하다",
+
+  "power.epicsorigins.evolved/angel/primary_ability.description": "자신과 주변 플레이어의 모든 효과를 제거합니다.",
+
+  "power.epicsorigins.evolved/angel/secondary_ability.name": "추가 건강",
+
+  "power.epicsorigins.evolved/angel/secondary_ability.description": "1분 동안 하트 8개를 추가로 얻을 수 있습니다.",
+
+  "power.epicsorigins.evolved/angel/flight.name": "비행",
+
+  "power.epicsorigins.evolved/angel/flight.description": "무한히 날아갈 수 있다",
+
+  "power.epicsorigins.evolved/angel/regeneration.name": "성혈",
+
+  "power.epicsorigins.evolved/angel/regeneration.description": "당신은 재생 속도가 매우 빠릅니다.",
+
+  "power.epicsorigins.evolved/angel/undead_damage.name": "신성한 무기",
+
+  "power.epicsorigins.evolved/angel/undead_damage.description": "언데드 몹에게 2배 더 많은 피해를 줍니다.",
+
+  "power.epicsorigins.evolved/angel/look.name": "천사 같은 모습",
+
+  "power.epicsorigins.evolved/angel/look.description": "당신은 아름다운 하얀 날개를 가지고 있어요",
+
+  "power.epicsorigins.evolved/oceanid/primary_ability.name": "세레나데",
+
+  "power.epicsorigins.evolved/oceanid/primary_ability.description": "아름다운 노래를 부르면 주변의 몹이 중립이 됩니다.",
+
+  "power.epicsorigins.evolved/oceanid/secondary_ability.name": "기상 제어",
+
+  "power.epicsorigins.evolved/oceanid/secondary_ability.description": "날씨를 비가 오도록 변경하거나 비가 오면 날씨를 지울 수 있습니다.",
+
+  "power.epicsorigins.evolved/oceanid/long_breathing.name": "긴 호흡",
+
+  "power.epicsorigins.evolved/oceanid/long_breathing.description": "훨씬 더 오랫동안 공중에 머물 수 있습니다.",
+
+  "power.epicsorigins.evolved/oceanid/color.name": "영혼의 출현",
+
+  "power.epicsorigins.evolved/oceanid/color.description": "당신은 푸른 물의 정령처럼 보입니다",
+
+  "power.epicsorigins.evolved/asura/primary_ability.name": "불타는 분노",
+
+  "power.epicsorigins.evolved/asura/primary_ability.description": "당신은 자신에게 불을 붙이고 피해를 덜 입게 됩니다.",
+
+  "power.epicsorigins.evolved/asura/secondary_ability.name": "불의 기운",
+
+  "power.epicsorigins.evolved/asura/secondary_ability.description": "주변의 모든 개체는 한동안 화염 피해를 입습니다.",
+
+  "power.epicsorigins.evolved/asura/armor.name": "불의 피",
+
+  "power.epicsorigins.evolved/asura/armor.description": "방어력이 8 추가됩니다",
+
+  "power.epicsorigins.evolved/asura/burning_wrath.name": "불타는 분노",
+
+  "power.epicsorigins.evolved/asura/burning_wrath.description": "불 속에 있을 때 1.5배 더 많은 피해를 입힙니다.",
+
+  "power.epicsorigins.evolved/asura/look.name": "불 같은 표정",
+
+  "power.epicsorigins.evolved/asura/look.description": "뿔과 꼬리가 불로 뒤덮여 있습니다.",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/health.name": "더 많은 꼬리, 더 많은 마음",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/health.description": "꼬리가 9개 늘었으니 체력도 하트 9개 증가합니다.",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/speed.name": "소리처럼 빠르게",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/speed.description": "일반 인간보다 2배 빠르다",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/secondary_ability.name": "여우 환상",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/secondary_ability.description": "당신은 환상 속으로 사라지고 반경 6블록 내의 모든 개체를 약화시킵니다."
+}

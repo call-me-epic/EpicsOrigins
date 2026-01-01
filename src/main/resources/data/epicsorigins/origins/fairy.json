@@ -1,0 +1,21 @@
+{
+  "powers": [
+    "epicsorigins:fairy/flight",
+    "epicsorigins:fairy/health",
+    "epicsorigins:fairy/size",
+    "epicsorigins:fairy/regeneration",
+    "epicsorigins:fairy/weakness",
+    "epicsorigins:fairy/look"
+  ],
+  "icon": {
+    "item": "minecraft:amethyst_cluster"
+  },
+  "order": 2,
+  "impact": 3,
+  "upgrades": [
+    {
+      "condition": "epicsorigins:end/draconic_evolution",
+      "origin": "epicsorigins:evolved/angel"
+    }
+  ]
+}

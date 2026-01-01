@@ -1,0 +1,11 @@
+{
+  "type": "origins:attribute",
+  "modifiers": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "name": "Reduced attack damage",
+      "value": -0.66,
+      "operation": "multiply_total"
+    }
+  ]
+}

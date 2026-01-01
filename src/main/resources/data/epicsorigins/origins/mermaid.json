@@ -1,0 +1,25 @@
+{
+  "powers": [
+    "origins:water_vision",
+    "epicsorigins:mermaid/swim_speed",
+    "origins:aquatic",
+    "origins:water_breathing",
+    "origins:aqua_affinity",
+    "origins:like_water",
+    "origins:conduit_power_on_land",
+    "origins:air_from_potions",
+    "epicsorigins:mermaid/weakness",
+    "epicsorigins:mermaid/look"
+  ],
+  "icon": {
+    "item": "minecraft:nautilus_shell"
+  },
+  "order": 1,
+  "impact": 2,
+  "upgrades": [
+    {
+      "condition": "epicsorigins:end/draconic_evolution",
+      "origin": "epicsorigins:evolved/oceanid"
+    }
+  ]
+}

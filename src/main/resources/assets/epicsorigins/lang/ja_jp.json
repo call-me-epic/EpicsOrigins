@@ -1,0 +1,236 @@
+{
+
+  "advancement.end.draconic_evolution.title": "竜の進化",
+
+  "advancement.end.draconic_evolution.description": "進化のオーブを使う",
+
+  "message.epicsorigins.no_further_upgrades": "あなたの起源にはそれ以上の進化はありません",
+
+  "category.epicsorigins": "エピックの起源",
+
+  "key.epicsorigins.change_look": "見た目を変える",
+
+  "effect.epicsorigins.charm": "魅力",
+
+  "item.epicsorigins.orb_of_evolution": "進化のオーブ",
+
+  "origin.epicsorigins.human.name": "人間",
+
+  "origin.epicsorigins.human.description": "普通の人間です。いつもの Minecraft 体験が待っています。",
+
+  "origin.epicsorigins.slime.name": "スライム",
+
+  "origin.epicsorigins.slime.description": "それで、今あなたは元気です",
+
+  "origin.epicsorigins.fairy.name": "妖精",
+
+  "origin.epicsorigins.fairy.description": "翼を持つ小人の種族",
+
+  "origin.epicsorigins.mermaid.name": "マーメイド",
+
+  "origin.epicsorigins.mermaid.description": "人魚は人間の顔と魚の尾を持つ神話上の生き物です",
+
+  "origin.epicsorigins.demon.name": "悪魔",
+
+  "origin.epicsorigins.demon.description": "あなたは罪のためにネザーに追放されましたが、いくつかの利点がありました",
+
+  "origin.epicsorigins.kitsune.name": "Kitsune",
+
+  "origin.epicsorigins.kitsune.description": "キツネは人間の姿に変身する能力を持つ古代のキツネの種族です",
+
+  "origin.epicsorigins.evolved/super_human.name": "超人",
+
+  "origin.epicsorigins.evolved/super_human.description": "普通の人間ではありません。あなたと同じ Minecraft 体験が待っています。",
+
+  "origin.epicsorigins.evolved/slime_king.name": "スライムキング",
+
+  "origin.epicsorigins.evolved/slime_king.description": "君はスライムの王様に進化した",
+
+  "origin.epicsorigins.evolved/angel.name": "天使",
+
+  "origin.epicsorigins.evolved/angel.description": "あなたは翼と聖なる力を持つ神聖な種族に進化しました",
+
+  "origin.epicsorigins.evolved/oceanid.name": "オセアニア",
+
+  "origin.epicsorigins.evolved/oceanid.description": "水を操る水の精霊に進化した",
+
+  "origin.epicsorigins.evolved/asura.name": "阿修羅",
+
+  "origin.epicsorigins.evolved/asura.description": "火の悪魔に進化したんだね",
+
+  "origin.epicsorigins.evolved/nine_tailed_kitsune.name": "九尾の狐",
+
+  "origin.epicsorigins.evolved/nine_tailed_kitsune.description": "あなたは古いバージョンの kitsune に進化しました。君の力が増した",
+
+  "power.epicsorigins.slime/no_kinetic_damage.name": "弾むようなボディ",
+
+  "power.epicsorigins.slime/no_kinetic_damage.description": "壁に落ちたり飛んだりしてもダメージを受けません",
+
+  "power.epicsorigins.slime/movement.name": "スライムの動き",
+
+  "power.epicsorigins.slime/movement.description": "スライムブロックのように床から飛び降りる",
+
+  "power.epicsorigins.slime/color.name": "ゼリーカラーは7色",
+
+  "power.epicsorigins.slime/color.description": "いつでも色を変更したり削除したりできます",
+
+  "power.epicsorigins.slime/health.name": "ビッグスライム",
+
+  "power.epicsorigins.slime/health.description": "これで、大きなスライムのように体力が 16 になりました",
+
+  "power.epicsorigins.fairy/flight.name": "翼",
+
+  "power.epicsorigins.fairy/flight.description": "飛べますが5秒間だけです",
+
+  "power.epicsorigins.fairy/health.name": "小さな健康",
+
+  "power.epicsorigins.fairy/health.description": "体力は 8 しかありません",
+
+  "power.epicsorigins.fairy/size.name": "小型",
+
+  "power.epicsorigins.fairy/size.description": "あなたは小さいだけです (pehkui でのみ機能します)",
+
+  "power.epicsorigins.fairy/weakness.name": "弱い手",
+
+  "power.epicsorigins.fairy/weakness.description": "あなたのダメージは3で割られます",
+
+  "power.epicsorigins.fairy/regeneration.name": "魔法の血",
+
+  "power.epicsorigins.fairy/regeneration.description": "あなたには自然な再生能力があります",
+
+  "power.epicsorigins.fairy/look.name": "妖精の表情",
+
+  "power.epicsorigins.fairy/look.description": "あなたの背中には翼があります",
+
+  "power.epicsorigins.mermaid/swim_speed.name": "泳ぎが上手",
+
+  "power.epicsorigins.mermaid/swim_speed.description": "泳ぐ速度が大幅に向上します",
+
+  "power.epicsorigins.mermaid/weakness.name": "地酔い",
+
+  "power.epicsorigins.mermaid/weakness.description": "水から出るとだんだん遅くなり、衰弱していきます",
+
+  "power.epicsorigins.mermaid/look.name": "人魚の表情",
+
+  "power.epicsorigins.mermaid/look.description": "あなたは足のない魚の尾を持っています",
+
+  "power.epicsorigins.demon/armor.name": "呪われた血",
+
+  "power.epicsorigins.demon/armor.description": "追加の防御力があります",
+
+  "power.epicsorigins.demon/look.name": "悪魔のような表情",
+
+  "power.epicsorigins.demon/look.description": "君には悪魔の角と尻尾がある",
+
+  "power.epicsorigins.kitsune/health.name": "尻尾の健康",
+
+  "power.epicsorigins.kitsune/health.description": "あなたの健康状態がハート 1 つ増加します",
+
+  "power.epicsorigins.kitsune/speed.name": "高速化",
+
+  "power.epicsorigins.kitsune/speed.description": "速度が 1.5 速くなります",
+
+  "power.epicsorigins.kitsune/fox_transformation.name": "キツネの登場",
+
+  "power.epicsorigins.kitsune/fox_transformation.description": "キツネになって人間の姿に戻ることもできる",
+
+  "power.epicsorigins.kitsune/wolf_fear.name": "オオカミの恐怖",
+
+  "power.epicsorigins.kitsune/wolf_fear.description": "オオカミは常にあなたを攻撃し、彼らの近くではあなたは弱っていきます",
+
+  "power.epicsorigins.kitsune/look.name": "キツネの様子",
+
+  "power.epicsorigins.kitsune/look.description": "あなたにはキツネの尻尾と耳があります",
+
+  "power.epicsorigins.evolved/super_human/primary_ability.name": "二度目の呼吸",
+
+  "power.epicsorigins.evolved/super_human/primary_ability.description": "完全な健康と空腹を回復し、すべての影響をクリアします",
+
+  "power.epicsorigins.evolved/slime_king/primary_ability.name": "スライム弾",
+
+  "power.epicsorigins.evolved/slime_king/primary_ability.description": "スライムボールを5個発射し、2ダメージを与える",
+
+  "power.epicsorigins.evolved/slime_king/secondary_ability.name": "ザ・ジャンプ",
+
+  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "非常に高くジャンプし、ダメージを与えるエリアを下に残します",
+
+  "power.epicsorigins.evolved/slime_king/health.name": "さらに大きなスライム",
+
+  "power.epicsorigins.evolved/slime_king/health.description": "これでハートは14個になりました",
+
+  "power.epicsorigins.evolved/slime_king/color.name": "ゼリーカラーは7色",
+
+  "power.epicsorigins.evolved/slime_king/color.description": "いつでも色を変更したり削除したりできます",
+
+  "power.epicsorigins.evolved/angel/primary_ability.name": "浄化する",
+
+  "power.epicsorigins.evolved/angel/primary_ability.description": "あなたと近くのプレイヤーからのすべての効果を消去します",
+
+  "power.epicsorigins.evolved/angel/secondary_ability.name": "余分な健康",
+
+  "power.epicsorigins.evolved/angel/secondary_ability.description": "1分間に追加のハートを8個獲得できます",
+
+  "power.epicsorigins.evolved/angel/flight.name": "フライト",
+
+  "power.epicsorigins.evolved/angel/flight.description": "無限に飛行できる",
+
+  "power.epicsorigins.evolved/angel/regeneration.name": "聖血",
+
+  "power.epicsorigins.evolved/angel/regeneration.description": "非常に早い再生能力を持っています",
+
+  "power.epicsorigins.evolved/angel/undead_damage.name": "聖なる武器",
+
+  "power.epicsorigins.evolved/angel/undead_damage.description": "アンデッドMobに与えるダメージが2倍になる",
+
+  "power.epicsorigins.evolved/angel/look.name": "天使のような表情",
+
+  "power.epicsorigins.evolved/angel/look.description": "美しい白い翼を持っていますね",
+
+  "power.epicsorigins.evolved/oceanid/primary_ability.name": "セレナーデ",
+
+  "power.epicsorigins.evolved/oceanid/primary_ability.description": "あなたが美しい歌を歌うと、あなたの周りのモブが中立になります",
+
+  "power.epicsorigins.evolved/oceanid/secondary_ability.name": "天候制御",
+
+  "power.epicsorigins.evolved/oceanid/secondary_ability.description": "天気を雨に変更したり、雨が降っていたら晴れたりすることができます",
+
+  "power.epicsorigins.evolved/oceanid/long_breathing.name": "長い呼吸",
+
+  "power.epicsorigins.evolved/oceanid/long_breathing.description": "はるかに長く空中に留まることができる",
+
+  "power.epicsorigins.evolved/oceanid/color.name": "精霊の出現",
+
+  "power.epicsorigins.evolved/oceanid/color.description": "青い水の精霊みたいだね",
+
+  "power.epicsorigins.evolved/asura/primary_ability.name": "燃えるような怒り",
+
+  "power.epicsorigins.evolved/asura/primary_ability.description": "自分自身に火をつけ、ダメージを受けにくくなる",
+
+  "power.epicsorigins.evolved/asura/secondary_ability.name": "火のオーラ",
+
+  "power.epicsorigins.evolved/asura/secondary_ability.description": "近くのすべての存在はしばらくの間火災ダメージを受けます",
+
+  "power.epicsorigins.evolved/asura/armor.name": "ファイアブラッド",
+
+  "power.epicsorigins.evolved/asura/armor.description": "防御力が 8 追加されています",
+
+  "power.epicsorigins.evolved/asura/burning_wrath.name": "燃える怒り",
+
+  "power.epicsorigins.evolved/asura/burning_wrath.description": "炎上時、与えるダメージが1.5倍になる",
+
+  "power.epicsorigins.evolved/asura/look.name": "燃えるような表情",
+
+  "power.epicsorigins.evolved/asura/look.description": "あなたの角と尻尾は火に覆われています",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/health.name": "しっぽが増えればハートも増える",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/health.description": "尻尾が9本生えているので、ハートも9個増えます",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/speed.name": "音のように速い",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/speed.description": "あなたは普通の人間の2倍の速さです",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/secondary_ability.name": "キツネの錯覚",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/secondary_ability.description": "あなたは幻想の中で消え、半径 6 ブロック内のすべてのエンティティを弱体化させます"
+}

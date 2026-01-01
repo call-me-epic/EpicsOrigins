@@ -1,0 +1,28 @@
+{
+  "type": "origins:active_self",
+  "entity_action": {
+    "type": "origins:and",
+    "actions": [
+      {
+        "type": "origins:heal",
+        "amount": 999
+      },
+      {
+        "type": "origins:gain_air",
+        "value": 20
+      },
+      {
+        "type": "origins:feed",
+        "food": 20,
+        "saturation": 1
+      },
+      {
+        "type": "origins:extinguish"
+      },
+      {
+        "type": "origins:clear_effect"
+      }
+    ]
+  },
+  "cooldown": 6000
+}

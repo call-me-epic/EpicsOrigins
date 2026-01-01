@@ -1,0 +1,236 @@
+{
+
+  "advancement.end.draconic_evolution.title": "évolution draconique",
+
+  "advancement.end.draconic_evolution.description": "Utilisez l'orbe de l'évolution",
+
+  "message.epicsorigins.no_further_upgrades": "Votre origine n'a plus d'évolutions",
+
+  "category.epicsorigins": "Les origines d'Epic",
+
+  "key.epicsorigins.change_look": "Changer de look",
+
+  "effect.epicsorigins.charm": "Charme",
+
+  "item.epicsorigins.orb_of_evolution": "Orbe d'évolution",
+
+  "origin.epicsorigins.human.name": "Humain",
+
+  "origin.epicsorigins.human.description": "Un humain ordinaire. Votre expérience Minecraft ordinaire vous attend.",
+
+  "origin.epicsorigins.slime.name": "Vase",
+
+  "origin.epicsorigins.slime.description": "Alors maintenant tu es plein d'entrain",
+
+  "origin.epicsorigins.fairy.name": "Fée",
+
+  "origin.epicsorigins.fairy.description": "Race de petits humains avec des ailes",
+
+  "origin.epicsorigins.mermaid.name": "Sirène",
+
+  "origin.epicsorigins.mermaid.description": "Les sirènes sont des créatures mythiques avec des visages humains et des queues de poisson",
+
+  "origin.epicsorigins.demon.name": "Démon",
+
+  "origin.epicsorigins.demon.description": "Vous avez été banni dans le Nether pour vos péchés, mais avec certains avantages",
+
+  "origin.epicsorigins.kitsune.name": "renard",
+
+  "origin.epicsorigins.kitsune.description": "Les Kitsune sont une ancienne race de renards capables de se transformer en forme humaine.",
+
+  "origin.epicsorigins.evolved/super_human.name": "Surhumain",
+
+  "origin.epicsorigins.evolved/super_human.description": "Pas un humain ordinaire. Votre même expérience Minecraft vous attend.",
+
+  "origin.epicsorigins.evolved/slime_king.name": "Roi du slime",
+
+  "origin.epicsorigins.evolved/slime_king.description": "Tu es devenu un roi des slimes",
+
+  "origin.epicsorigins.evolved/angel.name": "Ange",
+
+  "origin.epicsorigins.evolved/angel.description": "Vous avez évolué vers une race divine avec des ailes et des pouvoirs sacrés",
+
+  "origin.epicsorigins.evolved/oceanid.name": "Océanide",
+
+  "origin.epicsorigins.evolved/oceanid.description": "Vous avez évolué pour devenir un esprit de l'eau capable de contrôler l'eau.",
+
+  "origin.epicsorigins.evolved/asura.name": "Asura",
+
+  "origin.epicsorigins.evolved/asura.description": "Tu es devenu un démon du feu",
+
+  "origin.epicsorigins.evolved/nine_tailed_kitsune.name": "Kitsune à neuf queues",
+
+  "origin.epicsorigins.evolved/nine_tailed_kitsune.description": "Vous avez évolué vers une ancienne version de kitsune. Vos pouvoirs ont augmenté",
+
+  "power.epicsorigins.slime/no_kinetic_damage.name": "Corps gonflable",
+
+  "power.epicsorigins.slime/no_kinetic_damage.description": "Vous ne subissez pas de dégâts en tombant et en volant contre les murs",
+
+  "power.epicsorigins.slime/movement.name": "Mouvement visqueux",
+
+  "power.epicsorigins.slime/movement.description": "Tu sautes du sol comme des blocs de slime",
+
+  "power.epicsorigins.slime/color.name": "7 couleurs de gelée",
+
+  "power.epicsorigins.slime/color.description": "Vous pouvez changer de couleur ou la supprimer quand vous le souhaitez",
+
+  "power.epicsorigins.slime/health.name": "Grosse bave",
+
+  "power.epicsorigins.slime/health.description": "Maintenant tu as 16 points de vie comme un gros slime",
+
+  "power.epicsorigins.fairy/flight.name": "Ailes",
+
+  "power.epicsorigins.fairy/flight.description": "Vous pouvez voler mais seulement pendant 5 secondes",
+
+  "power.epicsorigins.fairy/health.name": "Petite santé",
+
+  "power.epicsorigins.fairy/health.description": "Vous n'avez que 8 points de vie",
+
+  "power.epicsorigins.fairy/size.name": "Petite taille",
+
+  "power.epicsorigins.fairy/size.description": "Tu es juste petit (fonctionne uniquement avec pehkui)",
+
+  "power.epicsorigins.fairy/weakness.name": "Des mains faibles",
+
+  "power.epicsorigins.fairy/weakness.description": "Vos dégâts sont divisés par 3",
+
+  "power.epicsorigins.fairy/regeneration.name": "Sang magique",
+
+  "power.epicsorigins.fairy/regeneration.description": "Vous disposez d'une régénération naturelle",
+
+  "power.epicsorigins.fairy/look.name": "Le regard de la fée",
+
+  "power.epicsorigins.fairy/look.description": "Tu as des ailes sur le dos",
+
+  "power.epicsorigins.mermaid/swim_speed.name": "Bon nageur",
+
+  "power.epicsorigins.mermaid/swim_speed.description": "Votre vitesse de nage est fortement augmentée",
+
+  "power.epicsorigins.mermaid/weakness.name": "Mal de sol",
+
+  "power.epicsorigins.mermaid/weakness.description": "Vous devenez de plus en plus lent et plus faible lorsque vous sortez de l'eau",
+
+  "power.epicsorigins.mermaid/look.name": "Le look de la sirène",
+
+  "power.epicsorigins.mermaid/look.description": "Tu as une queue de poisson sans pattes",
+
+  "power.epicsorigins.demon/armor.name": "Sang maudit",
+
+  "power.epicsorigins.demon/armor.description": "Vous avez une défense supplémentaire",
+
+  "power.epicsorigins.demon/look.name": "Regard démoniaque",
+
+  "power.epicsorigins.demon/look.description": "Tu as des cornes et une queue de démon",
+
+  "power.epicsorigins.kitsune/health.name": "Santé de la queue",
+
+  "power.epicsorigins.kitsune/health.description": "Votre santé est augmentée de 1 cœur",
+
+  "power.epicsorigins.kitsune/speed.name": "Vitesse plus élevée",
+
+  "power.epicsorigins.kitsune/speed.description": "Vous avez une vitesse 1,5 plus élevée",
+
+  "power.epicsorigins.kitsune/fox_transformation.name": "Apparition du renard",
+
+  "power.epicsorigins.kitsune/fox_transformation.description": "Vous pouvez vous transformer en renard et reprendre votre forme humaine",
+
+  "power.epicsorigins.kitsune/wolf_fear.name": "Peur du loup",
+
+  "power.epicsorigins.kitsune/wolf_fear.description": "Les loups vous attaqueront toujours et vous devenez faible à leur proximité.",
+
+  "power.epicsorigins.kitsune/look.name": "Le regard de Kitsune",
+
+  "power.epicsorigins.kitsune/look.description": "Tu as une queue et des oreilles de renard",
+
+  "power.epicsorigins.evolved/super_human/primary_ability.name": "Deuxième souffle",
+
+  "power.epicsorigins.evolved/super_human/primary_ability.description": "Vous restaurez la pleine santé, la faim et supprimez tous vos effets",
+
+  "power.epicsorigins.evolved/slime_king/primary_ability.name": "Balles visqueuses",
+
+  "power.epicsorigins.evolved/slime_king/primary_ability.description": "Vous tirez 5 boules de slime qui infligent 2 dégâts",
+
+  "power.epicsorigins.evolved/slime_king/secondary_ability.name": "LE SAUT",
+
+  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "Vous sautez très haut et laissez la zone de dégâts sous vous",
+
+  "power.epicsorigins.evolved/slime_king/health.name": "Du slime encore plus gros",
+
+  "power.epicsorigins.evolved/slime_king/health.description": "Vous avez maintenant 14 coeurs",
+
+  "power.epicsorigins.evolved/slime_king/color.name": "7 couleurs de gelée",
+
+  "power.epicsorigins.evolved/slime_king/color.description": "Vous pouvez changer de couleur ou la supprimer quand vous le souhaitez",
+
+  "power.epicsorigins.evolved/angel/primary_ability.name": "Purifier",
+
+  "power.epicsorigins.evolved/angel/primary_ability.description": "Vous supprimez tous les effets de vous et des joueurs à proximité",
+
+  "power.epicsorigins.evolved/angel/secondary_ability.name": "Santé supplémentaire",
+
+  "power.epicsorigins.evolved/angel/secondary_ability.description": "Vous pouvez obtenir 8 cœurs supplémentaires pendant une minute",
+
+  "power.epicsorigins.evolved/angel/flight.name": "Vol",
+
+  "power.epicsorigins.evolved/angel/flight.description": "Vous pouvez voler à l'infini",
+
+  "power.epicsorigins.evolved/angel/regeneration.name": "Sang sacré",
+
+  "power.epicsorigins.evolved/angel/regeneration.description": "Vous avez une régénération très rapide",
+
+  "power.epicsorigins.evolved/angel/undead_damage.name": "Arme sacrée",
+
+  "power.epicsorigins.evolved/angel/undead_damage.description": "Vous infligez 2 fois plus de dégâts aux monstres morts-vivants",
+
+  "power.epicsorigins.evolved/angel/look.name": "Regard angélique",
+
+  "power.epicsorigins.evolved/angel/look.description": "Tu as de belles ailes blanches",
+
+  "power.epicsorigins.evolved/oceanid/primary_ability.name": "Sérénade",
+
+  "power.epicsorigins.evolved/oceanid/primary_ability.description": "Vous chantez une belle chanson et les foules autour de vous deviennent neutres",
+
+  "power.epicsorigins.evolved/oceanid/secondary_ability.name": "Contrôle météo",
+
+  "power.epicsorigins.evolved/oceanid/secondary_ability.description": "Vous pouvez changer le temps en pluie ou effacer le temps s'il pleut",
+
+  "power.epicsorigins.evolved/oceanid/long_breathing.name": "Longue respiration",
+
+  "power.epicsorigins.evolved/oceanid/long_breathing.description": "Vous pouvez rester dans l'air beaucoup plus longtemps",
+
+  "power.epicsorigins.evolved/oceanid/color.name": "Apparition de l'esprit",
+
+  "power.epicsorigins.evolved/oceanid/color.description": "Tu ressembles à un esprit de l'eau bleue",
+
+  "power.epicsorigins.evolved/asura/primary_ability.name": "Colère brûlante",
+
+  "power.epicsorigins.evolved/asura/primary_ability.description": "Vous vous immolez par le feu et devenez moins vulnérable aux dommages",
+
+  "power.epicsorigins.evolved/asura/secondary_ability.name": "Fire aura",
+
+  "power.epicsorigins.evolved/asura/secondary_ability.description": "Toutes les entités à proximité subiront des dégâts de feu pendant un certain temps",
+
+  "power.epicsorigins.evolved/asura/armor.name": "Sang de feu",
+
+  "power.epicsorigins.evolved/asura/armor.description": "Vous avez une défense supplémentaire de 8",
+
+  "power.epicsorigins.evolved/asura/burning_wrath.name": "Colère brûlante",
+
+  "power.epicsorigins.evolved/asura/burning_wrath.description": "Lorsque vous êtes en feu, vous infligez 1,5 fois plus de dégâts",
+
+  "power.epicsorigins.evolved/asura/look.name": "Regard enflammé",
+
+  "power.epicsorigins.evolved/asura/look.description": "Tu as des cornes et une queue couvertes de feu",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/health.name": "Plus de queues, plus de coeur",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/health.description": "Vous avez développé 9 queues, donc votre santé est également augmentée de 9 cœurs",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/speed.name": "Rapide comme le son",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/speed.description": "Vous êtes 2 fois plus rapide que les humains ordinaires",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/secondary_ability.name": "Illusion de renard",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/secondary_ability.description": "Vous disparaissez dans une illusion et affaiblissez toutes les entités dans un rayon de 6 blocs"
+}

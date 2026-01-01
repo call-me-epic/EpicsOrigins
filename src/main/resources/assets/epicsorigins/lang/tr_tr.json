@@ -1,0 +1,236 @@
+{
+
+  "advancement.end.draconic_evolution.title": "Acımasız evrim",
+
+  "advancement.end.draconic_evolution.description": "Evrim küresini kullanın",
+
+  "message.epicsorigins.no_further_upgrades": "Kökeninizin başka evrimi yok",
+
+  "category.epicsorigins": "Epic'in kökenleri",
+
+  "key.epicsorigins.change_look": "Görünümü değiştir",
+
+  "effect.epicsorigins.charm": "Cazibe",
+
+  "item.epicsorigins.orb_of_evolution": "Evrim küresi",
+
+  "origin.epicsorigins.human.name": "İnsan",
+
+  "origin.epicsorigins.human.description": "Sıradan bir insan. Sıradan Minecraft deneyiminiz sizi bekliyor.",
+
+  "origin.epicsorigins.slime.name": "Balçık",
+
+  "origin.epicsorigins.slime.description": "Yani artık esneksin",
+
+  "origin.epicsorigins.fairy.name": "Peri",
+
+  "origin.epicsorigins.fairy.description": "Kanatlı küçük insanların ırkı",
+
+  "origin.epicsorigins.mermaid.name": "Deniz kızı",
+
+  "origin.epicsorigins.mermaid.description": "Deniz kızları insan yüzlü ve balık kuyruklu efsanevi yaratıklardır.",
+
+  "origin.epicsorigins.demon.name": "Şeytan",
+
+  "origin.epicsorigins.demon.description": "Günahların yüzünden Cehenneme sürüldün ama bazı avantajlarla birlikte",
+
+  "origin.epicsorigins.kitsune.name": "tilki",
+
+  "origin.epicsorigins.kitsune.description": "Kitsune, insan formuna dönüşme yeteneğine sahip eski bir tilki ırkıdır.",
+
+  "origin.epicsorigins.evolved/super_human.name": "Süper insan",
+
+  "origin.epicsorigins.evolved/super_human.description": "Sıradan bir insan değil. Aynı Minecraft deneyiminiz sizi bekliyor.",
+
+  "origin.epicsorigins.evolved/slime_king.name": "Balçık Kralı",
+
+  "origin.epicsorigins.evolved/slime_king.description": "Slimes kralına dönüştün",
+
+  "origin.epicsorigins.evolved/angel.name": "Melek",
+
+  "origin.epicsorigins.evolved/angel.description": "Kanatları ve kutsal güçleri olan ilahi bir ırka dönüştünüz",
+
+  "origin.epicsorigins.evolved/oceanid.name": "Okyanusid",
+
+  "origin.epicsorigins.evolved/oceanid.description": "Suyu kontrol edebilen bir su ruhuna dönüştünüz",
+
+  "origin.epicsorigins.evolved/asura.name": "Asura",
+
+  "origin.epicsorigins.evolved/asura.description": "Bir ateş iblisine dönüştün",
+
+  "origin.epicsorigins.evolved/nine_tailed_kitsune.name": "Dokuz kuyruklu kitsune",
+
+  "origin.epicsorigins.evolved/nine_tailed_kitsune.description": "Kitsune'un eski bir versiyonuna dönüştünüz. Güçleriniz arttı",
+
+  "power.epicsorigins.slime/no_kinetic_damage.name": "Esnek vücut",
+
+  "power.epicsorigins.slime/no_kinetic_damage.description": "Düşme ve duvarlara uçma nedeniyle hasar almazsınız",
+
+  "power.epicsorigins.slime/movement.name": "Balçık hareketi",
+
+  "power.epicsorigins.slime/movement.description": "Balçık blokları gibi yerden fırlıyorsun",
+
+  "power.epicsorigins.slime/color.name": "7 jöle rengi",
+
+  "power.epicsorigins.slime/color.description": "İstediğiniz zaman renginizi değiştirebilir veya kaldırabilirsiniz",
+
+  "power.epicsorigins.slime/health.name": "Büyük balçık",
+
+  "power.epicsorigins.slime/health.description": "Artık büyük bir balçık gibi 16 sağlığınız var",
+
+  "power.epicsorigins.fairy/flight.name": "Kanatlar",
+
+  "power.epicsorigins.fairy/flight.description": "Uçabilirsin ama sadece 5 saniyeliğine",
+
+  "power.epicsorigins.fairy/health.name": "Küçük sağlık",
+
+  "power.epicsorigins.fairy/health.description": "Sadece 8 sağlığınız var",
+
+  "power.epicsorigins.fairy/size.name": "Küçük boyut",
+
+  "power.epicsorigins.fairy/size.description": "Sadece küçüksün (yalnızca pehkui ile çalışır)",
+
+  "power.epicsorigins.fairy/weakness.name": "Zayıf eller",
+
+  "power.epicsorigins.fairy/weakness.description": "Hasarınız 3'e bölünür",
+
+  "power.epicsorigins.fairy/regeneration.name": "Sihirli kan",
+
+  "power.epicsorigins.fairy/regeneration.description": "Doğal yenilenmeyi havalandırıyorsunuz",
+
+  "power.epicsorigins.fairy/look.name": "Perinin görünüşü",
+
+  "power.epicsorigins.fairy/look.description": "Sırtında kanatların var",
+
+  "power.epicsorigins.mermaid/swim_speed.name": "İyi yüzücü",
+
+  "power.epicsorigins.mermaid/swim_speed.description": "Yüzme hızınız oldukça arttı",
+
+  "power.epicsorigins.mermaid/weakness.name": "Yer tutması",
+
+  "power.epicsorigins.mermaid/weakness.description": "Sudan çıktığınızda yavaşlıyor ve zayıflıyorsunuz",
+
+  "power.epicsorigins.mermaid/look.name": "Deniz kızının görünüşü",
+
+  "power.epicsorigins.mermaid/look.description": "Bacakları olmayan bir balık kuyruğun var",
+
+  "power.epicsorigins.demon/armor.name": "Lanetli kan",
+
+  "power.epicsorigins.demon/armor.description": "Ekstra bir savunmanız var",
+
+  "power.epicsorigins.demon/look.name": "Şeytani görünüm",
+
+  "power.epicsorigins.demon/look.description": "Şeytan boynuzlarınız ve kuyruğunuz var",
+
+  "power.epicsorigins.kitsune/health.name": "Kuyruk sağlığı",
+
+  "power.epicsorigins.kitsune/health.description": "Sağlığınız 1 kalp artar",
+
+  "power.epicsorigins.kitsune/speed.name": "Daha yüksek hız",
+
+  "power.epicsorigins.kitsune/speed.description": "1,5 daha yüksek hızınız var",
+
+  "power.epicsorigins.kitsune/fox_transformation.name": "Tilki görünümü",
+
+  "power.epicsorigins.kitsune/fox_transformation.description": "Bir tilkiye dönüşüp insan formuna geri dönebilirsin",
+
+  "power.epicsorigins.kitsune/wolf_fear.name": "Kurt korkusu",
+
+  "power.epicsorigins.kitsune/wolf_fear.description": "Kurtlar her zaman sana saldıracak ve onların yanında zayıflıyorsun",
+
+  "power.epicsorigins.kitsune/look.name": "Kitsune'un görünüşü",
+
+  "power.epicsorigins.kitsune/look.description": "Tilki kuyruğun ve kulakların var",
+
+  "power.epicsorigins.evolved/super_human/primary_ability.name": "İkinci nefes",
+
+  "power.epicsorigins.evolved/super_human/primary_ability.description": "Tam sağlığınızı, açlığınızı geri kazanırsınız ve tüm etkilerinizi temizlersiniz",
+
+  "power.epicsorigins.evolved/slime_king/primary_ability.name": "Balçık mermileri",
+
+  "power.epicsorigins.evolved/slime_king/primary_ability.description": "2 hasar veren 5 balçık topu vurursun",
+
+  "power.epicsorigins.evolved/slime_king/secondary_ability.name": "ATLAMA",
+
+  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "Çok yükseğe zıplıyorsunuz ve hasar veren alanı altınızda bırakıyorsunuz",
+
+  "power.epicsorigins.evolved/slime_king/health.name": "Daha da büyük balçık",
+
+  "power.epicsorigins.evolved/slime_king/health.description": "Artık 14 kalbin var",
+
+  "power.epicsorigins.evolved/slime_king/color.name": "7 jöle rengi",
+
+  "power.epicsorigins.evolved/slime_king/color.description": "İstediğiniz zaman renginizi değiştirebilir veya kaldırabilirsiniz",
+
+  "power.epicsorigins.evolved/angel/primary_ability.name": "Arındırmak",
+
+  "power.epicsorigins.evolved/angel/primary_ability.description": "Kendinizden ve yakındaki oyunculardan tüm efektleri temizlersiniz",
+
+  "power.epicsorigins.evolved/angel/secondary_ability.name": "Ekstra sağlık",
+
+  "power.epicsorigins.evolved/angel/secondary_ability.description": "Bir dakikalığına 8 kalp daha alabilirsiniz",
+
+  "power.epicsorigins.evolved/angel/flight.name": "Uçuş",
+
+  "power.epicsorigins.evolved/angel/flight.description": "Sonsuza kadar uçabilirsin",
+
+  "power.epicsorigins.evolved/angel/regeneration.name": "Kutsal kan",
+
+  "power.epicsorigins.evolved/angel/regeneration.description": "Çok hızlı yenilenmeniz var",
+
+  "power.epicsorigins.evolved/angel/undead_damage.name": "Kutsal silah",
+
+  "power.epicsorigins.evolved/angel/undead_damage.description": "Ölümsüz yaratıklara 2 kat daha fazla hasar verirsin",
+
+  "power.epicsorigins.evolved/angel/look.name": "Melek görünümü",
+
+  "power.epicsorigins.evolved/angel/look.description": "Çok güzel beyaz kanatların var",
+
+  "power.epicsorigins.evolved/oceanid/primary_ability.name": "Serenat",
+
+  "power.epicsorigins.evolved/oceanid/primary_ability.description": "Güzel bir şarkı söylersiniz ve etrafınızdaki çeteler tarafsız hale gelir",
+
+  "power.epicsorigins.evolved/oceanid/secondary_ability.name": "Hava durumu kontrolü",
+
+  "power.epicsorigins.evolved/oceanid/secondary_ability.description": "Hava durumunu yağmura çevirebilir veya yağmur yağıyorsa havayı temizleyebilirsiniz.",
+
+  "power.epicsorigins.evolved/oceanid/long_breathing.name": "Uzun nefes alma",
+
+  "power.epicsorigins.evolved/oceanid/long_breathing.description": "Havada çok daha uzun süre kalabilirsiniz",
+
+  "power.epicsorigins.evolved/oceanid/color.name": "Ruh görünümü",
+
+  "power.epicsorigins.evolved/oceanid/color.description": "Mavi su ruhuna benziyorsun",
+
+  "power.epicsorigins.evolved/asura/primary_ability.name": "Yanan öfke",
+
+  "power.epicsorigins.evolved/asura/primary_ability.description": "Kendinizi ateşe verirsiniz ve hasara daha az duyarlı olursunuz",
+
+  "power.epicsorigins.evolved/asura/secondary_ability.name": "Ateş aurası",
+
+  "power.epicsorigins.evolved/asura/secondary_ability.description": "Yakındaki tüm varlıklar bir süreliğine yangın hasarı alacak",
+
+  "power.epicsorigins.evolved/asura/armor.name": "Ateş kanı",
+
+  "power.epicsorigins.evolved/asura/armor.description": "8 ekstra savunmanız var",
+
+  "power.epicsorigins.evolved/asura/burning_wrath.name": "Yanan gazap",
+
+  "power.epicsorigins.evolved/asura/burning_wrath.description": "Ateşte olduğunuzda 1,5 kat daha fazla hasar verirsiniz",
+
+  "power.epicsorigins.evolved/asura/look.name": "Ateşli görünüm",
+
+  "power.epicsorigins.evolved/asura/look.description": "Ateşle kaplı boynuzların ve kuyruğun var",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/health.name": "Daha fazla kuyruk, daha fazla kalp",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/health.description": "9 kuyruk uzadınız, dolayısıyla sağlığınız da 9 kalp arttı",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/speed.name": "Ses kadar hızlı",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/speed.description": "Normal insanlardan 2 kat daha hızlısınız",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/secondary_ability.name": "Tilki yanılsaması",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/secondary_ability.description": "Bir illüzyonun içinde kayboluyorsunuz ve 6 blok yarıçapındaki tüm varlıkları zayıflatıyorsunuz"
+}

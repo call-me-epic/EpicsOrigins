@@ -1,0 +1,13 @@
+{
+	"icon": {
+		"item": "minecraft:player_head"
+	},
+	"order": 0,
+	"impact": 0,
+	"upgrades": [
+		{
+			"condition": "epicsorigins:end/draconic_evolution",
+			"origin": "epicsorigins:evolved/super_human"
+		}
+	]
+}

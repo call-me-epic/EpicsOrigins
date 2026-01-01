@@ -1,0 +1,236 @@
+{
+
+  "advancement.end.draconic_evolution.title": "Smocza ewolucja",
+
+  "advancement.end.draconic_evolution.description": "Użyj kuli ewolucji",
+
+  "message.epicsorigins.no_further_upgrades": "Twoje pochodzenie nie podlega dalszej ewolucji",
+
+  "category.epicsorigins": "Początki Epic",
+
+  "key.epicsorigins.change_look": "Zmień wygląd",
+
+  "effect.epicsorigins.charm": "Czar",
+
+  "item.epicsorigins.orb_of_evolution": "Kula ewolucji",
+
+  "origin.epicsorigins.human.name": "Człowiek",
+
+  "origin.epicsorigins.human.description": "Zwykły człowiek. Twoje zwykłe doświadczenie z Minecraftem czeka.",
+
+  "origin.epicsorigins.slime.name": "Szlam",
+
+  "origin.epicsorigins.slime.description": "Więc teraz jesteś sprężysty",
+
+  "origin.epicsorigins.fairy.name": "Wróżka",
+
+  "origin.epicsorigins.fairy.description": "Rasa małych ludzi ze skrzydłami",
+
+  "origin.epicsorigins.mermaid.name": "Syrena",
+
+  "origin.epicsorigins.mermaid.description": "Syreny to mityczne stworzenia o ludzkich twarzach i rybich ogonach",
+
+  "origin.epicsorigins.demon.name": "Demon",
+
+  "origin.epicsorigins.demon.description": "Zostałeś wygnany do Netheru za swoje grzechy, ale z pewnymi korzyściami",
+
+  "origin.epicsorigins.kitsune.name": "lis",
+
+  "origin.epicsorigins.kitsune.description": "Kitsune to starożytna rasa lisów posiadająca zdolność przybierania ludzkiej postaci",
+
+  "origin.epicsorigins.evolved/super_human.name": "Super ludzki",
+
+  "origin.epicsorigins.evolved/super_human.description": "Nie zwykły człowiek. Twoje doświadczenie z Minecraftem czeka.",
+
+  "origin.epicsorigins.evolved/slime_king.name": "Król Szlamu",
+
+  "origin.epicsorigins.evolved/slime_king.description": "Ewoluowałeś w króla śluzów",
+
+  "origin.epicsorigins.evolved/angel.name": "Anioł",
+
+  "origin.epicsorigins.evolved/angel.description": "Wyewoluowaliście w boską rasę ze skrzydłami i świętymi mocami",
+
+  "origin.epicsorigins.evolved/oceanid.name": "Oceanida",
+
+  "origin.epicsorigins.evolved/oceanid.description": "Ewoluowałeś w ducha wody, który może kontrolować wodę",
+
+  "origin.epicsorigins.evolved/asura.name": "Asura",
+
+  "origin.epicsorigins.evolved/asura.description": "Ewoluowałeś w demona ognia",
+
+  "origin.epicsorigins.evolved/nine_tailed_kitsune.name": "Dziewięcioogoniasty kitsune",
+
+  "origin.epicsorigins.evolved/nine_tailed_kitsune.description": "Ewoluowałeś w starszą wersję Kitsune. Twoje moce wzrosły",
+
+  "power.epicsorigins.slime/no_kinetic_damage.name": "Sprężyste ciało",
+
+  "power.epicsorigins.slime/no_kinetic_damage.description": "Nie otrzymujesz obrażeń od upadku i latania na ściany",
+
+  "power.epicsorigins.slime/movement.name": "Ruch śluzu",
+
+  "power.epicsorigins.slime/movement.description": "Odbijasz się od podłogi niczym z bloków śluzu",
+
+  "power.epicsorigins.slime/color.name": "7 galaretkowych kolorów",
+
+  "power.epicsorigins.slime/color.description": "Możesz zmienić kolor lub go usunąć, kiedy tylko chcesz",
+
+  "power.epicsorigins.slime/health.name": "Wielki śluz",
+
+  "power.epicsorigins.slime/health.description": "Teraz masz 16 punktów zdrowia jak wielki śluz",
+
+  "power.epicsorigins.fairy/flight.name": "Skrzydełka",
+
+  "power.epicsorigins.fairy/flight.description": "Możesz latać, ale tylko przez 5 sekund",
+
+  "power.epicsorigins.fairy/health.name": "Małe zdrowie",
+
+  "power.epicsorigins.fairy/health.description": "Masz tylko 8 punktów zdrowia",
+
+  "power.epicsorigins.fairy/size.name": "Mały rozmiar",
+
+  "power.epicsorigins.fairy/size.description": "Jesteś po prostu mały (działa tylko z pehkui)",
+
+  "power.epicsorigins.fairy/weakness.name": "Słabe ręce",
+
+  "power.epicsorigins.fairy/weakness.description": "Twoje obrażenia są podzielone przez 3",
+
+  "power.epicsorigins.fairy/regeneration.name": "Magiczna krew",
+
+  "power.epicsorigins.fairy/regeneration.description": "Masz naturalną regenerację",
+
+  "power.epicsorigins.fairy/look.name": "Wygląd wróżki",
+
+  "power.epicsorigins.fairy/look.description": "Masz skrzydła na plecach",
+
+  "power.epicsorigins.mermaid/swim_speed.name": "Dobry pływak",
+
+  "power.epicsorigins.mermaid/swim_speed.description": "Twoja prędkość pływania znacznie wzrosła",
+
+  "power.epicsorigins.mermaid/weakness.name": "Choroba podstawowa",
+
+  "power.epicsorigins.mermaid/weakness.description": "Po wyjściu z wody jesteś coraz wolniejszy i słabszy",
+
+  "power.epicsorigins.mermaid/look.name": "Wygląd syreny",
+
+  "power.epicsorigins.mermaid/look.description": "Masz rybi ogon bez nóg",
+
+  "power.epicsorigins.demon/armor.name": "Przeklęta krew",
+
+  "power.epicsorigins.demon/armor.description": "Masz dodatkową obronę",
+
+  "power.epicsorigins.demon/look.name": "Demoniczne spojrzenie",
+
+  "power.epicsorigins.demon/look.description": "Masz demoniczne rogi i ogon",
+
+  "power.epicsorigins.kitsune/health.name": "Zdrowie ogona",
+
+  "power.epicsorigins.kitsune/health.description": "Twoje zdrowie wzrasta o 1 serce",
+
+  "power.epicsorigins.kitsune/speed.name": "Większa prędkość",
+
+  "power.epicsorigins.kitsune/speed.description": "Masz 1,5 wyższą prędkość",
+
+  "power.epicsorigins.kitsune/fox_transformation.name": "Wygląd lisa",
+
+  "power.epicsorigins.kitsune/fox_transformation.description": "Możesz zmienić się w lisa i wrócić do ludzkiej postaci",
+
+  "power.epicsorigins.kitsune/wolf_fear.name": "Wilczy strach",
+
+  "power.epicsorigins.kitsune/wolf_fear.description": "Wilki zawsze będą cię atakować, a przy nich słabniesz",
+
+  "power.epicsorigins.kitsune/look.name": "Wygląd Kitsune",
+
+  "power.epicsorigins.kitsune/look.description": "Masz lisi ogon i uszy",
+
+  "power.epicsorigins.evolved/super_human/primary_ability.name": "Drugi oddech",
+
+  "power.epicsorigins.evolved/super_human/primary_ability.description": "Przywracasz pełne zdrowie, głód i usuwasz wszystkie swoje efekty",
+
+  "power.epicsorigins.evolved/slime_king/primary_ability.name": "Śluzowe kule",
+
+  "power.epicsorigins.evolved/slime_king/primary_ability.description": "Strzelasz 5 kulkami śluzu, które zadają 2 obrażenia",
+
+  "power.epicsorigins.evolved/slime_king/secondary_ability.name": "SKOK",
+
+  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "Skaczesz bardzo wysoko i zostawiasz pod sobą obszar zadający obrażenia",
+
+  "power.epicsorigins.evolved/slime_king/health.name": "Jeszcze większy śluz",
+
+  "power.epicsorigins.evolved/slime_king/health.description": "Masz teraz 14 serc",
+
+  "power.epicsorigins.evolved/slime_king/color.name": "7 galaretkowych kolorów",
+
+  "power.epicsorigins.evolved/slime_king/color.description": "Możesz zmienić kolor lub go usunąć, kiedy tylko chcesz",
+
+  "power.epicsorigins.evolved/angel/primary_ability.name": "Oczyścić",
+
+  "power.epicsorigins.evolved/angel/primary_ability.description": "Usuwasz wszystkie efekty od siebie i pobliskich graczy",
+
+  "power.epicsorigins.evolved/angel/secondary_ability.name": "Dodatkowe zdrowie",
+
+  "power.epicsorigins.evolved/angel/secondary_ability.description": "Możesz zdobyć 8 dodatkowych serc na minutę",
+
+  "power.epicsorigins.evolved/angel/flight.name": "Lot",
+
+  "power.epicsorigins.evolved/angel/flight.description": "Możesz latać w nieskończoność",
+
+  "power.epicsorigins.evolved/angel/regeneration.name": "Święta krew",
+
+  "power.epicsorigins.evolved/angel/regeneration.description": "Masz bardzo szybką regenerację",
+
+  "power.epicsorigins.evolved/angel/undead_damage.name": "Święta broń",
+
+  "power.epicsorigins.evolved/angel/undead_damage.description": "Zadajesz 2 razy większe obrażenia nieumarłym mobom",
+
+  "power.epicsorigins.evolved/angel/look.name": "Anielskie spojrzenie",
+
+  "power.epicsorigins.evolved/angel/look.description": "Masz piękne białe skrzydła",
+
+  "power.epicsorigins.evolved/oceanid/primary_ability.name": "Serenada",
+
+  "power.epicsorigins.evolved/oceanid/primary_ability.description": "Śpiewasz piękną piosenkę, a tłumy wokół ciebie stają się neutralne",
+
+  "power.epicsorigins.evolved/oceanid/secondary_ability.name": "Kontrola pogody",
+
+  "power.epicsorigins.evolved/oceanid/secondary_ability.description": "Możesz zmienić pogodę na deszczową lub wyczyścić pogodę, jeśli pada deszcz",
+
+  "power.epicsorigins.evolved/oceanid/long_breathing.name": "Długi oddech",
+
+  "power.epicsorigins.evolved/oceanid/long_breathing.description": "Możesz pozostać w powietrzu znacznie dłużej",
+
+  "power.epicsorigins.evolved/oceanid/color.name": "Wygląd ducha",
+
+  "power.epicsorigins.evolved/oceanid/color.description": "Wyglądasz jak duch błękitnej wody",
+
+  "power.epicsorigins.evolved/asura/primary_ability.name": "Płonąca wściekłość",
+
+  "power.epicsorigins.evolved/asura/primary_ability.description": "Podpalasz się i stajesz się mniej podatny na obrażenia",
+
+  "power.epicsorigins.evolved/asura/secondary_ability.name": "Ognista aura",
+
+  "power.epicsorigins.evolved/asura/secondary_ability.description": "Wszystkie pobliskie istoty będą przez pewien czas otrzymywać obrażenia od ognia",
+
+  "power.epicsorigins.evolved/asura/armor.name": "Ognista krew",
+
+  "power.epicsorigins.evolved/asura/armor.description": "Masz 8 dodatkowej obrony",
+
+  "power.epicsorigins.evolved/asura/burning_wrath.name": "Płonący gniew",
+
+  "power.epicsorigins.evolved/asura/burning_wrath.description": "Kiedy jesteś w ogniu, zadajesz 1,5 razy większe obrażenia",
+
+  "power.epicsorigins.evolved/asura/look.name": "Ogniste spojrzenie",
+
+  "power.epicsorigins.evolved/asura/look.description": "Masz rogi i ogon pokryte ogniem",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/health.name": "Więcej ogonów, więcej serca",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/health.description": "Wyhodowałeś 9 ogonów, więc twoje zdrowie również wzrosło o 9 serc",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/speed.name": "Szybki jak dźwięk",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/speed.description": "Jesteś 2 razy szybszy od zwykłych ludzi",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/secondary_ability.name": "Iluzja lisa",
+
+  "power.epicsorigins.evolved/nine_tailed_kitsune/secondary_ability.description": "Znikasz w iluzji i osłabiasz wszystkie istoty w promieniu 6 przecznic"
+}

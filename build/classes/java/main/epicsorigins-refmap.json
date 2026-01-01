@@ -1,0 +1,36 @@
+{
+  "mappings": {
+    "com/epicwolf/epicsorigins/mixin/BlockMixin": {
+      "onEntityLand": "Lnet/minecraft/class_2248;method_9502(Lnet/minecraft/class_1922;Lnet/minecraft/class_1297;)V"
+    },
+    "com/epicwolf/epicsorigins/mixin/LivingEntityMixin": {
+      "getDimensions": "Lnet/minecraft/class_1309;method_18377(Lnet/minecraft/class_4050;)Lnet/minecraft/class_4048;",
+      "tick": "Lnet/minecraft/class_1309;method_5773()V"
+    },
+    "com/epicwolf/epicsorigins/mixin/PlayerEntityMixin": {
+      "getActiveEyeHeight": "Lnet/minecraft/class_1657;method_18394(Lnet/minecraft/class_4050;Lnet/minecraft/class_4048;)F",
+      "getDimensions": "Lnet/minecraft/class_1657;method_18377(Lnet/minecraft/class_4050;)Lnet/minecraft/class_4048;"
+    },
+    "com/epicwolf/epicsorigins/mixin/SnowballEntityMixin": {
+      "onEntityHit": "Lnet/minecraft/class_1680;method_7454(Lnet/minecraft/class_3966;)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "com/epicwolf/epicsorigins/mixin/BlockMixin": {
+        "onEntityLand": "Lnet/minecraft/class_2248;method_9502(Lnet/minecraft/class_1922;Lnet/minecraft/class_1297;)V"
+      },
+      "com/epicwolf/epicsorigins/mixin/LivingEntityMixin": {
+        "getDimensions": "Lnet/minecraft/class_1309;method_18377(Lnet/minecraft/class_4050;)Lnet/minecraft/class_4048;",
+        "tick": "Lnet/minecraft/class_1309;method_5773()V"
+      },
+      "com/epicwolf/epicsorigins/mixin/PlayerEntityMixin": {
+        "getActiveEyeHeight": "Lnet/minecraft/class_1657;method_18394(Lnet/minecraft/class_4050;Lnet/minecraft/class_4048;)F",
+        "getDimensions": "Lnet/minecraft/class_1657;method_18377(Lnet/minecraft/class_4050;)Lnet/minecraft/class_4048;"
+      },
+      "com/epicwolf/epicsorigins/mixin/SnowballEntityMixin": {
+        "onEntityHit": "Lnet/minecraft/class_1680;method_7454(Lnet/minecraft/class_3966;)V"
+      }
+    }
+  }
+}
