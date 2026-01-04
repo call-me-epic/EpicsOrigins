@@ -1,6 +1,7 @@
 package com.epicwolf.epicsorigins.power;
 
 import com.epicwolf.epicsorigins.Epicsorigins;
+import io.github.apace100.apoli.component.PowerHolderComponent;
 import io.github.apace100.apoli.data.ApoliDataTypes;
 import io.github.apace100.apoli.power.Active;
 import io.github.apace100.apoli.power.Power;
@@ -8,14 +9,18 @@ import io.github.apace100.apoli.power.PowerType;
 import io.github.apace100.apoli.power.factory.PowerFactory;
 import io.github.apace100.calio.data.SerializableData;
 import io.github.apace100.calio.data.SerializableDataTypes;
+import net.minecraft.entity.Entity;
+import net.minecraft.entity.EntityPose;
 import net.minecraft.entity.LivingEntity;
-import net.minecraft.nbt.NbtByte;
+import net.minecraft.nbt.NbtCompound;
 import net.minecraft.nbt.NbtElement;
 import net.minecraft.util.Identifier;
 
 public class EntityTransformationPower extends Power implements Active {
 
     private boolean isTransformed;
+
+    private boolean wasTransformed;
 
     private final Identifier entityType;
 
@@ -28,6 +33,7 @@ public class EntityTransformationPower extends Power implements Active {
         this.isTransformed = isTransformed;
         this.entityType = entityType;
         this.isChangeable = changeable;
+        this.wasTransformed = false;
     }
 
     public static PowerFactory<Power> createFactory() {
@@ -44,10 +50,10 @@ public class EntityTransformationPower extends Power implements Active {
                 }).allowCondition();
     }
 
-
     @Override
     public void onUse() {
         if (isChangeable) this.isTransformed = !this.isTransformed;
+        PowerHolderComponent.sync(this.entity);
     }
 
     @Override
@@ -62,15 +68,25 @@ public class EntityTransformationPower extends Power implements Active {
 
     @Override
     public NbtElement toTag() {
-        return NbtByte.of(isTransformed);
+        NbtCompound nbt = new NbtCompound();
+        nbt.putBoolean("is_transformed", isTransformed);
+        nbt.putBoolean("was_transformed", wasTransformed);
+        return nbt;
     }
 
     @Override
     public void fromTag(NbtElement tag) {
-        isTransformed = tag.equals(NbtByte.ONE);
+        if(tag instanceof NbtCompound nbt) {
+            isTransformed = nbt.getBoolean("is_transformed");
+            wasTransformed = nbt.getBoolean("was_transformed");
+        }
     }
 
     public Identifier getEntityType() {return entityType;}
 
     public boolean isTransformed() {return isTransformed;}
+
+    public boolean wasTransformed() {return wasTransformed;}
+
+    public void setWasTransformed(boolean transformed) {wasTransformed = transformed;}
 }

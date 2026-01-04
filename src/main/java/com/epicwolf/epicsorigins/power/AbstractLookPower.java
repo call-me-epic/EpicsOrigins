@@ -1,6 +1,7 @@
 package com.epicwolf.epicsorigins.power;
 
 import com.epicwolf.epicsorigins.Epicsorigins;
+import io.github.apace100.apoli.component.PowerHolderComponent;
 import io.github.apace100.apoli.data.ApoliDataTypes;
 import io.github.apace100.apoli.power.Active;
 import io.github.apace100.apoli.power.Power;
@@ -50,6 +51,7 @@ public class AbstractLookPower extends Power implements Active {
     @Override
     public void onUse() {
         this.shouldRender = !this.shouldRender;
+        PowerHolderComponent.sync(this.entity);
     }
 
     @Override

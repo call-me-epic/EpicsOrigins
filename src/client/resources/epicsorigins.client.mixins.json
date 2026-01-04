@@ -4,6 +4,7 @@
   "package": "com.epicwolf.epicsorigins.client.mixin",
   "compatibilityLevel": "JAVA_17",
   "client": [
+    "ArmorFeatureRendererMixin",
     "LivingEntityRendererMixin",
     "PlayerEntityRendererMixin"
   ],

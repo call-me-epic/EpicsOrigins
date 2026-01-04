@@ -12,6 +12,7 @@ import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Unique;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
+import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfoReturnable;
 
 import java.util.Objects;
@@ -21,9 +22,6 @@ public abstract class PlayerEntityMixin extends Entity implements MovingEntity, 
 
     @Unique
     private boolean isInitialized;
-
-    @Unique
-    private boolean isTransformed;
 
     public PlayerEntityMixin(EntityType<?> type, World world) {
         super(type, world);
@@ -40,13 +38,6 @@ public abstract class PlayerEntityMixin extends Entity implements MovingEntity, 
                 } else {
                     cir.setReturnValue(dimensions);
                 }
-                if (!isTransformed) {
-                    isTransformed = true;
-                    this.calculateDimensions();
-                }
-            } else if (isTransformed) {
-                isTransformed = false;
-                this.calculateDimensions();
             }
         }
     }
@@ -77,6 +68,17 @@ public abstract class PlayerEntityMixin extends Entity implements MovingEntity, 
         }
         else {
             isInitialized = true;
+        }
+    }
+
+    @Inject(method = "tick", at = @At("TAIL"))
+    private void tick(CallbackInfo ci) {
+        if (PowerHolderComponent.hasPower(this, EntityTransformationPower.class)) {
+            EntityTransformationPower power = PowerHolderComponent.getPowers(this, EntityTransformationPower.class).get(0);
+            if (power.isTransformed() != power.wasTransformed()) {
+                power.setWasTransformed(power.isTransformed());
+                this.calculateDimensions();
+            }
         }
     }
 }
