@@ -100,6 +100,7 @@ public abstract class LivingEntityRendererMixin<T extends LivingEntity, M extend
 
         entity.setPose(player.getPose());
         entity.setSneaking(player.isSneaking());
+        entity.setInvisible(player.isInvisible());
 
         entity.setOnFire(player.isOnFire());
         entity.hurtTime = player.hurtTime;

@@ -1,7 +1,5 @@
 package com.epicwolf.epicsorigins.mixin;
 
-import com.epicwolf.epicsorigins.Epicsorigins;
-import com.epicwolf.epicsorigins.power.EntityTransformationPower;
 import com.epicwolf.epicsorigins.power.SlimeMovementPower;
 import com.epicwolf.epicsorigins.power.WolfFearPower;
 import io.github.apace100.apoli.access.MovingEntity;
@@ -22,7 +20,6 @@ import org.spongepowered.asm.mixin.Unique;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
-import org.spongepowered.asm.mixin.injection.callback.CallbackInfoReturnable;
 
 import java.util.List;
 
@@ -46,14 +43,6 @@ public abstract class LivingEntityMixin extends Entity implements MovingEntity, 
         BlockPos pos = this.getBlockPos();
         FluidState fluidState = this.getWorld().getFluidState(pos);
         return !fluidState.isEmpty();
-    }
-    @Inject(method = "getDimensions", at = @At("HEAD"), cancellable = true)
-    public void TransformedDimensions(EntityPose pose, CallbackInfoReturnable<EntityDimensions> cir) {
-        for (EntityTransformationPower power : PowerHolderComponent.getPowers(this, EntityTransformationPower.class)) {
-            if (power.isTransformed()) {
-                cir.setReturnValue(EntityType.get(power.getEntityType().toString()).get().getDimensions());
-            }
-        }
     }
 
     @Inject(method = "tick", at = @At("TAIL"))
