@@ -23,6 +23,9 @@ public abstract class PlayerEntityMixin extends Entity implements MovingEntity, 
     @Unique
     private boolean isInitialized;
 
+    @Unique
+    private boolean hadTransformPower;
+
     public PlayerEntityMixin(EntityType<?> type, World world) {
         super(type, world);
     }
@@ -79,6 +82,11 @@ public abstract class PlayerEntityMixin extends Entity implements MovingEntity, 
                 power.setWasTransformed(power.isTransformed());
                 this.calculateDimensions();
             }
+            this.hadTransformPower = true;
+        }
+        else if (hadTransformPower) {
+            this.hadTransformPower = false;
+            this.calculateDimensions();
         }
     }
 }
