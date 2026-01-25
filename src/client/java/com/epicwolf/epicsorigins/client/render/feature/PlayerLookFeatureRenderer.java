@@ -3,6 +3,8 @@ package com.epicwolf.epicsorigins.client.render.feature;
 import com.epicwolf.epicsorigins.Epicsorigins;
 import com.epicwolf.epicsorigins.client.EpicsoriginsClient;
 import com.epicwolf.epicsorigins.client.render.model.PlayerLookModel;
+import com.epicwolf.epicsorigins.client.util.PlayerLookModelManager;
+import com.epicwolf.epicsorigins.client.util.PlayerLookModelManagerRegistry;
 import com.epicwolf.epicsorigins.power.AbstractLookPower;
 import io.github.apace100.apoli.component.PowerHolderComponent;
 import net.minecraft.client.render.OverlayTexture;
@@ -55,7 +57,16 @@ public class PlayerLookFeatureRenderer<T extends LivingEntity, M extends BipedEn
                         break;
                     }
                     if (type.equals(modelType.getLeft())) {
-                        playerLookModel.renderPart(matrixStack, vertexConsumerProvider.getBuffer(layer), light, OverlayTexture.DEFAULT_UV, modelType.getRight());
+                        boolean shouldRender = true;
+                        if (!PlayerLookModelManagerRegistry.modelManagers.isEmpty()) {
+                            for (PlayerLookModelManager manager: PlayerLookModelManagerRegistry.modelManagers) {
+                                if (!manager.onRender(modelType, entity, playerLookModel)) {
+                                    shouldRender = false;
+                                    break;
+                                }
+                            }
+                        }
+                        if (shouldRender) playerLookModel.renderPart(matrixStack, vertexConsumerProvider.getBuffer(layer), light, OverlayTexture.DEFAULT_UV, modelType.getRight());
                         break;
                     }
                 }
