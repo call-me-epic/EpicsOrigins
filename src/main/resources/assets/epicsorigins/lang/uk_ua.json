@@ -10,6 +10,24 @@
 
   "key.epicsorigins.change_look": "Змінити вигляд",
 
+  "ui.epicsorigins.look_screen.toggle_look": "Перемкнути вигляд:",
+
+  "ui.epicsorigins.look_screen.toggle_all_looks": "Перемкнути всі вигляди",
+
+  "ui.epicsorigins.look_screen.title": "Вигляд гравця",
+
+  "epicsorigins:look/wings": "Крила",
+
+  "epicsorigins:look/fox_tail": "Лисячий хвіст",
+
+  "epicsorigins:look/mermaid_tail": "Хвіст русалки",
+
+  "epicsorigins:look/demon_tail": "Хвіст демона",
+
+  "epicsorigins:look/fox_ears": "Лисячі вушка",
+
+  "epicsorigins:look/demon_horns": "Демонські роги",
+
   "effect.epicsorigins.charm": "Чарівність",
 
   "item.epicsorigins.orb_of_evolution": "Сфера еволюції",
@@ -96,7 +114,7 @@
 
   "power.epicsorigins.fairy/regeneration.name": "Чарівна кров",
 
-  "power.epicsorigins.fairy/regeneration.description": "У вас є природне відновлення",
+  "power.epicsorigins.fairy/regeneration.description": "У вас природне відновлення",
 
   "power.epicsorigins.fairy/look.name": "Погляд феї",
 
@@ -212,7 +230,7 @@
 
   "power.epicsorigins.evolved/asura/armor.name": "Вогняна кров",
 
-  "power.epicsorigins.evolved/asura/armor.description": "У вас є додатковий захист 8",
+  "power.epicsorigins.evolved/asura/armor.description": "У вас є 8 додаткових захистів",
 
   "power.epicsorigins.evolved/asura/burning_wrath.name": "Палаючий гнів",
 

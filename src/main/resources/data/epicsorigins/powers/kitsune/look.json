@@ -2,13 +2,13 @@
   "type": "origins:multiple",
 
   "ears": {
-    "type": "epicsorigins:look_attributes",
+    "type": "epicsorigins:player_look",
     "texture_location": "epicsorigins:textures/entity/player/fox_ears.png",
-    "model_type": "epicsorigins:attributes/fox_ears"
+    "model_type": "epicsorigins:look/fox_ears"
   },
   "tail": {
-    "type": "epicsorigins:look_attributes",
+    "type": "epicsorigins:player_look",
     "texture_location": "epicsorigins:textures/entity/player/fox_tail.png",
-    "model_type": "epicsorigins:attributes/fox_tail"
+    "model_type": "epicsorigins:look/fox_tail"
   }
 }

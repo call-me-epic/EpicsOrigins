@@ -7,6 +7,16 @@
   "category.epicsorigins": "Epic`s origins",
   "key.epicsorigins.change_look": "Change look",
 
+  "ui.epicsorigins.look_screen.toggle_look": "Toggle look: ",
+  "ui.epicsorigins.look_screen.toggle_all_looks": "Toggle all looks",
+  "ui.epicsorigins.look_screen.title": "Player look",
+  "epicsorigins:look/wings": "Wings",
+  "epicsorigins:look/fox_tail": "Fox tail",
+  "epicsorigins:look/mermaid_tail": "Mermaid tail",
+  "epicsorigins:look/demon_tail": "Demon tail",
+  "epicsorigins:look/fox_ears": "Fox ears",
+  "epicsorigins:look/demon_horns": "Demon horns",
+
   "effect.epicsorigins.charm": "Charm",
 
   "item.epicsorigins.orb_of_evolution": "Orb of evolution",
@@ -57,7 +67,7 @@
   "power.epicsorigins.fairy/weakness.name": "Weak hands",
   "power.epicsorigins.fairy/weakness.description": "Your damage is divided by 3",
   "power.epicsorigins.fairy/regeneration.name": "Magic blood",
-  "power.epicsorigins.fairy/regeneration.description": "You hava natural regeneration",
+  "power.epicsorigins.fairy/regeneration.description": "You have natural regeneration",
   "power.epicsorigins.fairy/look.name": "Fairy`s look",
   "power.epicsorigins.fairy/look.description": "You have wings on your back",
 

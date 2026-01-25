@@ -10,6 +10,24 @@
 
   "key.epicsorigins.change_look": "Zmień wygląd",
 
+  "ui.epicsorigins.look_screen.toggle_look": "Przełącz wygląd:",
+
+  "ui.epicsorigins.look_screen.toggle_all_looks": "Przełącz wszystkie wyglądy",
+
+  "ui.epicsorigins.look_screen.title": "Wygląd gracza",
+
+  "epicsorigins:look/wings": "Skrzydełka",
+
+  "epicsorigins:look/fox_tail": "Ogon lisa",
+
+  "epicsorigins:look/mermaid_tail": "Ogon syreny",
+
+  "epicsorigins:look/demon_tail": "Ogon demona",
+
+  "epicsorigins:look/fox_ears": "Uszy lisa",
+
+  "epicsorigins:look/demon_horns": "Rogi demona",
+
   "effect.epicsorigins.charm": "Czar",
 
   "item.epicsorigins.orb_of_evolution": "Kula ewolucji",
@@ -146,7 +164,7 @@
 
   "power.epicsorigins.evolved/super_human/primary_ability.description": "Przywracasz pełne zdrowie, głód i usuwasz wszystkie swoje efekty",
 
-  "power.epicsorigins.evolved/slime_king/primary_ability.name": "Śluzowe kule",
+  "power.epicsorigins.evolved/slime_king/primary_ability.name": "Szlamowe kule",
 
   "power.epicsorigins.evolved/slime_king/primary_ability.description": "Strzelasz 5 kulkami śluzu, które zadają 2 obrażenia",
 

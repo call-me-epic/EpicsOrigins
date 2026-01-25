@@ -10,6 +10,24 @@
 
   "key.epicsorigins.change_look": "Schimbați aspectul",
 
+  "ui.epicsorigins.look_screen.toggle_look": "Comutați aspectul:",
+
+  "ui.epicsorigins.look_screen.toggle_all_looks": "Comutați toate look-urile",
+
+  "ui.epicsorigins.look_screen.title": "Aspect de jucător",
+
+  "epicsorigins:look/wings": "Aripi",
+
+  "epicsorigins:look/fox_tail": "Coada vulpei",
+
+  "epicsorigins:look/mermaid_tail": "Coada de sirenă",
+
+  "epicsorigins:look/demon_tail": "Coada demonului",
+
+  "epicsorigins:look/fox_ears": "Urechi de vulpe",
+
+  "epicsorigins:look/demon_horns": "Coarne de demon",
+
   "effect.epicsorigins.charm": "Farmec",
 
   "item.epicsorigins.orb_of_evolution": "Orb al evoluției",
@@ -36,7 +54,7 @@
 
   "origin.epicsorigins.kitsune.name": "vulpe",
 
-  "origin.epicsorigins.kitsune.description": "Kitsune este o rasă antică de vulpi cu abilitatea de a se transforma în formă umană",
+  "origin.epicsorigins.kitsune.description": "Kitsune este o rasă antică de vulpi, cu capacitatea de a se transforma în formă umană",
 
   "origin.epicsorigins.evolved/super_human.name": "Super uman",
 
@@ -82,7 +100,7 @@
 
   "power.epicsorigins.fairy/flight.description": "Puteți zbura, dar numai pentru 5 secunde",
 
-  "power.epicsorigins.fairy/health.name": "Sanatate mica",
+  "power.epicsorigins.fairy/health.name": "Sănătate mică",
 
   "power.epicsorigins.fairy/health.description": "Ai doar 8 sănătate",
 
@@ -96,7 +114,7 @@
 
   "power.epicsorigins.fairy/regeneration.name": "Sânge magic",
 
-  "power.epicsorigins.fairy/regeneration.description": "Ai o regenerare naturală",
+  "power.epicsorigins.fairy/regeneration.description": "Ai regenerare naturală",
 
   "power.epicsorigins.fairy/look.name": "Aspectul zânei",
 

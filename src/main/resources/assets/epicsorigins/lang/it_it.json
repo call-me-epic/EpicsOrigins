@@ -10,6 +10,24 @@
 
   "key.epicsorigins.change_look": "Cambia aspetto",
 
+  "ui.epicsorigins.look_screen.toggle_look": "Attiva/disattiva visualizzazione:",
+
+  "ui.epicsorigins.look_screen.toggle_all_looks": "Attiva/disattiva tutti i look",
+
+  "ui.epicsorigins.look_screen.title": "Sguardo del giocatore",
+
+  "epicsorigins:look/wings": "Ali",
+
+  "epicsorigins:look/fox_tail": "Coda di volpe",
+
+  "epicsorigins:look/mermaid_tail": "Coda di sirena",
+
+  "epicsorigins:look/demon_tail": "Coda del demone",
+
+  "epicsorigins:look/fox_ears": "Orecchie di volpe",
+
+  "epicsorigins:look/demon_horns": "Corna demoniache",
+
   "effect.epicsorigins.charm": "Fascino",
 
   "item.epicsorigins.orb_of_evolution": "Sfera dell'evoluzione",
@@ -128,7 +146,7 @@
 
   "power.epicsorigins.kitsune/speed.name": "Maggiore velocità",
 
-  "power.epicsorigins.kitsune/speed.description": "Hai 1,5 velocità in più",
+  "power.epicsorigins.kitsune/speed.description": "Hai una velocità maggiore di 1,5",
 
   "power.epicsorigins.kitsune/fox_transformation.name": "Aspetto della volpe",
 
@@ -136,7 +154,7 @@
 
   "power.epicsorigins.kitsune/wolf_fear.name": "Paura del lupo",
 
-  "power.epicsorigins.kitsune/wolf_fear.description": "I lupi ti attaccheranno sempre e ti indebolisci vicino a loro",
+  "power.epicsorigins.kitsune/wolf_fear.description": "I lupi ti attaccheranno sempre e ti stai indebolendo vicino a loro",
 
   "power.epicsorigins.kitsune/look.name": "Lo sguardo di Kitsune",
 

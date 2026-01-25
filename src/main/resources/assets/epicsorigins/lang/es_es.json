@@ -10,6 +10,24 @@
 
   "key.epicsorigins.change_look": "cambiar de look",
 
+  "ui.epicsorigins.look_screen.toggle_look": "Alternar apariencia:",
+
+  "ui.epicsorigins.look_screen.toggle_all_looks": "Alternar todos los looks",
+
+  "ui.epicsorigins.look_screen.title": "Mirada del jugador",
+
+  "epicsorigins:look/wings": "Alas",
+
+  "epicsorigins:look/fox_tail": "cola de zorro",
+
+  "epicsorigins:look/mermaid_tail": "cola de sirena",
+
+  "epicsorigins:look/demon_tail": "cola de demonio",
+
+  "epicsorigins:look/fox_ears": "Orejas de zorro",
+
+  "epicsorigins:look/demon_horns": "Cuernos de demonio",
+
   "effect.epicsorigins.charm": "Encanto",
 
   "item.epicsorigins.orb_of_evolution": "Orbe de evolución",
@@ -96,7 +114,7 @@
 
   "power.epicsorigins.fairy/regeneration.name": "sangre magica",
 
-  "power.epicsorigins.fairy/regeneration.description": "Tienes regeneración natural.",
+  "power.epicsorigins.fairy/regeneration.description": "Tienes regeneración natural",
 
   "power.epicsorigins.fairy/look.name": "mirada de hada",
 

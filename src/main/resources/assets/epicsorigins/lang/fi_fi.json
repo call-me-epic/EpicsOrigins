@@ -10,6 +10,24 @@
 
   "key.epicsorigins.change_look": "Muuta ulkoasua",
 
+  "ui.epicsorigins.look_screen.toggle_look": "Vaihda ulkoasua:",
+
+  "ui.epicsorigins.look_screen.toggle_all_looks": "Vaihda kaikki ulkoasut",
+
+  "ui.epicsorigins.look_screen.title": "Pelaajan ulkonäkö",
+
+  "epicsorigins:look/wings": "Siivet",
+
+  "epicsorigins:look/fox_tail": "Ketun häntä",
+
+  "epicsorigins:look/mermaid_tail": "Merenneidon häntä",
+
+  "epicsorigins:look/demon_tail": "Demonin häntä",
+
+  "epicsorigins:look/fox_ears": "Ketun korvat",
+
+  "epicsorigins:look/demon_horns": "Demonin sarvet",
+
   "effect.epicsorigins.charm": "Viehätys",
 
   "item.epicsorigins.orb_of_evolution": "Evoluutiopallo",
@@ -24,7 +42,7 @@
 
   "origin.epicsorigins.fairy.name": "Keiju",
 
-  "origin.epicsorigins.fairy.description": "Pienten ihmisten rotu siivillä",
+  "origin.epicsorigins.fairy.description": "Pikkuihmisten rotu, jolla on siivet",
 
   "origin.epicsorigins.mermaid.name": "Merenneito",
 
@@ -152,7 +170,7 @@
 
   "power.epicsorigins.evolved/slime_king/secondary_ability.name": "HYPPY",
 
-  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "Hyppäät erittäin korkealle ja jätät vaurioiden käsittelyalueen alle",
+  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "Hyppäät erittäin korkealle ja jätät vahingonjakoalueen alle",
 
   "power.epicsorigins.evolved/slime_king/health.name": "Vielä isompi lima",
 

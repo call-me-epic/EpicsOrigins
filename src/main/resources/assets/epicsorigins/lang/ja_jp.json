@@ -10,6 +10,24 @@
 
   "key.epicsorigins.change_look": "見た目を変える",
 
+  "ui.epicsorigins.look_screen.toggle_look": "外観を切り替えます:",
+
+  "ui.epicsorigins.look_screen.toggle_all_looks": "すべての外観を切り替えます",
+
+  "ui.epicsorigins.look_screen.title": "選手の見た目",
+
+  "epicsorigins:look/wings": "翼",
+
+  "epicsorigins:look/fox_tail": "キツネの尻尾",
+
+  "epicsorigins:look/mermaid_tail": "人魚の尾",
+
+  "epicsorigins:look/demon_tail": "悪魔の尻尾",
+
+  "epicsorigins:look/fox_ears": "キツネの耳",
+
+  "epicsorigins:look/demon_horns": "悪魔の角",
+
   "effect.epicsorigins.charm": "魅力",
 
   "item.epicsorigins.orb_of_evolution": "進化のオーブ",
@@ -96,7 +114,7 @@
 
   "power.epicsorigins.fairy/regeneration.name": "魔法の血",
 
-  "power.epicsorigins.fairy/regeneration.description": "あなたには自然な再生能力があります",
+  "power.epicsorigins.fairy/regeneration.description": "あなたには自然再生力があります",
 
   "power.epicsorigins.fairy/look.name": "妖精の表情",
 
@@ -108,7 +126,7 @@
 
   "power.epicsorigins.mermaid/weakness.name": "地酔い",
 
-  "power.epicsorigins.mermaid/weakness.description": "水から出るとだんだん遅くなり、衰弱していきます",
+  "power.epicsorigins.mermaid/weakness.description": "水から上がるとだんだん遅くなり、弱くなっていく",
 
   "power.epicsorigins.mermaid/look.name": "人魚の表情",
 
@@ -124,7 +142,7 @@
 
   "power.epicsorigins.kitsune/health.name": "尻尾の健康",
 
-  "power.epicsorigins.kitsune/health.description": "あなたの健康状態がハート 1 つ増加します",
+  "power.epicsorigins.kitsune/health.description": "健康状態がハート 1 つ増加します",
 
   "power.epicsorigins.kitsune/speed.name": "高速化",
 
@@ -156,7 +174,7 @@
 
   "power.epicsorigins.evolved/slime_king/health.name": "さらに大きなスライム",
 
-  "power.epicsorigins.evolved/slime_king/health.description": "これでハートは14個になりました",
+  "power.epicsorigins.evolved/slime_king/health.description": "これでハートが14個になりました",
 
   "power.epicsorigins.evolved/slime_king/color.name": "ゼリーカラーは7色",
 
@@ -176,7 +194,7 @@
 
   "power.epicsorigins.evolved/angel/regeneration.name": "聖血",
 
-  "power.epicsorigins.evolved/angel/regeneration.description": "非常に早い再生能力を持っています",
+  "power.epicsorigins.evolved/angel/regeneration.description": "非常に早い回復力を持っています",
 
   "power.epicsorigins.evolved/angel/undead_damage.name": "聖なる武器",
 
@@ -212,7 +230,7 @@
 
   "power.epicsorigins.evolved/asura/armor.name": "ファイアブラッド",
 
-  "power.epicsorigins.evolved/asura/armor.description": "防御力が 8 追加されています",
+  "power.epicsorigins.evolved/asura/armor.description": "追加の防御力が 8 あります",
 
   "power.epicsorigins.evolved/asura/burning_wrath.name": "燃える怒り",
 

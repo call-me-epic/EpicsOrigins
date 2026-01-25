@@ -10,6 +10,24 @@
 
   "key.epicsorigins.change_look": "Görünümü değiştir",
 
+  "ui.epicsorigins.look_screen.toggle_look": "Görünümü değiştir:",
+
+  "ui.epicsorigins.look_screen.toggle_all_looks": "Tüm görünümleri değiştir",
+
+  "ui.epicsorigins.look_screen.title": "Oyuncu görünümü",
+
+  "epicsorigins:look/wings": "Kanatlar",
+
+  "epicsorigins:look/fox_tail": "Tilki kuyruğu",
+
+  "epicsorigins:look/mermaid_tail": "Denizkızı kuyruğu",
+
+  "epicsorigins:look/demon_tail": "Şeytan kuyruğu",
+
+  "epicsorigins:look/fox_ears": "Tilki kulakları",
+
+  "epicsorigins:look/demon_horns": "Şeytan boynuzları",
+
   "effect.epicsorigins.charm": "Cazibe",
 
   "item.epicsorigins.orb_of_evolution": "Evrim küresi",
@@ -28,7 +46,7 @@
 
   "origin.epicsorigins.mermaid.name": "Deniz kızı",
 
-  "origin.epicsorigins.mermaid.description": "Deniz kızları insan yüzlü ve balık kuyruklu efsanevi yaratıklardır.",
+  "origin.epicsorigins.mermaid.description": "Deniz kızları, insan yüzlü ve balık kuyruklu efsanevi yaratıklardır.",
 
   "origin.epicsorigins.demon.name": "Şeytan",
 
@@ -88,7 +106,7 @@
 
   "power.epicsorigins.fairy/size.name": "Küçük boyut",
 
-  "power.epicsorigins.fairy/size.description": "Sadece küçüksün (yalnızca pehkui ile çalışır)",
+  "power.epicsorigins.fairy/size.description": "Sen sadece küçüksün (yalnızca pehkui ile çalışır)",
 
   "power.epicsorigins.fairy/weakness.name": "Zayıf eller",
 
@@ -96,7 +114,7 @@
 
   "power.epicsorigins.fairy/regeneration.name": "Sihirli kan",
 
-  "power.epicsorigins.fairy/regeneration.description": "Doğal yenilenmeyi havalandırıyorsunuz",
+  "power.epicsorigins.fairy/regeneration.description": "Doğal yenilenmeniz var",
 
   "power.epicsorigins.fairy/look.name": "Perinin görünüşü",
 
@@ -168,7 +186,7 @@
 
   "power.epicsorigins.evolved/angel/secondary_ability.name": "Ekstra sağlık",
 
-  "power.epicsorigins.evolved/angel/secondary_ability.description": "Bir dakikalığına 8 kalp daha alabilirsiniz",
+  "power.epicsorigins.evolved/angel/secondary_ability.description": "Bir dakika içinde 8 kalp daha alabilirsiniz",
 
   "power.epicsorigins.evolved/angel/flight.name": "Uçuş",
 
@@ -192,7 +210,7 @@
 
   "power.epicsorigins.evolved/oceanid/secondary_ability.name": "Hava durumu kontrolü",
 
-  "power.epicsorigins.evolved/oceanid/secondary_ability.description": "Hava durumunu yağmura çevirebilir veya yağmur yağıyorsa havayı temizleyebilirsiniz.",
+  "power.epicsorigins.evolved/oceanid/secondary_ability.description": "Hava durumunu yağmur olarak değiştirebilir veya yağmur yağıyorsa havayı temizleyebilirsiniz.",
 
   "power.epicsorigins.evolved/oceanid/long_breathing.name": "Uzun nefes alma",
 
@@ -204,7 +222,7 @@
 
   "power.epicsorigins.evolved/asura/primary_ability.name": "Yanan öfke",
 
-  "power.epicsorigins.evolved/asura/primary_ability.description": "Kendinizi ateşe verirsiniz ve hasara daha az duyarlı olursunuz",
+  "power.epicsorigins.evolved/asura/primary_ability.description": "Kendinizi ateşe verirsiniz ve hasara karşı daha az duyarlı olursunuz",
 
   "power.epicsorigins.evolved/asura/secondary_ability.name": "Ateş aurası",
 

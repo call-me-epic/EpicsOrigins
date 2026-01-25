@@ -10,6 +10,24 @@
 
   "key.epicsorigins.change_look": "Mudar aparência",
 
+  "ui.epicsorigins.look_screen.toggle_look": "Alternar aparência:",
+
+  "ui.epicsorigins.look_screen.toggle_all_looks": "Alternar todos os looks",
+
+  "ui.epicsorigins.look_screen.title": "Aparência do jogador",
+
+  "epicsorigins:look/wings": "Asas",
+
+  "epicsorigins:look/fox_tail": "Rabo de raposa",
+
+  "epicsorigins:look/mermaid_tail": "Cauda de sereia",
+
+  "epicsorigins:look/demon_tail": "Cauda de demônio",
+
+  "epicsorigins:look/fox_ears": "Orelhas de raposa",
+
+  "epicsorigins:look/demon_horns": "Chifres de demônio",
+
   "effect.epicsorigins.charm": "Charme",
 
   "item.epicsorigins.orb_of_evolution": "Orbe da evolução",
@@ -198,7 +216,7 @@
 
   "power.epicsorigins.evolved/oceanid/long_breathing.description": "Você pode ficar no ar por muito mais tempo",
 
-  "power.epicsorigins.evolved/oceanid/color.name": "Aparência espiritual",
+  "power.epicsorigins.evolved/oceanid/color.name": "Aparência do espírito",
 
   "power.epicsorigins.evolved/oceanid/color.description": "Você parece um espírito da água azul",
 

@@ -7,6 +7,16 @@
   "category.epicsorigins": "Epic`s origins",
   "key.epicsorigins.change_look": "Переключение облика",
 
+  "ui.epicsorigins.look_screen.toggle_look": "Переключить внешность: ",
+  "ui.epicsorigins.look_screen.toggle_all_looks": "Переключить всю внешность",
+  "ui.epicsorigins.look_screen.title": "Внешность игрока",
+  "epicsorigins:look/wings": "Крылья",
+  "epicsorigins:look/fox_tail": "Хвост лисы",
+  "epicsorigins:look/mermaid_tail": "Хвост русалки",
+  "epicsorigins:look/demon_tail": "Хвост демона",
+  "epicsorigins:look/fox_ears": "Уши лисы",
+  "epicsorigins:look/demon_horns": "Рога демона",
+
   "effect.epicsorigins.charm": "Очарован",
 
   "item.epicsorigins.orb_of_evolution": "Сфера эволюции",

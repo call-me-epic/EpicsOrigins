@@ -10,6 +10,24 @@
 
   "key.epicsorigins.change_look": "Changer de look",
 
+  "ui.epicsorigins.look_screen.toggle_look": "Changer d'apparence :",
+
+  "ui.epicsorigins.look_screen.toggle_all_looks": "Changer tous les looks",
+
+  "ui.epicsorigins.look_screen.title": "Regard de joueur",
+
+  "epicsorigins:look/wings": "Ailes",
+
+  "epicsorigins:look/fox_tail": "Queue de renard",
+
+  "epicsorigins:look/mermaid_tail": "Queue de sirène",
+
+  "epicsorigins:look/demon_tail": "Queue de démon",
+
+  "epicsorigins:look/fox_ears": "Oreilles de renard",
+
+  "epicsorigins:look/demon_horns": "Cornes de démon",
+
   "effect.epicsorigins.charm": "Charme",
 
   "item.epicsorigins.orb_of_evolution": "Orbe d'évolution",
@@ -96,7 +114,7 @@
 
   "power.epicsorigins.fairy/regeneration.name": "Sang magique",
 
-  "power.epicsorigins.fairy/regeneration.description": "Vous disposez d'une régénération naturelle",
+  "power.epicsorigins.fairy/regeneration.description": "Vous avez une régénération naturelle",
 
   "power.epicsorigins.fairy/look.name": "Le regard de la fée",
 
@@ -222,7 +240,7 @@
 
   "power.epicsorigins.evolved/asura/look.description": "Tu as des cornes et une queue couvertes de feu",
 
-  "power.epicsorigins.evolved/nine_tailed_kitsune/health.name": "Plus de queues, plus de coeur",
+  "power.epicsorigins.evolved/nine_tailed_kitsune/health.name": "Plus de queues, plus de cœur",
 
   "power.epicsorigins.evolved/nine_tailed_kitsune/health.description": "Vous avez développé 9 queues, donc votre santé est également augmentée de 9 cœurs",
 

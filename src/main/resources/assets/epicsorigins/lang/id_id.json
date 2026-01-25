@@ -10,6 +10,24 @@
 
   "key.epicsorigins.change_look": "Ubah tampilan",
 
+  "ui.epicsorigins.look_screen.toggle_look": "Beralih tampilan:",
+
+  "ui.epicsorigins.look_screen.toggle_all_looks": "Alihkan semua tampilan",
+
+  "ui.epicsorigins.look_screen.title": "Penampilan pemain",
+
+  "epicsorigins:look/wings": "Sayap",
+
+  "epicsorigins:look/fox_tail": "Ekor rubah",
+
+  "epicsorigins:look/mermaid_tail": "Ekor putri duyung",
+
+  "epicsorigins:look/demon_tail": "Ekor setan",
+
+  "epicsorigins:look/fox_ears": "Telinga rubah",
+
+  "epicsorigins:look/demon_horns": "Tanduk setan",
+
   "effect.epicsorigins.charm": "Pesona",
 
   "item.epicsorigins.orb_of_evolution": "Bola evolusi",

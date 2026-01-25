@@ -10,6 +10,24 @@
 
   "key.epicsorigins.change_look": "שנה מראה",
 
+  "ui.epicsorigins.look_screen.toggle_look": "החלף מבט:",
+
+  "ui.epicsorigins.look_screen.toggle_all_looks": "החלף את כל המבטים",
+
+  "ui.epicsorigins.look_screen.title": "מראה שחקן",
+
+  "epicsorigins:look/wings": "כנפיים",
+
+  "epicsorigins:look/fox_tail": "זנב שועל",
+
+  "epicsorigins:look/mermaid_tail": "זנב בת ים",
+
+  "epicsorigins:look/demon_tail": "זנב שד",
+
+  "epicsorigins:look/fox_ears": "אוזני שועל",
+
+  "epicsorigins:look/demon_horns": "קרני שדים",
+
   "effect.epicsorigins.charm": "קֶסֶם",
 
   "item.epicsorigins.orb_of_evolution": "כדור האבולוציה",
@@ -20,7 +38,7 @@
 
   "origin.epicsorigins.slime.name": "רֶפֶשׁ",
 
-  "origin.epicsorigins.slime.description": "אז עכשיו אתה קופצני",
+  "origin.epicsorigins.slime.description": "אז, עכשיו אתה קופצני",
 
   "origin.epicsorigins.fairy.name": "פֵיָה",
 
@@ -28,7 +46,7 @@
 
   "origin.epicsorigins.mermaid.name": "בְּתוּלַת הַיָם",
 
-  "origin.epicsorigins.mermaid.description": "בתולות ים הן יצורים מיתיים עם פנים אנושיות וזנבות דגים",
+  "origin.epicsorigins.mermaid.description": "בתולות הים הן יצורים מיתיים עם פנים אנושיות וזנבות דגים",
 
   "origin.epicsorigins.demon.name": "שֵׁד",
 
@@ -208,7 +226,7 @@
 
   "power.epicsorigins.evolved/asura/secondary_ability.name": "הילת אש",
 
-  "power.epicsorigins.evolved/asura/secondary_ability.description": "כל הישויות הסמוכות יסבלו נזקי שריפה למשך זמן מה",
+  "power.epicsorigins.evolved/asura/secondary_ability.description": "כל הישויות הקרובות יסבלו נזקי שריפה למשך זמן מה",
 
   "power.epicsorigins.evolved/asura/armor.name": "דם אש",
 

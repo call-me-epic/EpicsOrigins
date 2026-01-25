@@ -10,6 +10,24 @@
 
   "key.epicsorigins.change_look": "모습 바꾸기",
 
+  "ui.epicsorigins.look_screen.toggle_look": "보기 전환:",
+
+  "ui.epicsorigins.look_screen.toggle_all_looks": "모든 디자인 전환",
+
+  "ui.epicsorigins.look_screen.title": "플레이어의 모습",
+
+  "epicsorigins:look/wings": "날개",
+
+  "epicsorigins:look/fox_tail": "여우꼬리",
+
+  "epicsorigins:look/mermaid_tail": "인어 꼬리",
+
+  "epicsorigins:look/demon_tail": "악마의 꼬리",
+
+  "epicsorigins:look/fox_ears": "여우 귀",
+
+  "epicsorigins:look/demon_horns": "악마 뿔",
+
   "effect.epicsorigins.charm": "매력",
 
   "item.epicsorigins.orb_of_evolution": "진화의 오브",
@@ -32,7 +50,7 @@
 
   "origin.epicsorigins.demon.name": "악마",
 
-  "origin.epicsorigins.demon.description": "당신은 당신의 죄로 인해 네더로 추방되었지만 몇 가지 이점이 있었습니다.",
+  "origin.epicsorigins.demon.description": "당신은 당신의 죄로 인해 네더로 추방되었지만 몇 가지 장점이 있었습니다.",
 
   "origin.epicsorigins.kitsune.name": "여우",
 
@@ -108,7 +126,7 @@
 
   "power.epicsorigins.mermaid/weakness.name": "멀미",
 
-  "power.epicsorigins.mermaid/weakness.description": "물 밖으로 나올 때 점점 더 느려지고 약해집니다.",
+  "power.epicsorigins.mermaid/weakness.description": "물 밖으로 나오면 속도가 점점 느려지고 약해집니다.",
 
   "power.epicsorigins.mermaid/look.name": "인어의 모습",
 
@@ -198,7 +216,7 @@
 
   "power.epicsorigins.evolved/oceanid/long_breathing.description": "훨씬 더 오랫동안 공중에 머물 수 있습니다.",
 
-  "power.epicsorigins.evolved/oceanid/color.name": "영혼의 출현",
+  "power.epicsorigins.evolved/oceanid/color.name": "정령 출현",
 
   "power.epicsorigins.evolved/oceanid/color.description": "당신은 푸른 물의 정령처럼 보입니다",
 
@@ -212,7 +230,7 @@
 
   "power.epicsorigins.evolved/asura/armor.name": "불의 피",
 
-  "power.epicsorigins.evolved/asura/armor.description": "방어력이 8 추가됩니다",
+  "power.epicsorigins.evolved/asura/armor.description": "방어력이 8 추가됩니다.",
 
   "power.epicsorigins.evolved/asura/burning_wrath.name": "불타는 분노",
 

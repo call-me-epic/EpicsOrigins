@@ -35,7 +35,7 @@ async def translate():
         translations = json.load(f)
         for lang in languages:
             new_translations = translations.copy()
-            print(lang[1])
+            print(lang[0])
             for translation in translations:
                 new_translation = await translator.translate(translations[translation], dest=lang[1])
                 new_translations[translation] = new_translation.text
