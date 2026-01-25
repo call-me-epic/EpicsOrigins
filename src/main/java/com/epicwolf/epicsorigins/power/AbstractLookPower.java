@@ -1,6 +1,7 @@
 package com.epicwolf.epicsorigins.power;
 
 import com.epicwolf.epicsorigins.Epicsorigins;
+import com.epicwolf.epicsorigins.networking.ModPackets;
 import io.github.apace100.apoli.component.PowerHolderComponent;
 import io.github.apace100.apoli.data.ApoliDataTypes;
 import io.github.apace100.apoli.power.Active;
@@ -9,9 +10,13 @@ import io.github.apace100.apoli.power.PowerType;
 import io.github.apace100.apoli.power.factory.PowerFactory;
 import io.github.apace100.calio.data.SerializableData;
 import io.github.apace100.calio.data.SerializableDataTypes;
+import io.netty.buffer.Unpooled;
+import net.fabricmc.fabric.api.networking.v1.ServerPlayNetworking;
 import net.minecraft.entity.LivingEntity;
 import net.minecraft.nbt.NbtByte;
 import net.minecraft.nbt.NbtElement;
+import net.minecraft.network.PacketByteBuf;
+import net.minecraft.server.network.ServerPlayerEntity;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.Pair;
 
@@ -35,7 +40,7 @@ public class AbstractLookPower extends Power implements Active {
     public static PowerFactory<Power> createFactory() {
         Key baseKey = new Key();
         baseKey.key = "key.epicsorigins.change_look";
-        return new PowerFactory<>(Epicsorigins.identifier("look_attributes"), new SerializableData()
+        return new PowerFactory<>(Epicsorigins.identifier("player_look"), new SerializableData()
                 .add("should_render", SerializableDataTypes.BOOLEAN, true)
                 .add("texture_location", SerializableDataTypes.IDENTIFIER, null)
                 .add("model_type", SerializableDataTypes.IDENTIFIER)
@@ -50,8 +55,7 @@ public class AbstractLookPower extends Power implements Active {
 
     @Override
     public void onUse() {
-        this.shouldRender = !this.shouldRender;
-        PowerHolderComponent.sync(this.entity);
+        if (!this.entity.getWorld().isClient()) ServerPlayNetworking.send((ServerPlayerEntity) this.entity, ModPackets.OPEN_PLAYER_LOOK_SCREEN, new PacketByteBuf(Unpooled.buffer()));
     }
 
     @Override
@@ -83,4 +87,6 @@ public class AbstractLookPower extends Power implements Active {
     public Pair<Identifier, Identifier> getModelAndTexture() {return new Pair<>(modelType, textureLocation);}
 
     public boolean isShouldRender() {return shouldRender;}
+
+    public void setShouldRender(boolean shouldRender) {this.shouldRender = shouldRender;}
 }

@@ -2,6 +2,7 @@ package com.epicwolf.epicsorigins;
 
 import com.epicwolf.epicsorigins.effect.ModEffects;
 import com.epicwolf.epicsorigins.item.ModItems;
+import com.epicwolf.epicsorigins.networking.ModPacketsC2S;
 import com.epicwolf.epicsorigins.power.factory.PowerFactories;
 import com.epicwolf.epicsorigins.power.factory.action.EntityActions;
 import net.fabricmc.api.ModInitializer;
@@ -19,6 +20,7 @@ public class Epicsorigins implements ModInitializer {
     @Override
     public void onInitialize() {
 //        registerPackets();
+        ModPacketsC2S.register();
         PowerFactories.register();
         EntityActions.register();
         ModItems.register();
