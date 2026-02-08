@@ -10,11 +10,19 @@
 
   "key.epicsorigins.change_look": "Verander het uiterlijk",
 
-  "ui.epicsorigins.look_screen.toggle_look": "Kijken wisselen:",
+  "ui.epicsorigins.look_screen.toggle_look": "Schakelaar:",
 
-  "ui.epicsorigins.look_screen.toggle_all_looks": "Schakel alle looks in",
+  "ui.epicsorigins.look_screen.toggle_all_looks": "Schakel alles in",
+
+  "ui.epicsorigins.look_screen.load_texture": "Textuur laden",
+
+  "ui.epicsorigins.look_screen.delete_texture": "Textuur verwijderen",
 
   "ui.epicsorigins.look_screen.title": "Speler uiterlijk",
+
+  "ui.epicsorigins.look_screen.looks": "Ziet er uit",
+
+  "ui.epicsorigins.look_screen.textures": "Aangepaste texturen",
 
   "epicsorigins:look/wings": "Vleugels",
 
@@ -140,7 +148,7 @@
 
   "power.epicsorigins.demon/look.description": "Je hebt demonenhoorns en staart",
 
-  "power.epicsorigins.kitsune/health.name": "Staart gezondheid",
+  "power.epicsorigins.kitsune/health.name": "Gezondheid van de staart",
 
   "power.epicsorigins.kitsune/health.description": "Je gezondheid wordt met 1 hart verhoogd",
 
@@ -166,7 +174,7 @@
 
   "power.epicsorigins.evolved/slime_king/primary_ability.name": "Slijm kogels",
 
-  "power.epicsorigins.evolved/slime_king/primary_ability.description": "Je schiet 5 slijmballen die 2 schade aanrichten",
+  "power.epicsorigins.evolved/slime_king/primary_ability.description": "Je schiet 5 slijmballen af ​​die 2 schade aanrichten",
 
   "power.epicsorigins.evolved/slime_king/secondary_ability.name": "DE SPRONG",
 

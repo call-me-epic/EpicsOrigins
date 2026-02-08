@@ -10,11 +10,19 @@
 
   "key.epicsorigins.change_look": "Görünümü değiştir",
 
-  "ui.epicsorigins.look_screen.toggle_look": "Görünümü değiştir:",
+  "ui.epicsorigins.look_screen.toggle_look": "Geçiş:",
 
-  "ui.epicsorigins.look_screen.toggle_all_looks": "Tüm görünümleri değiştir",
+  "ui.epicsorigins.look_screen.toggle_all_looks": "Tümünü değiştir",
+
+  "ui.epicsorigins.look_screen.load_texture": "Dokuyu yükle",
+
+  "ui.epicsorigins.look_screen.delete_texture": "Dokuyu sil",
 
   "ui.epicsorigins.look_screen.title": "Oyuncu görünümü",
+
+  "ui.epicsorigins.look_screen.looks": "Görünüş",
+
+  "ui.epicsorigins.look_screen.textures": "Özel dokular",
 
   "epicsorigins:look/wings": "Kanatlar",
 
@@ -46,7 +54,7 @@
 
   "origin.epicsorigins.mermaid.name": "Deniz kızı",
 
-  "origin.epicsorigins.mermaid.description": "Deniz kızları, insan yüzlü ve balık kuyruklu efsanevi yaratıklardır.",
+  "origin.epicsorigins.mermaid.description": "Deniz kızları insan yüzlü ve balık kuyruklu efsanevi yaratıklardır.",
 
   "origin.epicsorigins.demon.name": "Şeytan",
 
@@ -134,7 +142,7 @@
 
   "power.epicsorigins.demon/armor.name": "Lanetli kan",
 
-  "power.epicsorigins.demon/armor.description": "Ekstra bir savunmanız var",
+  "power.epicsorigins.demon/armor.description": "Ekstra savunmanız var",
 
   "power.epicsorigins.demon/look.name": "Şeytani görünüm",
 
@@ -222,7 +230,7 @@
 
   "power.epicsorigins.evolved/asura/primary_ability.name": "Yanan öfke",
 
-  "power.epicsorigins.evolved/asura/primary_ability.description": "Kendinizi ateşe verirsiniz ve hasara karşı daha az duyarlı olursunuz",
+  "power.epicsorigins.evolved/asura/primary_ability.description": "Kendinizi ateşe verirsiniz ve hasara daha az duyarlı olursunuz",
 
   "power.epicsorigins.evolved/asura/secondary_ability.name": "Ateş aurası",
 

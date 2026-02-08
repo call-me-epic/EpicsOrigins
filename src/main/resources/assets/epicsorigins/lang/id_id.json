@@ -10,11 +10,19 @@
 
   "key.epicsorigins.change_look": "Ubah tampilan",
 
-  "ui.epicsorigins.look_screen.toggle_look": "Beralih tampilan:",
+  "ui.epicsorigins.look_screen.toggle_look": "Beralih:",
 
-  "ui.epicsorigins.look_screen.toggle_all_looks": "Alihkan semua tampilan",
+  "ui.epicsorigins.look_screen.toggle_all_looks": "Alihkan semua",
+
+  "ui.epicsorigins.look_screen.load_texture": "Memuat tekstur",
+
+  "ui.epicsorigins.look_screen.delete_texture": "Hapus tekstur",
 
   "ui.epicsorigins.look_screen.title": "Penampilan pemain",
+
+  "ui.epicsorigins.look_screen.looks": "Terlihat",
+
+  "ui.epicsorigins.look_screen.textures": "Tekstur khusus",
 
   "epicsorigins:look/wings": "Sayap",
 

@@ -10,11 +10,19 @@
 
   "key.epicsorigins.change_look": "cambiar de look",
 
-  "ui.epicsorigins.look_screen.toggle_look": "Alternar apariencia:",
+  "ui.epicsorigins.look_screen.toggle_look": "Palanca:",
 
-  "ui.epicsorigins.look_screen.toggle_all_looks": "Alternar todos los looks",
+  "ui.epicsorigins.look_screen.toggle_all_looks": "Alternar todo",
+
+  "ui.epicsorigins.look_screen.load_texture": "Cargar textura",
+
+  "ui.epicsorigins.look_screen.delete_texture": "Eliminar textura",
 
   "ui.epicsorigins.look_screen.title": "Mirada del jugador",
+
+  "ui.epicsorigins.look_screen.looks": "Aspecto",
+
+  "ui.epicsorigins.look_screen.textures": "Texturas personalizadas",
 
   "epicsorigins:look/wings": "Alas",
 

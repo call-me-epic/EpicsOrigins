@@ -10,11 +10,19 @@
 
   "key.epicsorigins.change_look": "Aussehen ändern",
 
-  "ui.epicsorigins.look_screen.toggle_look": "Aussehen umschalten:",
+  "ui.epicsorigins.look_screen.toggle_look": "Umschalten:",
 
-  "ui.epicsorigins.look_screen.toggle_all_looks": "Alle Looks umschalten",
+  "ui.epicsorigins.look_screen.toggle_all_looks": "Alles umschalten",
+
+  "ui.epicsorigins.look_screen.load_texture": "Textur laden",
+
+  "ui.epicsorigins.look_screen.delete_texture": "Textur löschen",
 
   "ui.epicsorigins.look_screen.title": "Spielerblick",
+
+  "ui.epicsorigins.look_screen.looks": "Aussehen",
+
+  "ui.epicsorigins.look_screen.textures": "Benutzerdefinierte Texturen",
 
   "epicsorigins:look/wings": "Flügel",
 
@@ -210,7 +218,7 @@
 
   "power.epicsorigins.evolved/oceanid/secondary_ability.name": "Wetterkontrolle",
 
-  "power.epicsorigins.evolved/oceanid/secondary_ability.description": "Sie können das Wetter auf „Regen“ umstellen oder das Wetter löschen, wenn es regnet",
+  "power.epicsorigins.evolved/oceanid/secondary_ability.description": "Sie können das Wetter auf Regen umstellen oder das Wetter löschen, wenn es regnet",
 
   "power.epicsorigins.evolved/oceanid/long_breathing.name": "Langes Atmen",
 

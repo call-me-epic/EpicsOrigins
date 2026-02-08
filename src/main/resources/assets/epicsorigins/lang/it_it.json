@@ -10,11 +10,19 @@
 
   "key.epicsorigins.change_look": "Cambia aspetto",
 
-  "ui.epicsorigins.look_screen.toggle_look": "Attiva/disattiva visualizzazione:",
+  "ui.epicsorigins.look_screen.toggle_look": "Alterna:",
 
-  "ui.epicsorigins.look_screen.toggle_all_looks": "Attiva/disattiva tutti i look",
+  "ui.epicsorigins.look_screen.toggle_all_looks": "Attiva/disattiva tutto",
+
+  "ui.epicsorigins.look_screen.load_texture": "Carica la trama",
+
+  "ui.epicsorigins.look_screen.delete_texture": "Elimina trama",
 
   "ui.epicsorigins.look_screen.title": "Sguardo del giocatore",
+
+  "ui.epicsorigins.look_screen.looks": "Sembra",
+
+  "ui.epicsorigins.look_screen.textures": "Texture personalizzate",
 
   "epicsorigins:look/wings": "Ali",
 
@@ -38,7 +46,7 @@
 
   "origin.epicsorigins.slime.name": "Melma",
 
-  "origin.epicsorigins.slime.description": "Quindi ora sei elastico",
+  "origin.epicsorigins.slime.description": "Quindi ora sei vivace",
 
   "origin.epicsorigins.fairy.name": "Fata",
 
@@ -146,7 +154,7 @@
 
   "power.epicsorigins.kitsune/speed.name": "Maggiore velocità",
 
-  "power.epicsorigins.kitsune/speed.description": "Hai una velocità maggiore di 1,5",
+  "power.epicsorigins.kitsune/speed.description": "Hai 1,5 velocità in più",
 
   "power.epicsorigins.kitsune/fox_transformation.name": "Aspetto della volpe",
 
@@ -154,7 +162,7 @@
 
   "power.epicsorigins.kitsune/wolf_fear.name": "Paura del lupo",
 
-  "power.epicsorigins.kitsune/wolf_fear.description": "I lupi ti attaccheranno sempre e ti stai indebolendo vicino a loro",
+  "power.epicsorigins.kitsune/wolf_fear.description": "I lupi ti attaccheranno sempre e ti indebolisci vicino a loro",
 
   "power.epicsorigins.kitsune/look.name": "Lo sguardo di Kitsune",
 

@@ -10,11 +10,19 @@
 
   "key.epicsorigins.change_look": "Змінити вигляд",
 
-  "ui.epicsorigins.look_screen.toggle_look": "Перемкнути вигляд:",
+  "ui.epicsorigins.look_screen.toggle_look": "Перемикач:",
 
-  "ui.epicsorigins.look_screen.toggle_all_looks": "Перемкнути всі вигляди",
+  "ui.epicsorigins.look_screen.toggle_all_looks": "Перемкнути все",
+
+  "ui.epicsorigins.look_screen.load_texture": "Завантажити текстуру",
+
+  "ui.epicsorigins.look_screen.delete_texture": "Видалити текстуру",
 
   "ui.epicsorigins.look_screen.title": "Вигляд гравця",
+
+  "ui.epicsorigins.look_screen.looks": "виглядає",
+
+  "ui.epicsorigins.look_screen.textures": "Спеціальні текстури",
 
   "epicsorigins:look/wings": "Крила",
 
@@ -218,7 +226,7 @@
 
   "power.epicsorigins.evolved/oceanid/color.name": "Поява духу",
 
-  "power.epicsorigins.evolved/oceanid/color.description": "Ти схожий на духа синьої води",
+  "power.epicsorigins.evolved/oceanid/color.description": "Ви схожі на духа синьої води",
 
   "power.epicsorigins.evolved/asura/primary_ability.name": "Палаюча лють",
 
@@ -230,7 +238,7 @@
 
   "power.epicsorigins.evolved/asura/armor.name": "Вогняна кров",
 
-  "power.epicsorigins.evolved/asura/armor.description": "У вас є 8 додаткових захистів",
+  "power.epicsorigins.evolved/asura/armor.description": "У вас є додатковий захист 8",
 
   "power.epicsorigins.evolved/asura/burning_wrath.name": "Палаючий гнів",
 

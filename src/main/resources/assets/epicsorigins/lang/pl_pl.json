@@ -10,11 +10,19 @@
 
   "key.epicsorigins.change_look": "Zmień wygląd",
 
-  "ui.epicsorigins.look_screen.toggle_look": "Przełącz wygląd:",
+  "ui.epicsorigins.look_screen.toggle_look": "Dźwignia kolankowa:",
 
-  "ui.epicsorigins.look_screen.toggle_all_looks": "Przełącz wszystkie wyglądy",
+  "ui.epicsorigins.look_screen.toggle_all_looks": "Przełącz wszystko",
+
+  "ui.epicsorigins.look_screen.load_texture": "Załaduj teksturę",
+
+  "ui.epicsorigins.look_screen.delete_texture": "Usuń teksturę",
 
   "ui.epicsorigins.look_screen.title": "Wygląd gracza",
+
+  "ui.epicsorigins.look_screen.looks": "Wygląda",
+
+  "ui.epicsorigins.look_screen.textures": "Niestandardowe tekstury",
 
   "epicsorigins:look/wings": "Skrzydełka",
 
@@ -66,7 +74,7 @@
 
   "origin.epicsorigins.evolved/angel.name": "Anioł",
 
-  "origin.epicsorigins.evolved/angel.description": "Wyewoluowaliście w boską rasę ze skrzydłami i świętymi mocami",
+  "origin.epicsorigins.evolved/angel.description": "Wyewoluowaliście w boską rasę ze skrzydłami i świętą mocą",
 
   "origin.epicsorigins.evolved/oceanid.name": "Oceanida",
 
@@ -162,9 +170,9 @@
 
   "power.epicsorigins.evolved/super_human/primary_ability.name": "Drugi oddech",
 
-  "power.epicsorigins.evolved/super_human/primary_ability.description": "Przywracasz pełne zdrowie, głód i usuwasz wszystkie swoje efekty",
+  "power.epicsorigins.evolved/super_human/primary_ability.description": "Przywracasz pełnię zdrowia, głód i usuwasz wszystkie swoje efekty",
 
-  "power.epicsorigins.evolved/slime_king/primary_ability.name": "Szlamowe kule",
+  "power.epicsorigins.evolved/slime_king/primary_ability.name": "Śluzowe kule",
 
   "power.epicsorigins.evolved/slime_king/primary_ability.description": "Strzelasz 5 kulkami śluzu, które zadają 2 obrażenia",
 

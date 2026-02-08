@@ -10,11 +10,19 @@
 
   "key.epicsorigins.change_look": "見た目を変える",
 
-  "ui.epicsorigins.look_screen.toggle_look": "外観を切り替えます:",
+  "ui.epicsorigins.look_screen.toggle_look": "トグル：",
 
-  "ui.epicsorigins.look_screen.toggle_all_looks": "すべての外観を切り替えます",
+  "ui.epicsorigins.look_screen.toggle_all_looks": "すべてを切り替える",
+
+  "ui.epicsorigins.look_screen.load_texture": "テクスチャをロードする",
+
+  "ui.epicsorigins.look_screen.delete_texture": "テクスチャの削除",
 
   "ui.epicsorigins.look_screen.title": "選手の見た目",
+
+  "ui.epicsorigins.look_screen.looks": "見た目",
+
+  "ui.epicsorigins.look_screen.textures": "カスタムテクスチャ",
 
   "epicsorigins:look/wings": "翼",
 
@@ -98,7 +106,7 @@
 
   "power.epicsorigins.fairy/flight.name": "翼",
 
-  "power.epicsorigins.fairy/flight.description": "飛べますが5秒間だけです",
+  "power.epicsorigins.fairy/flight.description": "飛べるけど5秒だけ",
 
   "power.epicsorigins.fairy/health.name": "小さな健康",
 
@@ -126,7 +134,7 @@
 
   "power.epicsorigins.mermaid/weakness.name": "地酔い",
 
-  "power.epicsorigins.mermaid/weakness.description": "水から上がるとだんだん遅くなり、弱くなっていく",
+  "power.epicsorigins.mermaid/weakness.description": "水から上がるとだんだん遅くなり、衰弱していきます",
 
   "power.epicsorigins.mermaid/look.name": "人魚の表情",
 

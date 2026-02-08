@@ -10,11 +10,19 @@
 
   "key.epicsorigins.change_look": "Schimbați aspectul",
 
-  "ui.epicsorigins.look_screen.toggle_look": "Comutați aspectul:",
+  "ui.epicsorigins.look_screen.toggle_look": "Comutați:",
 
-  "ui.epicsorigins.look_screen.toggle_all_looks": "Comutați toate look-urile",
+  "ui.epicsorigins.look_screen.toggle_all_looks": "Comutați pe toate",
+
+  "ui.epicsorigins.look_screen.load_texture": "Încărcați textura",
+
+  "ui.epicsorigins.look_screen.delete_texture": "Ștergeți textura",
 
   "ui.epicsorigins.look_screen.title": "Aspect de jucător",
+
+  "ui.epicsorigins.look_screen.looks": "Aspecte",
+
+  "ui.epicsorigins.look_screen.textures": "Texturi personalizate",
 
   "epicsorigins:look/wings": "Aripi",
 
@@ -84,9 +92,9 @@
 
   "power.epicsorigins.slime/no_kinetic_damage.description": "Nu suferi daune din cădere și zbor în pereți",
 
-  "power.epicsorigins.slime/movement.name": "Mișcarea slime",
+  "power.epicsorigins.slime/movement.name": "Mișcare de slime",
 
-  "power.epicsorigins.slime/movement.description": "Sali de pe podea ca din blocuri de slime",
+  "power.epicsorigins.slime/movement.description": "Arunci de pe podea ca din blocuri de slime",
 
   "power.epicsorigins.slime/color.name": "7 culori de jeleu",
 
@@ -100,7 +108,7 @@
 
   "power.epicsorigins.fairy/flight.description": "Puteți zbura, dar numai pentru 5 secunde",
 
-  "power.epicsorigins.fairy/health.name": "Sănătate mică",
+  "power.epicsorigins.fairy/health.name": "Sanatate mica",
 
   "power.epicsorigins.fairy/health.description": "Ai doar 8 sănătate",
 
@@ -124,7 +132,7 @@
 
   "power.epicsorigins.mermaid/swim_speed.description": "Viteza ta de înot este mult crescută",
 
-  "power.epicsorigins.mermaid/weakness.name": "Răul de fond",
+  "power.epicsorigins.mermaid/weakness.name": "Răul de pământ",
 
   "power.epicsorigins.mermaid/weakness.description": "Deveniți din ce în ce mai încet și mai slab când ieși din apă",
 

@@ -7,9 +7,14 @@
   "category.epicsorigins": "Epic`s origins",
   "key.epicsorigins.change_look": "Change look",
 
-  "ui.epicsorigins.look_screen.toggle_look": "Toggle look: ",
-  "ui.epicsorigins.look_screen.toggle_all_looks": "Toggle all looks",
+  "ui.epicsorigins.look_screen.toggle_look": "Toggle: ",
+  "ui.epicsorigins.look_screen.toggle_all_looks": "Toggle all",
+  "ui.epicsorigins.look_screen.load_texture": "Load texture",
+  "ui.epicsorigins.look_screen.delete_texture": "Delete texture",
   "ui.epicsorigins.look_screen.title": "Player look",
+  "ui.epicsorigins.look_screen.looks": "Looks",
+  "ui.epicsorigins.look_screen.textures": "Custom textures",
+
   "epicsorigins:look/wings": "Wings",
   "epicsorigins:look/fox_tail": "Fox tail",
   "epicsorigins:look/mermaid_tail": "Mermaid tail",

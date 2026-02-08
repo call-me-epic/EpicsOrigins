@@ -7,9 +7,14 @@
   "category.epicsorigins": "Epic`s origins",
   "key.epicsorigins.change_look": "Переключение облика",
 
-  "ui.epicsorigins.look_screen.toggle_look": "Переключить внешность: ",
-  "ui.epicsorigins.look_screen.toggle_all_looks": "Переключить всю внешность",
+  "ui.epicsorigins.look_screen.toggle_look": "Переключить: ",
+  "ui.epicsorigins.look_screen.toggle_all_looks": "Переключить всё",
+  "ui.epicsorigins.look_screen.load_texture": "Поставить текстуру",
+  "ui.epicsorigins.look_screen.delete_texture": "Удалить текстуру",
   "ui.epicsorigins.look_screen.title": "Внешность игрока",
+  "ui.epicsorigins.look_screen.looks": "Внешность",
+  "ui.epicsorigins.look_screen.textures": "Пользовательские текстуры",
+
   "epicsorigins:look/wings": "Крылья",
   "epicsorigins:look/fox_tail": "Хвост лисы",
   "epicsorigins:look/mermaid_tail": "Хвост русалки",

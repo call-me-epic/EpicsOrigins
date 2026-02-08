@@ -10,11 +10,19 @@
 
   "key.epicsorigins.change_look": "改变外观",
 
-  "ui.epicsorigins.look_screen.toggle_look": "切换外观：",
+  "ui.epicsorigins.look_screen.toggle_look": "切换：",
 
-  "ui.epicsorigins.look_screen.toggle_all_looks": "切换所有外观",
+  "ui.epicsorigins.look_screen.toggle_all_looks": "全部切换",
+
+  "ui.epicsorigins.look_screen.load_texture": "加载纹理",
+
+  "ui.epicsorigins.look_screen.delete_texture": "删除纹理",
 
   "ui.epicsorigins.look_screen.title": "玩家表情",
+
+  "ui.epicsorigins.look_screen.looks": "看起来",
+
+  "ui.epicsorigins.look_screen.textures": "自定义纹理",
 
   "epicsorigins:look/wings": "翅膀",
 
@@ -94,7 +102,7 @@
 
   "power.epicsorigins.slime/health.name": "大史莱姆",
 
-  "power.epicsorigins.slime/health.description": "现在你的生命值就像一个大史莱姆一样有 16 点",
+  "power.epicsorigins.slime/health.description": "现在你有 16 点生命值，就像一个大史莱姆一样",
 
   "power.epicsorigins.fairy/flight.name": "翅膀",
 

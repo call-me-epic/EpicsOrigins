@@ -10,11 +10,19 @@
 
   "key.epicsorigins.change_look": "Muuta ulkoasua",
 
-  "ui.epicsorigins.look_screen.toggle_look": "Vaihda ulkoasua:",
+  "ui.epicsorigins.look_screen.toggle_look": "Vaihda:",
 
-  "ui.epicsorigins.look_screen.toggle_all_looks": "Vaihda kaikki ulkoasut",
+  "ui.epicsorigins.look_screen.toggle_all_looks": "Vaihda kaikki päälle",
+
+  "ui.epicsorigins.look_screen.load_texture": "Lataa tekstuuria",
+
+  "ui.epicsorigins.look_screen.delete_texture": "Poista tekstuuri",
 
   "ui.epicsorigins.look_screen.title": "Pelaajan ulkonäkö",
+
+  "ui.epicsorigins.look_screen.looks": "Näyttää",
+
+  "ui.epicsorigins.look_screen.textures": "Mukautetut tekstuurit",
 
   "epicsorigins:look/wings": "Siivet",
 
@@ -78,7 +86,7 @@
 
   "origin.epicsorigins.evolved/nine_tailed_kitsune.name": "Yhdeksänhäntäinen kitsune",
 
-  "origin.epicsorigins.evolved/nine_tailed_kitsune.description": "Sinusta kehittyi kitsunen vanhempi versio. Voimasi ovat lisääntyneet",
+  "origin.epicsorigins.evolved/nine_tailed_kitsune.description": "Sinusta on kehittynyt kitsunen vanhempi versio. Voimasi ovat lisääntyneet",
 
   "power.epicsorigins.slime/no_kinetic_damage.name": "Pomppiva runko",
 
@@ -170,7 +178,7 @@
 
   "power.epicsorigins.evolved/slime_king/secondary_ability.name": "HYPPY",
 
-  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "Hyppäät erittäin korkealle ja jätät vahingonjakoalueen alle",
+  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "Hyppäät erittäin korkealle ja jätät vaurioiden käsittelyalueen alle",
 
   "power.epicsorigins.evolved/slime_king/health.name": "Vielä isompi lima",
 

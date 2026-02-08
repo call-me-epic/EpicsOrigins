@@ -10,11 +10,19 @@
 
   "key.epicsorigins.change_look": "모습 바꾸기",
 
-  "ui.epicsorigins.look_screen.toggle_look": "보기 전환:",
+  "ui.epicsorigins.look_screen.toggle_look": "비녀장:",
 
-  "ui.epicsorigins.look_screen.toggle_all_looks": "모든 디자인 전환",
+  "ui.epicsorigins.look_screen.toggle_all_looks": "모두 전환",
+
+  "ui.epicsorigins.look_screen.load_texture": "텍스처 로드",
+
+  "ui.epicsorigins.look_screen.delete_texture": "텍스처 삭제",
 
   "ui.epicsorigins.look_screen.title": "플레이어의 모습",
+
+  "ui.epicsorigins.look_screen.looks": "외모",
+
+  "ui.epicsorigins.look_screen.textures": "맞춤 텍스처",
 
   "epicsorigins:look/wings": "날개",
 
@@ -216,7 +224,7 @@
 
   "power.epicsorigins.evolved/oceanid/long_breathing.description": "훨씬 더 오랫동안 공중에 머물 수 있습니다.",
 
-  "power.epicsorigins.evolved/oceanid/color.name": "정령 출현",
+  "power.epicsorigins.evolved/oceanid/color.name": "영혼의 출현",
 
   "power.epicsorigins.evolved/oceanid/color.description": "당신은 푸른 물의 정령처럼 보입니다",
 

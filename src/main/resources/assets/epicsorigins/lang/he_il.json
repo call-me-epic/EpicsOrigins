@@ -10,11 +10,19 @@
 
   "key.epicsorigins.change_look": "שנה מראה",
 
-  "ui.epicsorigins.look_screen.toggle_look": "החלף מבט:",
+  "ui.epicsorigins.look_screen.toggle_look": "לְמַתֵג:",
 
-  "ui.epicsorigins.look_screen.toggle_all_looks": "החלף את כל המבטים",
+  "ui.epicsorigins.look_screen.toggle_all_looks": "החלף הכל",
+
+  "ui.epicsorigins.look_screen.load_texture": "מרקם טען",
+
+  "ui.epicsorigins.look_screen.delete_texture": "מחק מרקם",
 
   "ui.epicsorigins.look_screen.title": "מראה שחקן",
+
+  "ui.epicsorigins.look_screen.looks": "מראה",
+
+  "ui.epicsorigins.look_screen.textures": "טקסטורות מותאמות אישית",
 
   "epicsorigins:look/wings": "כנפיים",
 
@@ -38,7 +46,7 @@
 
   "origin.epicsorigins.slime.name": "רֶפֶשׁ",
 
-  "origin.epicsorigins.slime.description": "אז, עכשיו אתה קופצני",
+  "origin.epicsorigins.slime.description": "אז עכשיו אתה קופצני",
 
   "origin.epicsorigins.fairy.name": "פֵיָה",
 
@@ -78,7 +86,7 @@
 
   "origin.epicsorigins.evolved/nine_tailed_kitsune.name": "Kitsune תשע זנבות",
 
-  "origin.epicsorigins.evolved/nine_tailed_kitsune.description": "התפתחת לגרסה ישנה יותר של kitsune. הכוחות שלך גדלו",
+  "origin.epicsorigins.evolved/nine_tailed_kitsune.description": "You evolved into a older version of kitsune. Your powers have increased",
 
   "power.epicsorigins.slime/no_kinetic_damage.name": "גוף קופצני",
 
@@ -234,7 +242,7 @@
 
   "power.epicsorigins.evolved/asura/burning_wrath.name": "זעם יוקד",
 
-  "power.epicsorigins.evolved/asura/burning_wrath.description": "כאשר אתה נורה, אתה גורם נזק פי 1.5 יותר",
+  "power.epicsorigins.evolved/asura/burning_wrath.description": "כאשר אתה נורה, אתה גורם נזק פי 1.5",
 
   "power.epicsorigins.evolved/asura/look.name": "מראה לוהט",
 

@@ -10,11 +10,19 @@
 
   "key.epicsorigins.change_look": "Mudar aparência",
 
-  "ui.epicsorigins.look_screen.toggle_look": "Alternar aparência:",
+  "ui.epicsorigins.look_screen.toggle_look": "Alternar:",
 
-  "ui.epicsorigins.look_screen.toggle_all_looks": "Alternar todos os looks",
+  "ui.epicsorigins.look_screen.toggle_all_looks": "Alternar tudo",
+
+  "ui.epicsorigins.look_screen.load_texture": "Carregar textura",
+
+  "ui.epicsorigins.look_screen.delete_texture": "Excluir textura",
 
   "ui.epicsorigins.look_screen.title": "Aparência do jogador",
+
+  "ui.epicsorigins.look_screen.looks": "Visual",
+
+  "ui.epicsorigins.look_screen.textures": "Texturas personalizadas",
 
   "epicsorigins:look/wings": "Asas",
 
@@ -200,7 +208,7 @@
 
   "power.epicsorigins.evolved/angel/undead_damage.description": "Você causa 2 vezes mais dano a mobs mortos-vivos",
 
-  "power.epicsorigins.evolved/angel/look.name": "Olhar angelical",
+  "power.epicsorigins.evolved/angel/look.name": "Aparência angelical",
 
   "power.epicsorigins.evolved/angel/look.description": "Você tem lindas asas brancas",
 
