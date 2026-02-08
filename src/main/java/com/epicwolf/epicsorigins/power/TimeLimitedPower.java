@@ -1,6 +1,5 @@
 package com.epicwolf.epicsorigins.power;
 
-import com.epicwolf.epicsorigins.Epicsorigins;
 import com.google.gson.JsonObject;
 import io.github.apace100.apoli.power.Power;
 import io.github.apace100.apoli.power.PowerType;

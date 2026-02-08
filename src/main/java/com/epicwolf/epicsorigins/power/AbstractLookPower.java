@@ -2,7 +2,6 @@ package com.epicwolf.epicsorigins.power;
 
 import com.epicwolf.epicsorigins.Epicsorigins;
 import com.epicwolf.epicsorigins.networking.ModPackets;
-import io.github.apace100.apoli.component.PowerHolderComponent;
 import io.github.apace100.apoli.data.ApoliDataTypes;
 import io.github.apace100.apoli.power.Active;
 import io.github.apace100.apoli.power.Power;
@@ -24,7 +23,7 @@ public class AbstractLookPower extends Power implements Active {
 
     private boolean shouldRender;
 
-    private Identifier textureLocation;
+    private final Identifier textureLocation;
 
     private final Identifier modelType;
 
@@ -76,6 +75,14 @@ public class AbstractLookPower extends Power implements Active {
     @Override
     public void fromTag(NbtElement tag) {
         shouldRender = tag.equals(NbtByte.ONE);
+    }
+
+    @Override
+    public void onLost() {
+        if (entity instanceof ServerPlayerEntity player) {
+            Epicsorigins.config.loadTextureToPlayers(player, true);
+            Epicsorigins.config.deleteTexture(player.getUuid().toString());
+        }
     }
 
     public Identifier getTextureLocation() {
