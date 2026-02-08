@@ -39,6 +39,13 @@ public class PlayerLookFeatureRenderer<T extends LivingEntity, M extends BipedEn
         return PowerHolderComponent.getPowers(entity, AbstractLookPower.class);
     }
 
+    public Identifier getTexture(T entity, AbstractLookPower power) {
+        Identifier textureLocation = BaseTextureLocation;
+        if (power.getTextureLocation() != null) textureLocation = power.getTextureLocation();
+        if (EpicsoriginsClient.PLAYER_TEXTURES.containsKey(entity.getUuid())) textureLocation = EpicsoriginsClient.PLAYER_TEXTURES.get(entity.getUuid());
+        return textureLocation;
+    }
+
     @Override
     public void render(MatrixStack matrixStack, VertexConsumerProvider vertexConsumerProvider, int light, T entity, float limbAngle, float limbDistance, float tickDelta, float animationProgress, float headYaw, float headPitch) {
         if (entity.isInvisible()) return;
@@ -50,7 +57,7 @@ public class PlayerLookFeatureRenderer<T extends LivingEntity, M extends BipedEn
         for (AbstractLookPower power : getLookPowers(entity)) {
             if (power.isShouldRender()) {
                 Identifier type = power.getModelType();
-                RenderLayer layer = playerLookModel.getLayer(power.getTextureLocation() == null ? BaseTextureLocation : power.getTextureLocation());
+                RenderLayer layer = playerLookModel.getLayer(getTexture(entity, power));
                 for (Pair<Identifier, List<String>> modelType : IDENTIFIERS) {
                     if (type.equals(MERMAID_TAIL)) {
                         if (entity.isSubmergedInWater()) playerLookModel.renderMermaidTail(matrixStack, vertexConsumerProvider.getBuffer(layer), light, OverlayTexture.DEFAULT_UV);
@@ -73,5 +80,4 @@ public class PlayerLookFeatureRenderer<T extends LivingEntity, M extends BipedEn
             }
         }
     }
-
 }
