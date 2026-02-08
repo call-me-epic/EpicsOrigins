@@ -86,7 +86,7 @@ dependencies {
 
 //    modImplementation "com.github.apace100:origins-fabric:${project.origins_version}"
 
-    modImplementation files("./run/MOD/Origins-1.10.2+mc.1.20.x.jar")
+    modImplementation files("./gradle/Origins-1.10.2+mc.1.20.x.jar")
 
     include(modApi("io.github.apace100:apoli:${project.apoli_version}"))
 
