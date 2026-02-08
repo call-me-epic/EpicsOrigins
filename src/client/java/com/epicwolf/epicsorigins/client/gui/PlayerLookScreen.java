@@ -1,5 +1,6 @@
 package com.epicwolf.epicsorigins.client.gui;
 
+import com.epicwolf.epicsorigins.Epicsorigins;
 import com.epicwolf.epicsorigins.networking.ModPackets;
 import com.epicwolf.epicsorigins.power.AbstractLookPower;
 import com.mojang.blaze3d.systems.RenderSystem;
@@ -10,6 +11,7 @@ import net.minecraft.client.MinecraftClient;
 import net.minecraft.client.gui.DrawContext;
 import net.minecraft.client.gui.screen.Screen;
 import net.minecraft.client.gui.widget.ButtonWidget;
+import net.minecraft.client.gui.widget.TextWidget;
 import net.minecraft.client.render.DiffuseLighting;
 import net.minecraft.client.render.entity.EntityRenderDispatcher;
 import net.minecraft.entity.LivingEntity;
@@ -18,6 +20,7 @@ import net.minecraft.text.Text;
 import org.jetbrains.annotations.Nullable;
 import org.joml.Matrix4f;
 import org.joml.Quaternionf;
+import org.lwjgl.glfw.GLFW;
 
 import java.util.List;
 
@@ -33,9 +36,11 @@ public class PlayerLookScreen extends Screen {
     public void render(DrawContext context, int mouseX, int mouseY, float delta) {
         this.x = this.width / 2;
         this.y = this.height / 2;
-        int size = 90-(7*this.client.options.getGuiScale().getValue());
-        renderBackground(context);
-        drawEntity(context, x, y+40, size, x + 51 - mouseX, y + 25 - mouseY, this.client.player);
+        if (this.client != null) {
+            int size = 90 - (7 * this.client.options.getGuiScale().getValue());
+            renderBackground(context);
+            if (this.client.player != null) drawEntity(context, x, y + 40, size, x + 51 - mouseX, y + 25 - mouseY, this.client.player);
+        }
         super.render(context, mouseX, mouseY, delta);
     }
 
@@ -87,11 +92,23 @@ public class PlayerLookScreen extends Screen {
     protected void init() {
         this.x = this.width / 2;
         this.y = this.height / 2;
-        if (PowerHolderComponent.hasPower(this.client.player, AbstractLookPower.class)) {
+        if (this.client != null && PowerHolderComponent.hasPower(this.client.player, AbstractLookPower.class)) {
             int x = 80;
             int y = -125;
             List<AbstractLookPower> powers = PowerHolderComponent.getPowers(this.client.player, AbstractLookPower.class);
 
+            this.addDrawableChild(new TextWidget(this.x-x-140, this.y+y-25, 140, 20, Text.translatable("ui.epicsorigins.look_screen.textures"), this.textRenderer));
+            this.addDrawableChild(
+                    ButtonWidget.builder(Text.translatable("ui.epicsorigins.look_screen.load_texture"), button -> loadTextureByURL())
+                            .dimensions(this.x-x-140, this.y+y, 140, 20)
+                            .build()
+            );
+            this.addDrawableChild(
+                    ButtonWidget.builder(Text.translatable("ui.epicsorigins.look_screen.delete_texture"), button -> deleteTexture())
+                            .dimensions(this.x-x-140, this.y+y+25, 140, 20)
+                            .build()
+            );
+            this.addDrawableChild(new TextWidget(this.x+x, this.y+y-25, 140, 20, Text.translatable("ui.epicsorigins.look_screen.looks"), this.textRenderer));
             this.addDrawableChild(
                     ButtonWidget.builder(Text.translatable("ui.epicsorigins.look_screen.toggle_all_looks"), button -> usePowers(powers))
                             .dimensions(this.x+x, this.y+y, 140, 20)
@@ -124,5 +141,16 @@ public class PlayerLookScreen extends Screen {
             power.setShouldRender(!shouldRender);
         }
         ClientPlayNetworking.send(ModPackets.TOGGLE_PLAYER_LOOK_POWER, buf);
+    }
+    private void loadTextureByURL() {
+        String url = GLFW.glfwGetClipboardString(client.getWindow().getHandle());
+        PacketByteBuf buf = new PacketByteBuf(Unpooled.buffer().writeBoolean(false));
+        buf.writeString(url);
+        ClientPlayNetworking.send(ModPackets.SEND_PLAYER_LOOK_TEXTURE, buf);
+    }
+    private void deleteTexture() {
+        PacketByteBuf buf = new PacketByteBuf(Unpooled.buffer().writeBoolean(true));
+        buf.writeString("");
+        ClientPlayNetworking.send(ModPackets.SEND_PLAYER_LOOK_TEXTURE, buf);
     }
 }
