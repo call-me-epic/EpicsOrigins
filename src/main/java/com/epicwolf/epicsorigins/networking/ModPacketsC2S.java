@@ -14,8 +14,6 @@ import net.minecraft.server.network.ServerPlayNetworkHandler;
 import net.minecraft.server.network.ServerPlayerEntity;
 import net.minecraft.util.Identifier;
 
-import java.io.IOException;
-
 public class ModPacketsC2S {
     public static void register() {
         ServerPlayNetworking.registerGlobalReceiver(ModPackets.TOGGLE_PLAYER_LOOK_POWER, ModPacketsC2S::ToggleLook);
