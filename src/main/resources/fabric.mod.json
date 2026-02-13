@@ -4,8 +4,12 @@
   "version": "${version}",
   "name": "Epic`s Origins",
   "description": "Mod that adds new different origins to the origins mod",
-  "authors": [],
-  "contact": {},
+  "authors": ["Epic!Wolf"],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/epicsorigins",
+    "sources": "https://github.com/call-me-epic/EpicsOrigins",
+    "issues": "https://github.com/call-me-epic/EpicsOrigins/issues"
+  },
   "license": "Apache-2.0",
   "icon": "assets/epicsorigins/icon.png",
   "environment": "*",
