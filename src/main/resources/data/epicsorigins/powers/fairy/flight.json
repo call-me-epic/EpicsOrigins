@@ -1,11 +1,32 @@
 {
-  "type": "epicsorigins:action_hud_over_time",
-  "rising_action": {
+  "type": "epicsorigins:over_time_resource",
+  "max_action": {
     "type": "epicsorigins:grant_ability",
     "ability": "minecraft:mayfly",
     "source": "epicsorigins:fairy"
   },
-  "falling_action": {
+  "min_action": {
+    "type": "epicsorigins:revoke_ability",
+    "ability": "minecraft:mayfly",
+    "source": "epicsorigins:fairy"
+  },
+  "gain_action": {
+    "type": "origins:and",
+    "actions": [
+      {
+        "type": "epicsorigins:grant_ability",
+        "ability": "minecraft:mayfly",
+        "source": "epicsorigins:fairy"
+      },
+      {
+        "type": "origins:change_resource",
+        "resource": "epicsorigins:fairy/flight",
+        "operation": "set",
+        "change": 400
+      }
+    ]
+  },
+  "lost_action": {
     "type": "epicsorigins:revoke_ability",
     "ability": "minecraft:mayfly",
     "source": "epicsorigins:fairy"
@@ -13,9 +34,14 @@
   "condition": {
     "type": "origins:creative_flying"
   },
-  "fill_speed": 0.25,
+  "min": 0,
+  "max": 400,
+  "start_value": 400,
+  "decrement_speed": 4,
+  "increment_speed": 1,
   "hud_render": {
-  "sprite_location": "origins:textures/gui/resource_bar.png",
-  "bar_index": 4
+    "should_render": true,
+    "sprite_location": "origins:textures/gui/resource_bar.png",
+    "bar_index": 4
   }
 }

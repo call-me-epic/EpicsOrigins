@@ -17,7 +17,7 @@ public class PowerFactories {
     public static void register() {
         register(Power.createSimpleFactory(SlimeMovementPower::new, Epicsorigins.identifier("slime_movement")));
         register(Power.createSimpleFactory(WolfFearPower::new, Epicsorigins.identifier("wolf_fear")));
-        register(ActionHudOverTimePower::createFactory);
+        register(OverTimeResourcePower::createFactory);
         register(AbstractLookPower::createFactory);
         register(EntityTransformationPower::createFactory);
         register(TimeLimitedActionPower::createFactory);
