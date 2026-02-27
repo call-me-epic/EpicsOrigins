@@ -67,8 +67,8 @@ public class PlayerLookModel<T extends LivingEntity> extends BipedEntityModel<T>
         if (k < 1.0f) {
             k = 1.0f;
         }
-        this.mermaid_tail.pitch = (MathHelper.cos((float)(f * 0.6662f)) + 0.4f)* g / k / 8;
-        mermaid_tail2.pitch = MathHelper.cos((float)(f * 0.6662f))* g / k / 4;
+        this.mermaid_tail.pitch = (MathHelper.cos((f * 0.6662f)) + 0.4f)* g / k / 8;
+        mermaid_tail2.pitch = MathHelper.cos((f * 0.6662f))* g / k / 4;
         this.mermaid_tail.yaw = 0.005f;
         this.mermaid_tail.roll = 0.005f;
         if (this.riding) {
@@ -84,8 +84,8 @@ public class PlayerLookModel<T extends LivingEntity> extends BipedEntityModel<T>
             this.mermaid_tail.pivotY = 12.0f;
         }
         if (this.leaningPitch > 0.0f) {
-            this.mermaid_tail.pitch = MathHelper.lerp((float)this.leaningPitch, (float)this.mermaid_tail.pitch, (float)(0.15f * MathHelper.cos((float)(f * 0.33333334f))));
-            mermaid_tail2.pitch = MathHelper.lerp((float)this.leaningPitch, (float)mermaid_tail2.pitch, (float)(0.4f * MathHelper.cos((float)(f * 0.33333334f))));
+            this.mermaid_tail.pitch = MathHelper.lerp(this.leaningPitch, this.mermaid_tail.pitch, (0.15f * MathHelper.cos((f * 0.33333334f))));
+            mermaid_tail2.pitch = MathHelper.lerp(this.leaningPitch, mermaid_tail2.pitch, (0.4f * MathHelper.cos((f * 0.33333334f))));
         }
         for (PlayerLookModelManager manager : PlayerLookModelManagerRegistry.modelManagers) {
             manager.setAngles(entity, f, g, h, i, j, this);
@@ -135,12 +135,12 @@ public class PlayerLookModel<T extends LivingEntity> extends BipedEntityModel<T>
         ModelPartData left_wing = wings.addChild("left_wing", ModelPartBuilder.create().uv(0, 16).cuboid(0.0F, 10.0F, 0.0F, 16.0F, 16.0F, 0.0F, new Dilation(0.0F)), ModelTransform.of(0.0F, -12.0F, 2.0F, 0.0F, -0.5236F, 0.0F));
         ModelPartData right_wing = wings.addChild("right_wing", ModelPartBuilder.create().uv(0, 0).cuboid(-16.0F, 10.0F, 0.0F, 16.0F, 16.0F, 0.0F, new Dilation(0.0F)), ModelTransform.of(0.0F, -12.0F, 2.0F, 0.0F, 0.5236F, 0.0F));
 
-        ModelPartData fox_tail = body.addChild("fox_tail", ModelPartBuilder.create().uv(0, 0).cuboid(-2.0F, 7.0F, 5.0F, 4.0F, 4.0F, 10.0F, new Dilation(0.0F)), ModelTransform.of(0.0F, 11.0F, 1.0F, 0.0F, 0.0F, 0.0F));
+        ModelPartData fox_tail = body.addChild("fox_tail", ModelPartBuilder.create().uv(0, 0).cuboid(-2.0F, 7.0F, 5.0F, 4.0F, 5.0F, 9.0F, new Dilation(0.0F)), ModelTransform.of(0.0F, 11.0F, 1.0F, 0.0F, 0.0F, 0.0F));
 
         ModelPartData demon_tail = body.addChild("demon_tail", ModelPartBuilder.create().uv(0, 10).cuboid(0.0F, 7.0F, 4.0F, 0.0F, 6.0F, 16.0F, new Dilation(0.0F)), ModelTransform.of(0.0F, 11.0F, 2.0F, -0.7854F, 0.0F, 0.0F));
 
         ModelPartData mermaid_tail = modelPartData.addChild("mermaid_tail", ModelPartBuilder.create().uv(0, 0).cuboid(-4.0F, 0.0F, -2.0F, 8.0F, 12.0F, 4.0F, new Dilation(0.0F)), ModelTransform.pivot(0.0F, 12.0F, 0.0F));
-        ModelPartData mermaid_tail2 = mermaid_tail.addChild("tail2", ModelPartBuilder.create().uv(0, 16).cuboid(-4.0F, 0.0F, 0.0F, 8.0F, 8.0F, 0.0F, new Dilation(0.0F)), ModelTransform.pivot(0.0F, 12.0F, 0.0F));
+        ModelPartData mermaid_tail2 = mermaid_tail.addChild("tail2", ModelPartBuilder.create().uv(0, 16).cuboid(-5.0F, 0.0F, 0.0F, 10.0F, 10.0F, 0.0F, new Dilation(0.0F)), ModelTransform.pivot(0.0F, 12.0F, 0.0F));
 
 
         ModelPartData fox_ears = head.addChild("fox_ears", ModelPartBuilder.create(), ModelTransform.pivot(0.0F, 0.0F, 0.0F));

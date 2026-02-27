@@ -51,7 +51,7 @@
   "origin.epicsorigins.evolved/oceanid.description": "Вы эволюционировали в водяного духа, который может контролировать воду!",
   "origin.epicsorigins.evolved/asura.name": "Асура",
   "origin.epicsorigins.evolved/asura.description": "Вы эволюционировали в огненного демона!",
-  "origin.epicsorigins.evolved/nine_tailed_kitsune.name": "Девятихвостая кицунэ",
+  "origin.epicsorigins.evolved/nine_tailed_kitsune.name": "9-хвостая кицунэ",
   "origin.epicsorigins.evolved/nine_tailed_kitsune.description": "Вы эволюционировали в старшую версию кицунэ! Ваши силы выросли...",
 
   "power.epicsorigins.slime/no_kinetic_damage.name": "Упругость",
@@ -145,7 +145,7 @@
   "power.epicsorigins.evolved/asura/look.name": "Пламенная внешность",
   "power.epicsorigins.evolved/asura/look.description": "Вы имеете рога и хвост, охваченные огнём",
 
-  "power.epicsorigins.evolved/nine_tailed_kitsune/health.name": "Больше жизненных хвостов",
+  "power.epicsorigins.evolved/nine_tailed_kitsune/health.name": "Долгая жизнь",
   "power.epicsorigins.evolved/nine_tailed_kitsune/health.description": "Вместе с хвостами растёт и ваша жизненная сила. У вас 9 хвостов, поэтому теперь у Вас на 9 сердец больше",
   "power.epicsorigins.evolved/nine_tailed_kitsune/speed.name": "Быстр как звук",
   "power.epicsorigins.evolved/nine_tailed_kitsune/speed.description": "Вы в 2 раза быстрее, чем обычные люди",

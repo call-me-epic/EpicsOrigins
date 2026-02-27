@@ -3,12 +3,12 @@
 
   "ears": {
     "type": "epicsorigins:player_look",
-    "texture_location": "epicsorigins:textures/entity/player/fox_ears.png",
+    "texture_location": "epicsorigins:textures/entity/player/snow_fox_ears.png",
     "model_type": "epicsorigins:look/fox_ears"
   },
   "tail": {
     "type": "epicsorigins:player_look",
-    "texture_location": "epicsorigins:textures/entity/player/fox_tail.png",
+    "texture_location": "epicsorigins:textures/entity/player/snow_fox_tail.png",
     "model_type": "epicsorigins:look/fox_tail"
   }
 }

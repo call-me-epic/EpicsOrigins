@@ -28,8 +28,8 @@ import java.util.UUID;
 
 public class EpicsoriginsClient implements ClientModInitializer {
 
-    public static final EntityModelLayer PLAYER_ATTRIBUTES = new EntityModelLayer(
-            Epicsorigins.identifier("player_attributes"), "main");
+    public static final EntityModelLayer PLAYER_LOOKS = new EntityModelLayer(
+            Epicsorigins.identifier("player_looks"), "main");
 
     public static final Map<UUID, Identifier> PLAYER_TEXTURES = new HashMap<>();
 
@@ -37,7 +37,7 @@ public class EpicsoriginsClient implements ClientModInitializer {
 
     @Override
     public void onInitializeClient() {
-        EntityModelLayerRegistry.registerModelLayer(PLAYER_ATTRIBUTES, PlayerLookModel::getTexturedModelData);
+        EntityModelLayerRegistry.registerModelLayer(PLAYER_LOOKS, PlayerLookModel::getTexturedModelData);
 
         LivingEntityFeatureRendererRegistrationCallback.EVENT.register((entityType, entityRenderer, registrationHelper, context) -> {
             if (entityRenderer instanceof PlayerEntityRenderer playerEntityRenderer) {

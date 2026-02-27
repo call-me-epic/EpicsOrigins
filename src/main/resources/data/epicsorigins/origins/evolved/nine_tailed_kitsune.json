@@ -5,7 +5,7 @@
     "epicsorigins:evolved/nine_tailed_kitsune/health",
     "epicsorigins:evolved/nine_tailed_kitsune/speed",
     "epicsorigins:kitsune/wolf_fear",
-    "epicsorigins:kitsune/look"
+    "epicsorigins:evolved/nine_tailed_kitsune/look"
   ],
   "icon": {
     "item": "minecraft:orange_dye"

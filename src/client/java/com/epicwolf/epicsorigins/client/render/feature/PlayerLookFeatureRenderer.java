@@ -32,7 +32,7 @@ public class PlayerLookFeatureRenderer<T extends LivingEntity, M extends BipedEn
 
     public PlayerLookFeatureRenderer(FeatureRendererContext<T, M> context, EntityRendererFactory.Context ctx) {
         super(context);
-        this.playerLookModel = new PlayerLookModel<>(ctx.getPart(EpicsoriginsClient.PLAYER_ATTRIBUTES));
+        this.playerLookModel = new PlayerLookModel<>(ctx.getPart(EpicsoriginsClient.PLAYER_LOOKS));
     }
 
     public List<AbstractLookPower> getLookPowers(T entity) {
