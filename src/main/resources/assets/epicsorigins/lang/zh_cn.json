@@ -102,7 +102,7 @@
 
   "power.epicsorigins.slime/health.name": "大史莱姆",
 
-  "power.epicsorigins.slime/health.description": "现在你有 16 点生命值，就像一个大史莱姆一样",
+  "power.epicsorigins.slime/health.description": "现在你的生命值就像一个大史莱姆一样有 16 点",
 
   "power.epicsorigins.fairy/flight.name": "翅膀",
 
@@ -178,7 +178,7 @@
 
   "power.epicsorigins.evolved/slime_king/secondary_ability.name": "跳跃",
 
-  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "你跳得很高并在你身下留下造成伤害的区域",
+  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "你对半径 3 格内的实体造成伤害并跳得很高",
 
   "power.epicsorigins.evolved/slime_king/health.name": "甚至更大的史莱姆",
 
@@ -238,7 +238,7 @@
 
   "power.epicsorigins.evolved/asura/armor.name": "火血",
 
-  "power.epicsorigins.evolved/asura/armor.description": "你有 8 额外防御",
+  "power.epicsorigins.evolved/asura/armor.description": "你有 8 点额外防御",
 
   "power.epicsorigins.evolved/asura/burning_wrath.name": "燃烧的愤怒",
 
@@ -258,5 +258,5 @@
 
   "power.epicsorigins.evolved/nine_tailed_kitsune/secondary_ability.name": "狐狸错觉",
 
-  "power.epicsorigins.evolved/nine_tailed_kitsune/secondary_ability.description": "你消失在幻象中并削弱6格半径内的所有实体"
+  "power.epicsorigins.evolved/nine_tailed_kitsune/secondary_ability.description": "你消失在幻象中并削弱 6 格半径内的所有实体"
 }

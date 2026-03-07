@@ -146,7 +146,7 @@
 
   "power.epicsorigins.demon/look.name": "Sguardo demoniaco",
 
-  "power.epicsorigins.demon/look.description": "Hai corna e coda da demone",
+  "power.epicsorigins.demon/look.description": "Hai le corna e la coda da demone",
 
   "power.epicsorigins.kitsune/health.name": "Salute della coda",
 
@@ -178,7 +178,7 @@
 
   "power.epicsorigins.evolved/slime_king/secondary_ability.name": "IL SALTO",
 
-  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "Salti molto in alto e lasci un'area che infligge danni sotto di te",
+  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "Infliggi danni alle entità nel raggio di 3 blocchi e salti molto in alto",
 
   "power.epicsorigins.evolved/slime_king/health.name": "Melma ancora più grande",
 

@@ -105,7 +105,7 @@
   "power.epicsorigins.evolved/slime_king/primary_ability.name": "Slime bullets",
   "power.epicsorigins.evolved/slime_king/primary_ability.description": "You shoot 5 slime balls that deal 2 damage",
   "power.epicsorigins.evolved/slime_king/secondary_ability.name": "THE JUMP",
-  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "You jump very high and leave damage dealing area under you",
+  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "You deal damage to entities in 3 blocks radius and jump very high",
   "power.epicsorigins.evolved/slime_king/health.name": "Even bigger slime",
   "power.epicsorigins.evolved/slime_king/health.description": "You now have 14 hearts",
   "power.epicsorigins.evolved/slime_king/color.name": "7 jelly colors",

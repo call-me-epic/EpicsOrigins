@@ -178,7 +178,7 @@
 
   "power.epicsorigins.evolved/slime_king/secondary_ability.name": "점프",
 
-  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "당신은 매우 높이 점프하고 피해를 입히는 영역을 아래에 둡니다.",
+  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "반경 3블록 내의 개체에 피해를 입히고 매우 높이 점프합니다.",
 
   "power.epicsorigins.evolved/slime_king/health.name": "심지어 더 큰 슬라임",
 
@@ -234,7 +234,7 @@
 
   "power.epicsorigins.evolved/asura/secondary_ability.name": "불의 기운",
 
-  "power.epicsorigins.evolved/asura/secondary_ability.description": "주변의 모든 개체는 한동안 화염 피해를 입습니다.",
+  "power.epicsorigins.evolved/asura/secondary_ability.description": "근처의 모든 개체는 한동안 화염 피해를 입습니다.",
 
   "power.epicsorigins.evolved/asura/armor.name": "불의 피",
 

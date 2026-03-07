@@ -46,7 +46,7 @@
 
   "origin.epicsorigins.slime.name": "רֶפֶשׁ",
 
-  "origin.epicsorigins.slime.description": "אז עכשיו אתה קופצני",
+  "origin.epicsorigins.slime.description": "אז, עכשיו אתה קופצני",
 
   "origin.epicsorigins.fairy.name": "פֵיָה",
 
@@ -86,7 +86,7 @@
 
   "origin.epicsorigins.evolved/nine_tailed_kitsune.name": "Kitsune תשע זנבות",
 
-  "origin.epicsorigins.evolved/nine_tailed_kitsune.description": "You evolved into a older version of kitsune. Your powers have increased",
+  "origin.epicsorigins.evolved/nine_tailed_kitsune.description": "התפתחת לגרסה ישנה יותר של kitsune. הכוחות שלך גדלו",
 
   "power.epicsorigins.slime/no_kinetic_damage.name": "גוף קופצני",
 
@@ -172,13 +172,13 @@
 
   "power.epicsorigins.evolved/super_human/primary_ability.description": "אתה משחזר את הבריאות המלאה, הרעב ומנקה את כל ההשפעות שלך",
 
-  "power.epicsorigins.evolved/slime_king/primary_ability.name": "כדורי סליים",
+  "power.epicsorigins.evolved/slime_king/primary_ability.name": "Slime bullets",
 
   "power.epicsorigins.evolved/slime_king/primary_ability.description": "אתה יורה 5 כדורי סליים שגורמים 2 נזקים",
 
   "power.epicsorigins.evolved/slime_king/secondary_ability.name": "הקפיצה",
 
-  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "אתה קופץ גבוה מאוד ומשאיר תחתיך אזור התמודדות עם נזקים",
+  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "אתה גורם נזק לישויות ברדיוס של 3 בלוקים וקופץ גבוה מאוד",
 
   "power.epicsorigins.evolved/slime_king/health.name": "רפש גדול עוד יותר",
 

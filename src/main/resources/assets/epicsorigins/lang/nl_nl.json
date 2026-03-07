@@ -32,7 +32,7 @@
 
   "epicsorigins:look/demon_tail": "Demon staart",
 
-  "epicsorigins:look/fox_ears": "Vossen oren",
+  "epicsorigins:look/fox_ears": "Vossenoren",
 
   "epicsorigins:look/demon_horns": "Demonenhoorns",
 
@@ -148,7 +148,7 @@
 
   "power.epicsorigins.demon/look.description": "Je hebt demonenhoorns en staart",
 
-  "power.epicsorigins.kitsune/health.name": "Gezondheid van de staart",
+  "power.epicsorigins.kitsune/health.name": "Staart gezondheid",
 
   "power.epicsorigins.kitsune/health.description": "Je gezondheid wordt met 1 hart verhoogd",
 
@@ -174,11 +174,11 @@
 
   "power.epicsorigins.evolved/slime_king/primary_ability.name": "Slijm kogels",
 
-  "power.epicsorigins.evolved/slime_king/primary_ability.description": "Je schiet 5 slijmballen af ​​die 2 schade aanrichten",
+  "power.epicsorigins.evolved/slime_king/primary_ability.description": "Je schiet 5 slijmballen die 2 schade aanrichten",
 
   "power.epicsorigins.evolved/slime_king/secondary_ability.name": "DE SPRONG",
 
-  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "Je springt heel hoog en verlaat het schadegebied onder je",
+  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "Je brengt schade toe aan entiteiten binnen een straal van 3 blokken en springt heel hoog",
 
   "power.epicsorigins.evolved/slime_king/health.name": "Nog groter slijm",
 

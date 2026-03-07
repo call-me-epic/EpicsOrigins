@@ -98,7 +98,7 @@
 
   "power.epicsorigins.slime/color.name": "7 hyytelöväriä",
 
-  "power.epicsorigins.slime/color.description": "Voit vaihtaa väriäsi tai poistaa sen milloin haluat",
+  "power.epicsorigins.slime/color.description": "Voit vaihtaa väriäsi tai poistaa sen milloin tahansa",
 
   "power.epicsorigins.slime/health.name": "Iso lima",
 
@@ -132,7 +132,7 @@
 
   "power.epicsorigins.mermaid/swim_speed.description": "Uintinopeus on kasvanut huomattavasti",
 
-  "power.epicsorigins.mermaid/weakness.name": "Maasairaus",
+  "power.epicsorigins.mermaid/weakness.name": "Pahoinvointi",
 
   "power.epicsorigins.mermaid/weakness.description": "Olet hitaampi ja heikompi, kun nouset vedestä",
 
@@ -178,7 +178,7 @@
 
   "power.epicsorigins.evolved/slime_king/secondary_ability.name": "HYPPY",
 
-  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "Hyppäät erittäin korkealle ja jätät vaurioiden käsittelyalueen alle",
+  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "Teet vahinkoa entiteeteille 3 korttelin säteellä ja hyppäät erittäin korkealle",
 
   "power.epicsorigins.evolved/slime_king/health.name": "Vielä isompi lima",
 
@@ -186,7 +186,7 @@
 
   "power.epicsorigins.evolved/slime_king/color.name": "7 hyytelöväriä",
 
-  "power.epicsorigins.evolved/slime_king/color.description": "Voit vaihtaa väriäsi tai poistaa sen milloin haluat",
+  "power.epicsorigins.evolved/slime_king/color.description": "Voit vaihtaa väriäsi tai poistaa sen milloin tahansa",
 
   "power.epicsorigins.evolved/angel/primary_ability.name": "Puhdistaa",
 

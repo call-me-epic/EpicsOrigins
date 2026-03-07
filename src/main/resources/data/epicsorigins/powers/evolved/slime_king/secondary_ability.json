@@ -3,13 +3,34 @@
   "effect_area": {
     "type": "origins:active_self",
     "entity_action": {
-      "type": "origins:spawn_effect_cloud",
-      "radius": 3.0,
-      "effect": {
-        "effect": "minecraft:wither",
-        "amplifier": 1,
-        "duration": 100
-      }
+      "type": "origins:and",
+      "actions": [
+        {
+          "type": "origins:spawn_particles",
+          "particle": {
+            "type": "minecraft:block",
+            "params": "minecraft:slime_block"
+          },
+          "count": 50,
+          "spread": {
+            "x": 3.0,
+            "y": 0.1,
+            "z": 3.0
+          }
+        },
+        {
+          "type": "origins:area_of_effect",
+          "radius": 10,
+          "bientity_action": {
+            "type": "origins:target_action",
+            "action": {
+              "type": "origins:damage",
+              "amount": 8,
+              "damage_type": "minecraft:mob_attack"
+            }
+          }
+        }
+      ]
     },
     "cooldown": 600,
     "key": {

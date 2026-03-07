@@ -105,7 +105,7 @@
   "power.epicsorigins.evolved/slime_king/primary_ability.name": "Слизневые пули",
   "power.epicsorigins.evolved/slime_king/primary_ability.description": "Вы стреляете 5 сгустками слизи, каждый из которых наносит 2 урона",
   "power.epicsorigins.evolved/slime_king/secondary_ability.name": "НЕБЕСНЫЙ РЫВОК",
-  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "Вы подпрыгиваете на очень большую высоту и оставляете под собой арену, наносящую урон",
+  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "Вы наносите урон сущностям в радиусе 3 блоков и подпрыгиваете на очень большую высоту",
   "power.epicsorigins.evolved/slime_king/health.name": "Слизень побольше",
   "power.epicsorigins.evolved/slime_king/health.description": "Теперь Вы имеете 14 сердец",
   "power.epicsorigins.evolved/slime_king/color.name": "7 желейных цветов",

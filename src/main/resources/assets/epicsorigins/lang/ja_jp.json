@@ -134,7 +134,7 @@
 
   "power.epicsorigins.mermaid/weakness.name": "地酔い",
 
-  "power.epicsorigins.mermaid/weakness.description": "水から上がるとだんだん遅くなり、衰弱していきます",
+  "power.epicsorigins.mermaid/weakness.description": "水から出るとだんだん遅くなり、衰弱していきます",
 
   "power.epicsorigins.mermaid/look.name": "人魚の表情",
 
@@ -178,11 +178,11 @@
 
   "power.epicsorigins.evolved/slime_king/secondary_ability.name": "ザ・ジャンプ",
 
-  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "非常に高くジャンプし、ダメージを与えるエリアを下に残します",
+  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "半径 3 ブロック内のエンティティにダメージを与え、非常に高くジャンプします",
 
   "power.epicsorigins.evolved/slime_king/health.name": "さらに大きなスライム",
 
-  "power.epicsorigins.evolved/slime_king/health.description": "これでハートが14個になりました",
+  "power.epicsorigins.evolved/slime_king/health.description": "これでハートは14個になりました",
 
   "power.epicsorigins.evolved/slime_king/color.name": "ゼリーカラーは7色",
 
@@ -202,7 +202,7 @@
 
   "power.epicsorigins.evolved/angel/regeneration.name": "聖血",
 
-  "power.epicsorigins.evolved/angel/regeneration.description": "非常に早い回復力を持っています",
+  "power.epicsorigins.evolved/angel/regeneration.description": "非常に早い再生能力を持っています",
 
   "power.epicsorigins.evolved/angel/undead_damage.name": "聖なる武器",
 
@@ -238,7 +238,7 @@
 
   "power.epicsorigins.evolved/asura/armor.name": "ファイアブラッド",
 
-  "power.epicsorigins.evolved/asura/armor.description": "追加の防御力が 8 あります",
+  "power.epicsorigins.evolved/asura/armor.description": "防御力が 8 追加されています",
 
   "power.epicsorigins.evolved/asura/burning_wrath.name": "燃える怒り",
 

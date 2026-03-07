@@ -178,7 +178,7 @@
 
   "power.epicsorigins.evolved/slime_king/secondary_ability.name": "O SALTO",
 
-  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "Você pula muito alto e deixa uma área de dano abaixo de você",
+  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "Você causa dano a entidades em um raio de 3 quarteirões e salta muito alto",
 
   "power.epicsorigins.evolved/slime_king/health.name": "Slime ainda maior",
 
@@ -208,7 +208,7 @@
 
   "power.epicsorigins.evolved/angel/undead_damage.description": "Você causa 2 vezes mais dano a mobs mortos-vivos",
 
-  "power.epicsorigins.evolved/angel/look.name": "Aparência angelical",
+  "power.epicsorigins.evolved/angel/look.name": "Olhar angelical",
 
   "power.epicsorigins.evolved/angel/look.description": "Você tem lindas asas brancas",
 

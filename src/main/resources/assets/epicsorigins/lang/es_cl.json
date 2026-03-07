@@ -124,7 +124,7 @@
 
   "power.epicsorigins.fairy/regeneration.description": "Tienes regeneración natural",
 
-  "power.epicsorigins.fairy/look.name": "mirada de hada",
+  "power.epicsorigins.fairy/look.name": "La mirada del hada",
 
   "power.epicsorigins.fairy/look.description": "tienes alas en la espalda",
 
@@ -156,7 +156,7 @@
 
   "power.epicsorigins.kitsune/speed.description": "Tienes 1.5 mayor velocidad",
 
-  "power.epicsorigins.kitsune/fox_transformation.name": "Apariencia de zorro",
+  "power.epicsorigins.kitsune/fox_transformation.name": "apariencia de zorro",
 
   "power.epicsorigins.kitsune/fox_transformation.description": "Puedes convertirte en un zorro y volver a tu forma humana.",
 
@@ -178,11 +178,11 @@
 
   "power.epicsorigins.evolved/slime_king/secondary_ability.name": "EL SALTO",
 
-  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "Saltas muy alto y dejas un área de daño debajo de ti.",
+  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "Infliges daño a entidades en un radio de 3 cuadras y saltas muy alto.",
 
   "power.epicsorigins.evolved/slime_king/health.name": "Limo aún más grande",
 
-  "power.epicsorigins.evolved/slime_king/health.description": "Ahora tienes 14 corazones",
+  "power.epicsorigins.evolved/slime_king/health.description": "Ahora tienes 14 corazones.",
 
   "power.epicsorigins.evolved/slime_king/color.name": "7 colores de gelatina",
 
@@ -206,7 +206,7 @@
 
   "power.epicsorigins.evolved/angel/undead_damage.name": "arma santa",
 
-  "power.epicsorigins.evolved/angel/undead_damage.description": "Causas 2 veces más daño a los mobs no-muertos.",
+  "power.epicsorigins.evolved/angel/undead_damage.description": "Infliges 2 veces más daño a los mobs no-muertos.",
 
   "power.epicsorigins.evolved/angel/look.name": "mirada angelical",
 

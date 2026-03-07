@@ -86,7 +86,7 @@
 
   "origin.epicsorigins.evolved/nine_tailed_kitsune.name": "Дев'ятихвостий кіцуне",
 
-  "origin.epicsorigins.evolved/nine_tailed_kitsune.description": "Ви перетворилися на стару версію кіцуне. Ваші сили зросли",
+  "origin.epicsorigins.evolved/nine_tailed_kitsune.description": "Ви перетворилися на старішу версію кіцуне. Ваші сили зросли",
 
   "power.epicsorigins.slime/no_kinetic_damage.name": "Стрибке тіло",
 
@@ -134,7 +134,7 @@
 
   "power.epicsorigins.mermaid/weakness.name": "Сухопутна хвороба",
 
-  "power.epicsorigins.mermaid/weakness.description": "Ви стаєте повільнішими та слабшими, коли виходите з води",
+  "power.epicsorigins.mermaid/weakness.description": "Ви стаєте повільнішим і слабшим, коли виходите з води",
 
   "power.epicsorigins.mermaid/look.name": "Погляд русалки",
 
@@ -154,7 +154,7 @@
 
   "power.epicsorigins.kitsune/speed.name": "Вища швидкість",
 
-  "power.epicsorigins.kitsune/speed.description": "У вас швидкість на 1,5 вища",
+  "power.epicsorigins.kitsune/speed.description": "У вас швидкість на 1,5 вище",
 
   "power.epicsorigins.kitsune/fox_transformation.name": "Лисича зовнішність",
 
@@ -178,11 +178,11 @@
 
   "power.epicsorigins.evolved/slime_king/secondary_ability.name": "СТРИБОК",
 
-  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "Ви стрибаєте дуже високо і залишаєте під собою зону, що завдає шкоди",
+  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "Ви завдаєте шкоди об’єктам у радіусі 3 блоків і стрибаєте дуже високо",
 
   "power.epicsorigins.evolved/slime_king/health.name": "Ще більший слиз",
 
-  "power.epicsorigins.evolved/slime_king/health.description": "Тепер у вас є 14 сердечок",
+  "power.epicsorigins.evolved/slime_king/health.description": "Тепер у вас 14 сердечок",
 
   "power.epicsorigins.evolved/slime_king/color.name": "7 желейних кольорів",
 
@@ -226,7 +226,7 @@
 
   "power.epicsorigins.evolved/oceanid/color.name": "Поява духу",
 
-  "power.epicsorigins.evolved/oceanid/color.description": "Ви схожі на духа синьої води",
+  "power.epicsorigins.evolved/oceanid/color.description": "Ти схожий на духа синьої води",
 
   "power.epicsorigins.evolved/asura/primary_ability.name": "Палаюча лють",
 

@@ -178,7 +178,7 @@
 
   "power.epicsorigins.evolved/slime_king/secondary_ability.name": "DER SPRING",
 
-  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "Du springst sehr hoch und lässt Schaden verursachenden Bereich unter dir zurück",
+  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "Du fügst Wesen im Umkreis von 3 Blöcken Schaden zu und springst sehr hoch",
 
   "power.epicsorigins.evolved/slime_king/health.name": "Noch größerer Schleim",
 
@@ -234,7 +234,7 @@
 
   "power.epicsorigins.evolved/asura/secondary_ability.name": "Feueraura",
 
-  "power.epicsorigins.evolved/asura/secondary_ability.description": "Alle in der Nähe befindlichen Einheiten werden eine Zeit lang Feuerschaden erleiden",
+  "power.epicsorigins.evolved/asura/secondary_ability.description": "Alle in der Nähe befindlichen Einheiten erleiden eine Zeit lang Feuerschaden",
 
   "power.epicsorigins.evolved/asura/armor.name": "Feuerblut",
 

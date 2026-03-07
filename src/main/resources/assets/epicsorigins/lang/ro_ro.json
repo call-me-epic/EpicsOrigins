@@ -92,9 +92,9 @@
 
   "power.epicsorigins.slime/no_kinetic_damage.description": "Nu suferi daune din cădere și zbor în pereți",
 
-  "power.epicsorigins.slime/movement.name": "Mișcare de slime",
+  "power.epicsorigins.slime/movement.name": "Mișcarea slime",
 
-  "power.epicsorigins.slime/movement.description": "Arunci de pe podea ca din blocuri de slime",
+  "power.epicsorigins.slime/movement.description": "Sali de pe podea ca din blocuri de slime",
 
   "power.epicsorigins.slime/color.name": "7 culori de jeleu",
 
@@ -132,9 +132,9 @@
 
   "power.epicsorigins.mermaid/swim_speed.description": "Viteza ta de înot este mult crescută",
 
-  "power.epicsorigins.mermaid/weakness.name": "Răul de pământ",
+  "power.epicsorigins.mermaid/weakness.name": "Răul de fond",
 
-  "power.epicsorigins.mermaid/weakness.description": "Deveniți din ce în ce mai încet și mai slab când ieși din apă",
+  "power.epicsorigins.mermaid/weakness.description": "Deveniți din ce în ce mai încet și mai slab când ieșiți din apă",
 
   "power.epicsorigins.mermaid/look.name": "Aspectul de sirenă",
 
@@ -178,7 +178,7 @@
 
   "power.epicsorigins.evolved/slime_king/secondary_ability.name": "SALTUL",
 
-  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "Sari foarte sus și lași zona de daune sub tine",
+  "power.epicsorigins.evolved/slime_king/secondary_ability.description": "Daunele entităților din raza de 3 blocuri și sari foarte sus",
 
   "power.epicsorigins.evolved/slime_king/health.name": "Slime și mai mare",
 
