@@ -41,8 +41,8 @@ public class PlayerLookModel<T extends LivingEntity> extends BipedEntityModel<T>
     }
 
     @Override
-    public void setAngles(T entity, float f, float g, float h, float i, float j) {
-        super.setAngles(entity, f, g, h, i, j);
+    public void setAngles(T entity, float limbAngle, float limbDistance, float animationProgress, float headYaw, float headPitch) {
+        super.setAngles(entity, limbAngle, limbDistance, animationProgress, headYaw, headPitch);
         this.fox_ears.copyTransform(this.head);
         this.demon_horns.copyTransform(this.head);
         this.fox_tail.setTransform(ModelTransform.of(this.body.getTransform().pivotX,
@@ -54,6 +54,10 @@ public class PlayerLookModel<T extends LivingEntity> extends BipedEntityModel<T>
         this.wings.copyTransform(this.body);
         ModelPart left_wing = this.wings.getChild("left_wing");
         ModelPart right_wing = this.wings.getChild("right_wing");
+
+        float wingAngle = (float) Math.sin(animationProgress * 0.0314F) * 0.1F;
+        left_wing.yaw = left_wing.getDefaultTransform().yaw + wingAngle;
+        right_wing.yaw = right_wing.getDefaultTransform().yaw - wingAngle;
 
         ModelPart mermaid_tail2 = this.mermaid_tail.getChild("tail2");
 
@@ -67,8 +71,8 @@ public class PlayerLookModel<T extends LivingEntity> extends BipedEntityModel<T>
         if (k < 1.0f) {
             k = 1.0f;
         }
-        this.mermaid_tail.pitch = (MathHelper.cos((f * 0.6662f)) + 0.4f)* g / k / 8;
-        mermaid_tail2.pitch = MathHelper.cos((f * 0.6662f))* g / k / 4;
+        this.mermaid_tail.pitch = (MathHelper.cos((limbAngle * 0.6662f)) + 0.4f)* limbDistance / k / 8;
+        mermaid_tail2.pitch = MathHelper.cos((limbAngle * 0.6662f))* limbDistance / k / 4;
         this.mermaid_tail.yaw = 0.005f;
         this.mermaid_tail.roll = 0.005f;
         if (this.riding) {
@@ -84,11 +88,11 @@ public class PlayerLookModel<T extends LivingEntity> extends BipedEntityModel<T>
             this.mermaid_tail.pivotY = 12.0f;
         }
         if (this.leaningPitch > 0.0f) {
-            this.mermaid_tail.pitch = MathHelper.lerp(this.leaningPitch, this.mermaid_tail.pitch, (0.15f * MathHelper.cos((f * 0.33333334f))));
-            mermaid_tail2.pitch = MathHelper.lerp(this.leaningPitch, mermaid_tail2.pitch, (0.4f * MathHelper.cos((f * 0.33333334f))));
+            this.mermaid_tail.pitch = MathHelper.lerp(this.leaningPitch, this.mermaid_tail.pitch, (0.15f * MathHelper.cos((limbAngle * 0.33333334f))));
+            mermaid_tail2.pitch = MathHelper.lerp(this.leaningPitch, mermaid_tail2.pitch, (0.4f * MathHelper.cos((limbAngle * 0.33333334f))));
         }
         for (PlayerLookModelManager manager : PlayerLookModelManagerRegistry.modelManagers) {
-            manager.setAngles(entity, f, g, h, i, j, this);
+            manager.setAngles(entity, limbAngle, limbDistance, animationProgress, headYaw, headPitch, this);
         }
 
     }
