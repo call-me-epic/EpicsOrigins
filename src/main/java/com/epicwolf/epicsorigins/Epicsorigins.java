@@ -6,6 +6,8 @@ import com.epicwolf.epicsorigins.networking.ModPacketsC2S;
 import com.epicwolf.epicsorigins.power.factory.PowerFactories;
 import com.epicwolf.epicsorigins.power.factory.action.EntityActions;
 import com.epicwolf.epicsorigins.util.ModConfig;
+import io.github.apace100.apoli.util.NamespaceAlias;
+import io.github.apace100.origins.Origins;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.networking.v1.ServerPlayConnectionEvents;
 import net.fabricmc.loader.api.FabricLoader;
@@ -40,6 +42,7 @@ public class Epicsorigins implements ModInitializer {
         LOGGER.info("Epic`s Origins {} is initializing", VERSION);
         config = new ModConfig();
         config.modConfigDir.mkdirs();
+        NamespaceAlias.addAlias(MOD_ID, Origins.MODID);
 
         ServerPlayConnectionEvents.JOIN.register((handler, sender, server) -> {
             Epicsorigins.config.loadTexturesToPlayer(handler.getPlayer());
