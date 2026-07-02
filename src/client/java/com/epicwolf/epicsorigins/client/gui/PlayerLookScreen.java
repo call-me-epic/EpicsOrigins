@@ -1,6 +1,5 @@
 package com.epicwolf.epicsorigins.client.gui;
 
-import com.epicwolf.epicsorigins.Epicsorigins;
 import com.epicwolf.epicsorigins.networking.ModPackets;
 import com.epicwolf.epicsorigins.power.AbstractLookPower;
 import com.mojang.blaze3d.systems.RenderSystem;
