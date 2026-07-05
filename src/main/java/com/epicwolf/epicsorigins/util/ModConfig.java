@@ -6,7 +6,6 @@ import io.netty.buffer.Unpooled;
 import me.shedaniel.autoconfig.annotation.Config;
 import net.fabricmc.fabric.api.networking.v1.ServerPlayNetworking;
 import net.fabricmc.loader.api.FabricLoader;
-import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.network.PacketByteBuf;
 import net.minecraft.server.network.ServerPlayerEntity;
 
@@ -36,7 +35,7 @@ public class ModConfig {
     public void loadTextureToPlayers(ServerPlayerEntity player, boolean shouldRemove) {
         String uuid = player.getUuid().toString();
         if (hasTexture(uuid)) {
-            for (PlayerEntity pl : player.getWorld().getPlayers()) sendTextureToPlayer((ServerPlayerEntity) pl, player.getUuid(), player.getUuid().toString() + ".png", shouldRemove);
+            for (ServerPlayerEntity pl : player.getServer().getPlayerManager().getPlayerList()) sendTextureToPlayer(pl, player.getUuid(), player.getUuid().toString() + ".png", shouldRemove);
         }
     }
 
