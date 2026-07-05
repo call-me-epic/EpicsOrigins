@@ -24,6 +24,7 @@ public class PowerFactories {
         register(TimeLimitedAttributePower::createFactory);
         register(ActionOnCollidePower::createFactory);
         register(PowerFactories::createAbilityFactory);
+        register(SizePower::createFactory);
     }
 
     private static void register(PowerFactory<?> powerFactory) {
