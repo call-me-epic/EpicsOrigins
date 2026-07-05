@@ -11,6 +11,8 @@ import net.minecraft.client.MinecraftClient;
 import net.minecraft.client.network.ClientPlayNetworkHandler;
 import net.minecraft.client.texture.NativeImage;
 import net.minecraft.client.texture.NativeImageBackedTexture;
+import net.minecraft.client.toast.SystemToast;
+import net.minecraft.client.toast.ToastManager;
 import net.minecraft.network.PacketByteBuf;
 import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
@@ -27,6 +29,7 @@ public class ModPacketsS2C {
         ClientPlayNetworking.registerGlobalReceiver(ModPackets.OPEN_VIEW_ORIGIN_SCREEN, ModPacketsS2C::OpenViewOriginScreen);
         ClientPlayNetworking.registerGlobalReceiver(ModPackets.OPEN_PLAYER_LOOK_SCREEN, ModPacketsS2C::OpenPlayerLookScreen);
         ClientPlayNetworking.registerGlobalReceiver(ModPackets.UPDATE_PLAYER_LOOK_TEXTURE, ModPacketsS2C::UpdatePlayerLookTexture);
+        ClientPlayNetworking.registerGlobalReceiver(ModPackets.SYSTEM_TOAST, ModPacketsS2C::showSystemToast);
     }
 
     public static void OpenViewOriginScreen(MinecraftClient minecraftClient, ClientPlayNetworkHandler handler, PacketByteBuf buf, PacketSender sender) {
@@ -66,6 +69,10 @@ public class ModPacketsS2C {
                 }
             }
         });
+    }
+    public static void showSystemToast(MinecraftClient minecraftClient, ClientPlayNetworkHandler handler, PacketByteBuf buf, PacketSender sender) {
+        ToastManager toastManager = minecraftClient.getToastManager();
+        SystemToast.show(toastManager, SystemToast.Type.PACK_LOAD_FAILURE, buf.readText(), null);
     }
 
 }

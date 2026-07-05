@@ -6,12 +6,15 @@ import io.github.apace100.apoli.component.PowerHolderComponent;
 import io.github.apace100.apoli.power.Power;
 import io.github.apace100.apoli.power.PowerType;
 import io.github.apace100.apoli.power.PowerTypeRegistry;
+import io.netty.buffer.Unpooled;
+import io.netty.handler.codec.EncoderException;
 import net.fabricmc.fabric.api.networking.v1.PacketSender;
 import net.fabricmc.fabric.api.networking.v1.ServerPlayNetworking;
 import net.minecraft.network.PacketByteBuf;
 import net.minecraft.server.MinecraftServer;
 import net.minecraft.server.network.ServerPlayNetworkHandler;
 import net.minecraft.server.network.ServerPlayerEntity;
+import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
 
 public class ModPacketsC2S {
@@ -22,10 +25,21 @@ public class ModPacketsC2S {
             boolean shouldRemove = buf.readBoolean();
             String url = buf.readString();
             try {
-                if (!shouldRemove && !url.isBlank()) Epicsorigins.config.downloadTexture(serverPlayer.getUuid().toString(), url);
-                Epicsorigins.config.loadTextureToPlayers(serverPlayer, shouldRemove);
+                String texture = "";
+                if (!shouldRemove && !url.isBlank()) {
+                    Epicsorigins.config.downloadTexture(serverPlayer.getUuid().toString(), url);
+                    texture = Epicsorigins.config.getTexture(serverPlayer.getUuid().toString() + ".png");
+                }
+                if (texture.length() > 32767) {
+                    ServerPlayNetworking.send(serverPlayer, ModPackets.SYSTEM_TOAST, new PacketByteBuf(Unpooled.buffer()).writeText(Text.translatable("message.epicsorigins.too_big_texture")));
+                    Epicsorigins.config.deleteTexture(serverPlayer.getUuid().toString());
+                }
+                else Epicsorigins.config.loadTextureToPlayers(serverPlayer, shouldRemove);
             } catch (Exception e) {
-                Epicsorigins.LOGGER.error("Could not download texture from url of player clipboard");
+                Epicsorigins.LOGGER.error("Could not download texture from url of player clipboard: {}", String.valueOf(e));
+                if (e instanceof  IllegalArgumentException) {
+                    ServerPlayNetworking.send(serverPlayer, ModPackets.SYSTEM_TOAST, new PacketByteBuf(Unpooled.buffer()).writeText(Text.translatable("message.epicsorigins.incorrect_url")));
+                }
             }
         });
     }

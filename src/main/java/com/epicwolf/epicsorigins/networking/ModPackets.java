@@ -11,4 +11,5 @@ public class ModPackets {
     public static final Identifier TOGGLE_PLAYER_LOOK_POWER = Epicsorigins.identifier("toggle_player_look_power");
     public static final Identifier UPDATE_PLAYER_LOOK_TEXTURE = Epicsorigins.identifier("update_player_look_texture");
     public static final Identifier SEND_PLAYER_LOOK_TEXTURE = Epicsorigins.identifier("send_player_look_texture");
+    public static final Identifier SYSTEM_TOAST = Epicsorigins.identifier("system_toast");
 }
