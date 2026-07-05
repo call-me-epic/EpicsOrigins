@@ -39,10 +39,10 @@ public class ModPacketsC2S {
         minecraftServer.execute(() -> {
             PowerHolderComponent component = PowerHolderComponent.KEY.get(playerEntity);
             boolean shouldRender = ((AbstractLookPower) component.getPower(PowerTypeRegistry.get(powerIds[0]))).isShouldRender();
-            for(Identifier id : powerIds) {
+            for (Identifier id : powerIds) {
                 PowerType<?> type = PowerTypeRegistry.get(id);
                 Power power = component.getPower(type);
-                if(power instanceof AbstractLookPower lookPower) {
+                if (power instanceof AbstractLookPower lookPower) {
                     lookPower.setShouldRender(!shouldRender);
                 }
                 PowerHolderComponent.sync(playerEntity);
