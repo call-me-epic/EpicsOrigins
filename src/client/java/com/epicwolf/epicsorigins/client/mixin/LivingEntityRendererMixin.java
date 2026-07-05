@@ -1,6 +1,7 @@
 package com.epicwolf.epicsorigins.client.mixin;
 
 import com.epicwolf.epicsorigins.power.EntityTransformationPower;
+import com.epicwolf.epicsorigins.power.SizePower;
 import io.github.apace100.apoli.component.PowerHolderComponent;
 import net.minecraft.client.MinecraftClient;
 import net.minecraft.client.render.VertexConsumerProvider;
@@ -49,6 +50,17 @@ public abstract class LivingEntityRendererMixin<T extends LivingEntity, M extend
                     entity = null;
                 }
             }
+        }
+    }
+    @Inject(method = "render*", at = @At(value = "INVOKE", target = "Lnet/minecraft/client/render/entity/LivingEntityRenderer;scale(Lnet/minecraft/entity/LivingEntity;Lnet/minecraft/client/util/math/MatrixStack;F)V"))
+    private void modifySize(T livingEntity, float f, float g, MatrixStack matrixStack,
+                            VertexConsumerProvider vertexConsumerProvider, int i, CallbackInfo ci) {
+        if (PowerHolderComponent.hasPower(livingEntity, SizePower.class)) {
+            SizePower power = PowerHolderComponent.getPowers(livingEntity, SizePower.class).get(0);
+            float width = power.getWidth() <= 0 ? 1 : power.getWidth();
+            float height = power.getHeight() <= 0 ? 1 : power.getHeight();
+            float size = power.getSize();
+            matrixStack.scale(width*size, height*size, width*size);
         }
     }
 
