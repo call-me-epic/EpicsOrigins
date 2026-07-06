@@ -6,6 +6,10 @@
 
   "message.epicsorigins.no_further_upgrades": "Ihr Ursprung hat keine weiteren Entwicklungen",
 
+  "message.epicsorigins.too_big_texture": "Zu große Texturgröße",
+
+  "message.epicsorigins.incorrect_url": "Falsche Bild-URL",
+
   "category.epicsorigins": "Die Ursprünge von Epic",
 
   "key.epicsorigins.change_look": "Aussehen ändern",
@@ -170,7 +174,7 @@
 
   "power.epicsorigins.evolved/super_human/primary_ability.name": "Zweiter Atemzug",
 
-  "power.epicsorigins.evolved/super_human/primary_ability.description": "Sie stellen die volle Gesundheit und den Hunger wieder her und beseitigen alle Ihre Effekte",
+  "power.epicsorigins.evolved/super_human/primary_ability.description": "Sie stellen die volle Gesundheit und den Hunger wieder her und beseitigen alle Ihre Auswirkungen",
 
   "power.epicsorigins.evolved/slime_king/primary_ability.name": "Schleimgeschosse",
 
@@ -218,7 +222,7 @@
 
   "power.epicsorigins.evolved/oceanid/secondary_ability.name": "Wetterkontrolle",
 
-  "power.epicsorigins.evolved/oceanid/secondary_ability.description": "Sie können das Wetter auf Regen umstellen oder das Wetter löschen, wenn es regnet",
+  "power.epicsorigins.evolved/oceanid/secondary_ability.description": "Sie können das Wetter auf „Regen“ umstellen oder das Wetter löschen, wenn es regnet",
 
   "power.epicsorigins.evolved/oceanid/long_breathing.name": "Langes Atmen",
 

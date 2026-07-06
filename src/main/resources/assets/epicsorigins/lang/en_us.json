@@ -3,6 +3,8 @@
   "advancement.end.draconic_evolution.description": "Use the orb of evolution",
 
   "message.epicsorigins.no_further_upgrades": "Your origin has no further evolutions",
+  "message.epicsorigins.too_big_texture": "Too big texture size",
+  "message.epicsorigins.incorrect_url": "Incorrect image url",
 
   "category.epicsorigins": "Epic`s origins",
   "key.epicsorigins.change_look": "Change look",

@@ -6,6 +6,10 @@
 
   "message.epicsorigins.no_further_upgrades": "Alkuperälläsi ei ole enempää kehitystä",
 
+  "message.epicsorigins.too_big_texture": "Liian suuri tekstuurin koko",
+
+  "message.epicsorigins.incorrect_url": "Väärä kuvan URL-osoite",
+
   "category.epicsorigins": "Eepoksen alkuperä",
 
   "key.epicsorigins.change_look": "Muuta ulkoasua",
@@ -98,7 +102,7 @@
 
   "power.epicsorigins.slime/color.name": "7 hyytelöväriä",
 
-  "power.epicsorigins.slime/color.description": "Voit vaihtaa väriäsi tai poistaa sen milloin tahansa",
+  "power.epicsorigins.slime/color.description": "Voit vaihtaa väriäsi tai poistaa sen milloin haluat",
 
   "power.epicsorigins.slime/health.name": "Iso lima",
 
@@ -118,7 +122,7 @@
 
   "power.epicsorigins.fairy/weakness.name": "Heikot kädet",
 
-  "power.epicsorigins.fairy/weakness.description": "Vahinkosi jaetaan 3:lla",
+  "power.epicsorigins.fairy/weakness.description": "Vahinkosi jaetaan kolmella",
 
   "power.epicsorigins.fairy/regeneration.name": "Maaginen veri",
 
@@ -132,7 +136,7 @@
 
   "power.epicsorigins.mermaid/swim_speed.description": "Uintinopeus on kasvanut huomattavasti",
 
-  "power.epicsorigins.mermaid/weakness.name": "Pahoinvointi",
+  "power.epicsorigins.mermaid/weakness.name": "Maasairaus",
 
   "power.epicsorigins.mermaid/weakness.description": "Olet hitaampi ja heikompi, kun nouset vedestä",
 
@@ -186,7 +190,7 @@
 
   "power.epicsorigins.evolved/slime_king/color.name": "7 hyytelöväriä",
 
-  "power.epicsorigins.evolved/slime_king/color.description": "Voit vaihtaa väriäsi tai poistaa sen milloin tahansa",
+  "power.epicsorigins.evolved/slime_king/color.description": "Voit vaihtaa väriäsi tai poistaa sen milloin haluat",
 
   "power.epicsorigins.evolved/angel/primary_ability.name": "Puhdistaa",
 

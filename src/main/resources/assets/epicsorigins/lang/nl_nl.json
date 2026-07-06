@@ -6,6 +6,10 @@
 
   "message.epicsorigins.no_further_upgrades": "Jouw oorsprong kent geen verdere evoluties",
 
+  "message.epicsorigins.too_big_texture": "Te grote textuurgrootte",
+
+  "message.epicsorigins.incorrect_url": "Onjuiste afbeeldings-URL",
+
   "category.epicsorigins": "Epische oorsprong",
 
   "key.epicsorigins.change_look": "Verander het uiterlijk",

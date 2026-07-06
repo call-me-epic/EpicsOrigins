@@ -6,6 +6,10 @@
 
   "message.epicsorigins.no_further_upgrades": "La tua origine non ha ulteriori evoluzioni",
 
+  "message.epicsorigins.too_big_texture": "Dimensioni della trama troppo grandi",
+
+  "message.epicsorigins.incorrect_url": "URL dell'immagine errato",
+
   "category.epicsorigins": "Le origini dell'epica",
 
   "key.epicsorigins.change_look": "Cambia aspetto",
@@ -162,7 +166,7 @@
 
   "power.epicsorigins.kitsune/wolf_fear.name": "Paura del lupo",
 
-  "power.epicsorigins.kitsune/wolf_fear.description": "I lupi ti attaccheranno sempre e ti indebolisci vicino a loro",
+  "power.epicsorigins.kitsune/wolf_fear.description": "I lupi ti attaccheranno sempre e ti stai indebolendo vicino a loro",
 
   "power.epicsorigins.kitsune/look.name": "Lo sguardo di Kitsune",
 

@@ -6,6 +6,10 @@
 
   "message.epicsorigins.no_further_upgrades": "Kökeninizin başka evrimi yok",
 
+  "message.epicsorigins.too_big_texture": "Doku boyutu çok büyük",
+
+  "message.epicsorigins.incorrect_url": "Yanlış resim URL'si",
+
   "category.epicsorigins": "Epic'in kökenleri",
 
   "key.epicsorigins.change_look": "Görünümü değiştir",
@@ -20,7 +24,7 @@
 
   "ui.epicsorigins.look_screen.title": "Oyuncu görünümü",
 
-  "ui.epicsorigins.look_screen.looks": "Görünüş",
+  "ui.epicsorigins.look_screen.looks": "Looks",
 
   "ui.epicsorigins.look_screen.textures": "Özel dokular",
 
@@ -54,7 +58,7 @@
 
   "origin.epicsorigins.mermaid.name": "Deniz kızı",
 
-  "origin.epicsorigins.mermaid.description": "Deniz kızları insan yüzlü ve balık kuyruklu efsanevi yaratıklardır.",
+  "origin.epicsorigins.mermaid.description": "Deniz kızları, insan yüzlü ve balık kuyruklu efsanevi yaratıklardır.",
 
   "origin.epicsorigins.demon.name": "Şeytan",
 

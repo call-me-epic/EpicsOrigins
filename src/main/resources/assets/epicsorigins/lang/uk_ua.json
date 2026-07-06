@@ -6,6 +6,10 @@
 
   "message.epicsorigins.no_further_upgrades": "Ваше походження не має подальших еволюцій",
 
+  "message.epicsorigins.too_big_texture": "Занадто великий розмір текстури",
+
+  "message.epicsorigins.incorrect_url": "Неправильна URL-адреса зображення",
+
   "category.epicsorigins": "Походження епосу",
 
   "key.epicsorigins.change_look": "Змінити вигляд",
@@ -134,7 +138,7 @@
 
   "power.epicsorigins.mermaid/weakness.name": "Сухопутна хвороба",
 
-  "power.epicsorigins.mermaid/weakness.description": "Ви стаєте повільнішим і слабшим, коли виходите з води",
+  "power.epicsorigins.mermaid/weakness.description": "Ви стаєте повільнішими та слабшими, коли виходите з води",
 
   "power.epicsorigins.mermaid/look.name": "Погляд русалки",
 
@@ -174,7 +178,7 @@
 
   "power.epicsorigins.evolved/slime_king/primary_ability.name": "Слизові кулі",
 
-  "power.epicsorigins.evolved/slime_king/primary_ability.description": "Ви кидаєте 5 слизових куль, які завдають 2 пошкоджень",
+  "power.epicsorigins.evolved/slime_king/primary_ability.description": "Ви вистрілюєте 5 слизових куль, які завдають 2 пошкоджень",
 
   "power.epicsorigins.evolved/slime_king/secondary_ability.name": "СТРИБОК",
 
@@ -238,7 +242,7 @@
 
   "power.epicsorigins.evolved/asura/armor.name": "Вогняна кров",
 
-  "power.epicsorigins.evolved/asura/armor.description": "У вас є додатковий захист 8",
+  "power.epicsorigins.evolved/asura/armor.description": "У вас є 8 додаткових захистів",
 
   "power.epicsorigins.evolved/asura/burning_wrath.name": "Палаючий гнів",
 

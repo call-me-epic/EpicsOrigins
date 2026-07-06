@@ -6,6 +6,10 @@
 
   "message.epicsorigins.no_further_upgrades": "למקור שלך אין אבולוציות נוספות",
 
+  "message.epicsorigins.too_big_texture": "גודל מרקם גדול מדי",
+
+  "message.epicsorigins.incorrect_url": "כתובת אתר לא נכונה של תמונה",
+
   "category.epicsorigins": "מקורות האפוס",
 
   "key.epicsorigins.change_look": "שנה מראה",
@@ -46,7 +50,7 @@
 
   "origin.epicsorigins.slime.name": "רֶפֶשׁ",
 
-  "origin.epicsorigins.slime.description": "אז, עכשיו אתה קופצני",
+  "origin.epicsorigins.slime.description": "אז עכשיו אתה קופצני",
 
   "origin.epicsorigins.fairy.name": "פֵיָה",
 
@@ -172,7 +176,7 @@
 
   "power.epicsorigins.evolved/super_human/primary_ability.description": "אתה משחזר את הבריאות המלאה, הרעב ומנקה את כל ההשפעות שלך",
 
-  "power.epicsorigins.evolved/slime_king/primary_ability.name": "Slime bullets",
+  "power.epicsorigins.evolved/slime_king/primary_ability.name": "כדורי סליים",
 
   "power.epicsorigins.evolved/slime_king/primary_ability.description": "אתה יורה 5 כדורי סליים שגורמים 2 נזקים",
 
@@ -234,7 +238,7 @@
 
   "power.epicsorigins.evolved/asura/secondary_ability.name": "הילת אש",
 
-  "power.epicsorigins.evolved/asura/secondary_ability.description": "כל הישויות הקרובות יסבלו נזקי שריפה למשך זמן מה",
+  "power.epicsorigins.evolved/asura/secondary_ability.description": "כל הישויות הסמוכות יסבלו נזקי שריפה למשך זמן מה",
 
   "power.epicsorigins.evolved/asura/armor.name": "דם אש",
 

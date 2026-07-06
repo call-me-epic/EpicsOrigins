@@ -3,6 +3,8 @@
   "advancement.end.draconic_evolution.description": "Используйте Сферу эволюции",
 
   "message.epicsorigins.no_further_upgrades": "Ваше происхождение больше не имеет дальнейших эволюций",
+  "message.epicsorigins.too_big_texture": "Слишком большой размер текстуры",
+  "message.epicsorigins.incorrect_url": "Некорректная ссылка на изображение",
 
   "category.epicsorigins": "Epic`s origins",
   "key.epicsorigins.change_look": "Переключение облика",

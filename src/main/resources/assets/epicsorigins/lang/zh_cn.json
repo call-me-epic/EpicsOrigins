@@ -6,6 +6,10 @@
 
   "message.epicsorigins.no_further_upgrades": "你的起源没有进一步的进化",
 
+  "message.epicsorigins.too_big_texture": "纹理尺寸太大",
+
+  "message.epicsorigins.incorrect_url": "图片网址不正确",
+
   "category.epicsorigins": "史诗的起源",
 
   "key.epicsorigins.change_look": "改变外观",
@@ -14,11 +18,11 @@
 
   "ui.epicsorigins.look_screen.toggle_all_looks": "全部切换",
 
-  "ui.epicsorigins.look_screen.load_texture": "加载纹理",
+  "ui.epicsorigins.look_screen.load_texture": "Load texture",
 
   "ui.epicsorigins.look_screen.delete_texture": "删除纹理",
 
-  "ui.epicsorigins.look_screen.title": "玩家表情",
+  "ui.epicsorigins.look_screen.title": "Player look",
 
   "ui.epicsorigins.look_screen.looks": "看起来",
 
@@ -54,11 +58,11 @@
 
   "origin.epicsorigins.mermaid.name": "美人鱼",
 
-  "origin.epicsorigins.mermaid.description": "美人鱼是具有人脸和鱼尾的神话生物",
+  "origin.epicsorigins.mermaid.description": "Mermaids are mythical creatures with human faces and fish tails",
 
   "origin.epicsorigins.demon.name": "恶魔",
 
-  "origin.epicsorigins.demon.description": "你因罪孽而被放逐到下界，但也有一些好处",
+  "origin.epicsorigins.demon.description": "You were banished into the Nether for your sins, but with some advantages",
 
   "origin.epicsorigins.kitsune.name": "狐狸",
 
@@ -80,7 +84,7 @@
 
   "origin.epicsorigins.evolved/oceanid.description": "你进化成可以操控水的水精灵",
 
-  "origin.epicsorigins.evolved/asura.name": "阿修罗",
+  "origin.epicsorigins.evolved/asura.name": "Asura",
 
   "origin.epicsorigins.evolved/asura.description": "你进化成了火魔",
 
@@ -218,7 +222,7 @@
 
   "power.epicsorigins.evolved/oceanid/secondary_ability.name": "天气控制",
 
-  "power.epicsorigins.evolved/oceanid/secondary_ability.description": "您可以将天气更改为下雨或在下雨时将天气晴朗",
+  "power.epicsorigins.evolved/oceanid/secondary_ability.description": "您可以将天气改为下雨，或者在下雨时将天气晴朗",
 
   "power.epicsorigins.evolved/oceanid/long_breathing.name": "长呼吸",
 
@@ -238,7 +242,7 @@
 
   "power.epicsorigins.evolved/asura/armor.name": "火血",
 
-  "power.epicsorigins.evolved/asura/armor.description": "你有 8 点额外防御",
+  "power.epicsorigins.evolved/asura/armor.description": "你有 8 额外防御",
 
   "power.epicsorigins.evolved/asura/burning_wrath.name": "燃烧的愤怒",
 
@@ -258,5 +262,5 @@
 
   "power.epicsorigins.evolved/nine_tailed_kitsune/secondary_ability.name": "狐狸错觉",
 
-  "power.epicsorigins.evolved/nine_tailed_kitsune/secondary_ability.description": "你消失在幻象中并削弱 6 格半径内的所有实体"
+  "power.epicsorigins.evolved/nine_tailed_kitsune/secondary_ability.description": "你消失在幻象中并削弱6格半径内的所有实体"
 }

@@ -6,6 +6,10 @@
 
   "message.epicsorigins.no_further_upgrades": "Tu origen no tiene más evoluciones.",
 
+  "message.epicsorigins.too_big_texture": "Tamaño de textura demasiado grande",
+
+  "message.epicsorigins.incorrect_url": "URL de imagen incorrecta",
+
   "category.epicsorigins": "Los orígenes de la epopeya",
 
   "key.epicsorigins.change_look": "cambiar de look",
@@ -124,7 +128,7 @@
 
   "power.epicsorigins.fairy/regeneration.description": "Tienes regeneración natural",
 
-  "power.epicsorigins.fairy/look.name": "La mirada del hada",
+  "power.epicsorigins.fairy/look.name": "mirada de hada",
 
   "power.epicsorigins.fairy/look.description": "tienes alas en la espalda",
 
@@ -156,7 +160,7 @@
 
   "power.epicsorigins.kitsune/speed.description": "Tienes 1.5 mayor velocidad",
 
-  "power.epicsorigins.kitsune/fox_transformation.name": "apariencia de zorro",
+  "power.epicsorigins.kitsune/fox_transformation.name": "Apariencia de zorro",
 
   "power.epicsorigins.kitsune/fox_transformation.description": "Puedes convertirte en un zorro y volver a tu forma humana.",
 
@@ -204,9 +208,9 @@
 
   "power.epicsorigins.evolved/angel/regeneration.description": "Tienes una regeneración muy rápida.",
 
-  "power.epicsorigins.evolved/angel/undead_damage.name": "arma santa",
+  "power.epicsorigins.evolved/angel/undead_damage.name": "arma sagrada",
 
-  "power.epicsorigins.evolved/angel/undead_damage.description": "Infliges 2 veces más daño a los mobs no-muertos.",
+  "power.epicsorigins.evolved/angel/undead_damage.description": "Causas 2 veces más daño a los mobs no-muertos.",
 
   "power.epicsorigins.evolved/angel/look.name": "mirada angelical",
 

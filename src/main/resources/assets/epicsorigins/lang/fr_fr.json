@@ -6,6 +6,10 @@
 
   "message.epicsorigins.no_further_upgrades": "Votre origine n'a plus d'évolutions",
 
+  "message.epicsorigins.too_big_texture": "Taille de texture trop grande",
+
+  "message.epicsorigins.incorrect_url": "URL de l'image incorrecte",
+
   "category.epicsorigins": "Les origines d'Epic",
 
   "key.epicsorigins.change_look": "Changer de look",
@@ -78,7 +82,7 @@
 
   "origin.epicsorigins.evolved/oceanid.name": "Océanide",
 
-  "origin.epicsorigins.evolved/oceanid.description": "Vous avez évolué pour devenir un esprit de l'eau capable de contrôler l'eau.",
+  "origin.epicsorigins.evolved/oceanid.description": "Vous avez évolué vers un esprit de l'eau capable de contrôler l'eau.",
 
   "origin.epicsorigins.evolved/asura.name": "Asura",
 
@@ -154,7 +158,7 @@
 
   "power.epicsorigins.kitsune/speed.name": "Vitesse plus élevée",
 
-  "power.epicsorigins.kitsune/speed.description": "Vous avez une vitesse 1,5 supérieure",
+  "power.epicsorigins.kitsune/speed.description": "Vous avez une vitesse 1,5 plus élevée",
 
   "power.epicsorigins.kitsune/fox_transformation.name": "Apparition du renard",
 
@@ -174,7 +178,7 @@
 
   "power.epicsorigins.evolved/slime_king/primary_ability.name": "Balles visqueuses",
 
-  "power.epicsorigins.evolved/slime_king/primary_ability.description": "Vous tirez 5 boules de slime qui infligent 2 dégâts",
+  "power.epicsorigins.evolved/slime_king/primary_ability.description": "You shoot 5 slime balls that deal 2 damage",
 
   "power.epicsorigins.evolved/slime_king/secondary_ability.name": "LE SAUT",
 

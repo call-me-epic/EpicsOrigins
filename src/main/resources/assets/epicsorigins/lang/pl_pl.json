@@ -6,6 +6,10 @@
 
   "message.epicsorigins.no_further_upgrades": "Twoje pochodzenie nie podlega dalszej ewolucji",
 
+  "message.epicsorigins.too_big_texture": "Zbyt duży rozmiar tekstury",
+
+  "message.epicsorigins.incorrect_url": "Nieprawidłowy adres URL obrazu",
+
   "category.epicsorigins": "Początki Epic",
 
   "key.epicsorigins.change_look": "Zmień wygląd",
@@ -74,7 +78,7 @@
 
   "origin.epicsorigins.evolved/angel.name": "Anioł",
 
-  "origin.epicsorigins.evolved/angel.description": "Wyewoluowaliście w boską rasę ze skrzydłami i świętymi mocami",
+  "origin.epicsorigins.evolved/angel.description": "Wyewoluowaliście w boską rasę ze skrzydłami i świętą mocą",
 
   "origin.epicsorigins.evolved/oceanid.name": "Oceanida",
 

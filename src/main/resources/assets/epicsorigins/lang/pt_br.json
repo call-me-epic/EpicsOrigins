@@ -6,6 +6,10 @@
 
   "message.epicsorigins.no_further_upgrades": "Sua origem não tem mais evoluções",
 
+  "message.epicsorigins.too_big_texture": "Tamanho de textura muito grande",
+
+  "message.epicsorigins.incorrect_url": "URL da imagem incorreto",
+
   "category.epicsorigins": "As origens do épico",
 
   "key.epicsorigins.change_look": "Mudar aparência",
@@ -208,7 +212,7 @@
 
   "power.epicsorigins.evolved/angel/undead_damage.description": "Você causa 2 vezes mais dano a mobs mortos-vivos",
 
-  "power.epicsorigins.evolved/angel/look.name": "Olhar angelical",
+  "power.epicsorigins.evolved/angel/look.name": "Aparência angelical",
 
   "power.epicsorigins.evolved/angel/look.description": "Você tem lindas asas brancas",
 

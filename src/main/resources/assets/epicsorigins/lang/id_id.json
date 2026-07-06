@@ -6,6 +6,10 @@
 
   "message.epicsorigins.no_further_upgrades": "Asal usul Anda tidak memiliki evolusi lebih lanjut",
 
+  "message.epicsorigins.too_big_texture": "Ukuran tekstur terlalu besar",
+
+  "message.epicsorigins.incorrect_url": "Url gambar salah",
+
   "category.epicsorigins": "Asal usul epik",
 
   "key.epicsorigins.change_look": "Ubah tampilan",
