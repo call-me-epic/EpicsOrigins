@@ -13,6 +13,8 @@ import net.minecraft.client.gui.widget.ButtonWidget;
 import net.minecraft.client.gui.widget.TextWidget;
 import net.minecraft.client.render.DiffuseLighting;
 import net.minecraft.client.render.entity.EntityRenderDispatcher;
+import net.minecraft.client.toast.SystemToast;
+import net.minecraft.client.toast.ToastManager;
 import net.minecraft.entity.LivingEntity;
 import net.minecraft.network.PacketByteBuf;
 import net.minecraft.text.Text;
@@ -143,9 +145,15 @@ public class PlayerLookScreen extends Screen {
     }
     private void loadTextureByURL() {
         String url = GLFW.glfwGetClipboardString(client.getWindow().getHandle());
-        PacketByteBuf buf = new PacketByteBuf(Unpooled.buffer().writeBoolean(false));
-        buf.writeString(url);
-        ClientPlayNetworking.send(ModPackets.SEND_PLAYER_LOOK_TEXTURE, buf);
+        if (url == null) {
+            ToastManager toastManager = client.getToastManager();
+            SystemToast.show(toastManager, SystemToast.Type.PACK_LOAD_FAILURE, Text.translatable("message.epicsorigins.incorrect_url"), null);
+        }
+        else {
+            PacketByteBuf buf = new PacketByteBuf(Unpooled.buffer().writeBoolean(false));
+            buf.writeString(url);
+            ClientPlayNetworking.send(ModPackets.SEND_PLAYER_LOOK_TEXTURE, buf);
+        }
     }
     private void deleteTexture() {
         PacketByteBuf buf = new PacketByteBuf(Unpooled.buffer().writeBoolean(true));
